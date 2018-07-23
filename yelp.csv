@@ -1,0 +1,931 @@
+,title,rating,review_num,locations
+0,Amelie,4.5,2089,Tompkinsville
+1,Upstate,4.5,1557,GreenwichVillage
+2,Burger & Lobster,4.0,4403,EastVillage
+3,nonono,4.5,62,Flatiron
+4,Jane,4.0,2896,MidtownEast
+5,Dutch Freds,4.5,850,GreenwichVillage
+6,The Smith,4.0,2056,TheaterDistrict
+7,Tanner Smiths,4.0,1163,MidtownEast
+8,Jacobs Pickles,4.0,3143,MidtownWest
+9,Bea,4.0,1857,UpperWestSide
+10,Jacks Wife Freda,4.0,1569,MidtownWest
+11,Carmines Italian Restaurant,4.0,3005,SoHo
+12,Root & Bone,4.0,1348,TheaterDistrict
+13,The Alcove,5.0,419,AlphabetCity
+14,Joes Shanghai,4.0,5242,Woodside
+15,Raku,5.0,36,Chinatown
+16,Gramercy Tavern,4.5,2509,SouthVillage
+17,Suspenders Restaurant & Bar,4.0,180,Flatiron
+18,Buttermilk Channel,4.0,1704,FinancialDistrict
+19,The Boil,4.5,1646,CarrollGardens
+20,Uglyduckling,4.0,354,LowerEastSide
+21,Corazon De Mexico Restaurant & Bar,3.5,16,CobbleHill
+22,Thai Villa,4.5,1736,HuntersPoint
+23,Cookshop,4.0,1839,Flatiron
+24,Sweet Chick,4.0,1239,Chelsea
+25,Park Avenue Tavern,4.0,629,LowerEastSide
+26,Di An Di,4.0,36,MurrayHill
+27,Soco,4.0,1796,Greenpoint
+28,Buddakan,4.0,3472,ClintonHill
+29,Tsurutontan Udon Noodle Brasserie - Midtown,3.5,45,MeatpackingDistrict
+30,Lukes Lobster FiDi,4.5,955,Tompkinsville
+31,Atrium Dumbo,3.5,532,FinancialDistrict
+32,The Malt House,4.0,354,DUMBO
+33,Lamano West Village,4.0,9,FinancialDistrict
+34,Momofuku Ssam Bar,4.0,2244,WestVillage
+35,Calle Ocho,4.0,2326,EastVillage
+36,Distilled,4.0,685,UpperWestSide
+37,ABC Kitchen,4.0,2697,TriBeCa
+38,Bistro Pierre Lapin,4.0,16,Flatiron
+39,Oxomoco,4.0,34,WestVillage
+40,Uva,4.0,2022,Greenpoint
+41,LArtusi,4.5,1506,UpperEastSide
+42,Beauty & Essex,4.0,2898,WestVillage
+43,Trattoria Trecolori,4.0,1792,LowerEastSide
+44,Parker & Quinn,4.0,1064,TheaterDistrict
+45,The River Cafe,4.0,920,MidtownWest
+46,The Milling Room,4.5,336,DUMBO
+47,Yaso Tangbao,4.0,593,UpperWestSide
+48,Balthazar Restaurant,4.0,2673,DowntownBrooklyn
+49,La Sirene,4.5,1480,SoHo
+50,Blue Ribbon Brasserie - SoHo,4.5,857,SouthVillage
+51,Cask Bar & Kitchen,4.0,1219,SouthVillage
+52,Scarpetta,4.0,1657,MurrayHill
+53,Jora Restaurant & Bar,4.5,410,Flatiron
+54,Heidis House By The Side Of The Road,4.5,545,HuntersPoint
+55,Ipanema Restaurant,4.0,1001,UpperEastSide
+56,The Little Owl,4.0,1188,MidtownWest
+57,PMF Pardon My French,4.0,711,WestVillage
+58,Da Claudio,4.5,319,AlphabetCity
+59,Foragers Table,4.0,470,FinancialDistrict
+60,Locanda Verde,4.0,1450,Tompkinsville
+61,Extra Virgin,4.0,1139,TriBeCa
+62,Aunt Jakes,4.0,799,WestVillage
+63,Friedmans,4.0,1796,LittleItaly
+64,TongKatsu,5.0,125,MidtownWest
+65,Breakroom,4.5,1388,LowerEastSide
+66,Red Hook Lobster Pound,4.0,874,Chinatown
+67,Trading Post,4.0,317,RedHook
+68,Eataly,4.0,4960,SouthStreetSeaport
+69,Casa Enrique,4.0,930,Flatiron
+70,Havana Social - Hells Kitchen,4.0,732,HuntersPoint
+71,191 Knickerbocker,5.0,24,Hell'sKitchen
+72,Jacks Wife Freda,4.0,652,Bushwick
+73,Lillies Victorian Establishment,4.0,1234,WestVillage
+74,Tasty Hand-Pulled Noodles,4.0,1399,TheaterDistrict
+75,Crescent Grill,4.5,259,Chinatown
+76,Midwinter Kitchen,4.5,384,LongIslandCity
+77,Sugar Freak,4.0,1397,Gramercy
+78,Trademark Taste + Grind,4.5,439,Astoria
+79,Upland,4.0,761,MidtownWest
+80,Pig and Khao,4.0,1271,Flatiron
+81,Pies-n-Thighs,4.0,2526,LowerEastSide
+82,Momofuku Nishi,4.0,421,Williamsburg-SouthSide
+83,Rabbit House,4.5,150,Chelsea
+84,BlackTail,4.5,195,LowerEastSide
+85,Jayleens Special Mediterranean Cuisine,4.5,25,BatteryPark
+86,Hard Times,4.0,316,FinancialDistrict
+87,Ichabods,4.0,531,UnionSquare
+88,The Flatiron Room,4.5,666,Flatiron
+89,Juniors Cheesecake,4.0,3557,TheaterDistrict
+90,The Beast Next Door,4.5,141,Tompkinsville
+91,Cuba Restaurant and Rum Bar,4.0,1382,LongIslandCity
+92,Zeytin Mediterranean,4.5,37,GreenwichVillage
+93,District Social,4.0,408,FinancialDistrict
+94,Antica Ristorante,4.5,392,MidtownWest
+95,Marc Forgione,4.0,839,FinancialDistrict
+96,MangoSeed Restaurant,4.0,699,TriBeCa
+97,Peaches HotHouse,4.0,965,Flatbush
+98,Thursday Kitchen,4.5,903,BedfordStuyvesant
+99,Traif,4.5,1752,EastVillage
+100,LoveMama,4.0,3332,Williamsburg-SouthSide
+101,Despana,4.5,505,EastVillage
+102,Cafe Habana,4.0,3012,SoHo
+103,OBAO,4.0,1785,Nolita
+104,Pio Pio 8,4.0,2048,MidtownWest
+105,Los Tacos No.1,4.5,2269,Hell'sKitchen
+106,Mariella,4.5,250,MeatpackingDistrict
+107,ilili,4.0,2104,SouthSlope
+108,Saigon Shack,4.0,2084,Flatiron
+109,Galli Restaurant,4.0,736,GreenwichVillage
+110,Stone Park Cafe,4.0,835,SoHo
+111,Maiella,4.0,612,ParkSlope
+112,Fishmarket Restaurant,4.5,440,HuntersPoint
+113,Tribecas Kitchen,4.0,318,SouthStreetSeaport
+114,Ippudo Westside,4.0,3171,TriBeCa
+115,Hunan Slurp,4.5,55,TheaterDistrict
+116,The Mermaid Inn,4.0,932,EastVillage
+117,Sweet Chick,4.0,1641,UpperWestSide
+118,Babbo,4.0,2213,Williamsburg-NorthSide
+119,Sugar Momma,4.5,28,GreenwichVillage
+120,Gersi,4.5,168,Tompkinsville
+121,Vitae,4.0,733,CarrollGardens
+122,Boqueria Restaurant - Flatiron,4.0,1119,MidtownEast
+123,Fan Fried Rice Bar,5.0,17,Flatiron
+124,Grand Banks,4.0,331,BedfordStuyvesant
+125,Flip Sigi,4.0,539,WestVillage
+126,Juno,4.0,126,Bushwick
+127,Up Thai,4.5,1712,UpperEastSide
+128,Woorijip Authentic Korean Food,4.0,2400,Koreatown
+129,White Oak Tavern,4.0,259,GreenwichVillage
+130,Grazie,4.0,303,UpperEastSide
+131,The Saint Austere,4.5,335,Williamsburg-NorthSide
+132,Boqueria Spanish Tapas - Soho,4.0,829,SouthVillage
+133,Nyonya,4.0,1824,LittleItaly
+134,Tiny Shanghai,4.5,60,LittleItaly
+135,Bensons NYC,4.5,290,LowerEastSide
+136,Bricolage,4.0,355,ParkSlope
+137,The Red Cat,4.0,660,Chelsea
+138,Verlaine,4.0,1314,LowerEastSide
+139,Freemans,4.0,1875,LowerEastSide
+140,Julianas Pizza,4.5,1703,DUMBO
+141,Toro Loco,4.0,45,FinancialDistrict
+142,Haymaker Bar and Kitchen,4.0,262,Chelsea
+143,Boucherie - Park,4.5,214,Gramercy
+144,The Sea Fire Grill,4.5,819,MidtownEast
+145,BLVD Bistro,4.0,580,Harlem
+146,Gotham Bar and Grill,4.5,1439,UnionSquare
+147,Red Rooster Harlem,3.5,2534,Harlem
+148,Her Name Is Han,4.0,865,MidtownEast
+149,Restaurant Ukiyo,5.0,16,EastVillage
+150,Boqueria Restaurant - West 40th Street,4.0,81,Tompkinsville
+151,Boulud Sud,4.0,635,MidtownWest
+152,Minetta Tavern,4.0,1983,UpperWestSide
+153,Bijans,4.0,408,GreenwichVillage
+154,Ella Kitchen & Bar,4.0,374,BoerumHill
+155,Izakaya NoMad,4.0,557,UpperWestSide
+156,Pepe Rosso Social,4.0,681,Flatiron
+157,Meadowsweet,4.0,291,LittleItaly
+158,Mables Smokehouse & Banquet Hall,4.0,703,Williamsburg-SouthSide
+159,Burger & Barrel,3.5,758,Williamsburg-NorthSide
+160,Le Parisien,4.0,845,SoHo
+161,Brindle Room,4.0,900,MurrayHill
+162,Supper,4.0,1147,EastVillage
+163,Westville Chelsea,4.0,1005,EastVillage
+164,The Brooklyn Tree,4.5,95,Chelsea
+165,Thai Festival,4.0,20,EastWilliamsburg
+166,Barons,4.5,190,CobbleHill
+167,The Warren,4.0,175,BedfordStuyvesant
+168,Amy Ruths,4.0,2205,WestVillage
+169,Bogota Latin Bistro,4.0,1910,Harlem
+170,High Street On Hudson,4.0,317,ParkSlope
+171,Covina,4.5,260,WestVillage
+172,La Contenta,4.5,606,Flatiron
+173,JoJu,4.5,1398,LowerEastSide
+174,The Queensboro,4.5,37,Elmhurst
+175,The Eddy,4.5,330,JacksonHeights
+176,Miriam,4.0,849,EastVillage
+177,Butcher Bar,4.0,1603,ParkSlope
+178,Les Enfants de Boheme,4.5,163,Astoria
+179,88 Lan Zhou Handmade Noodles,4.0,1470,LowerEastSide
+180,Felice,4.0,264,Tompkinsville
+181,Seamores,4.0,43,FinancialDistrict
+182,The Smith,3.5,1337,DUMBO
+183,Bustan,4.0,412,UpperWestSide
+184,Juniper,4.0,403,UpperWestSide
+185,Shanghai Asian Manor,4.0,1350,MidtownWest
+186,The NoMad Restaurant,4.0,1332,Chinatown
+187,Imani Caribbean Kitchen & Bar,4.5,64,Flatiron
+188,Mu Ramen,4.0,961,FortGreene
+189,Maite,4.0,155,HuntersPoint
+190,Tonys Di Napoli,4.0,1697,Bushwick
+191,Union Bar & Kitchen,4.0,271,TheaterDistrict
+192,Quality Eats,4.5,76,SouthVillage
+193,Rustic Table,4.5,535,Flatiron
+194,The Osprey,3.5,66,Hell'sKitchen
+195,Raku,4.5,682,EastVillage
+196,Habana Outpost,4.0,928,FortGreene
+197,Queens Comfort,4.0,1861,Astoria
+198,Gyu-Kaku Japanese BBQ,4.0,1026,MidtownWest
+199,Olio e Piu,4.0,1158,WestVillage
+200,Cafe Mogador,4.5,957,Williamsburg-NorthSide
+201,Samba Kitchen,4.5,305,MidtownWest
+202,Lukes Lobster Brooklyn Bridge Park-DUMBO,4.0,239,DUMBO
+203,Voltaire,4.0,14,CobbleHill
+204,Westville Hudson,4.0,432,SouthVillage
+205,Becco,3.5,2446,MidtownWest
+206,Gentleman Farmer - Fort Greene,4.5,112,FortGreene
+207,The Shake and Burger Bar,4.5,40,KipsBay
+208,Porteno Restaurant,4.5,345,Chelsea
+209,Boqueria Spanish Tapas - Upper East Side,4.0,562,UpperEastSide
+210,Pearls,4.0,348,Tompkinsville
+211,Jack the Horse Tavern,4.0,342,Williamsburg-NorthSide
+212,Barn Joo,4.0,1249,BrooklynHeights
+213,Calle Dao - Chelsea,4.5,279,UnionSquare
+214,Mominette,4.0,524,Chelsea
+215,Barbuto,4.0,824,Bushwick
+216,Little Collins,4.5,668,WestVillage
+217,Hakata Tonton,4.0,905,MidtownEast
+218,Gato,4.0,970,WestVillage
+219,The Smith,4.0,609,NoHo
+220,District Tap House,4.0,706,Flatiron
+221,OTIS,5.0,76,MidtownWest
+222,Clinton Street Baking Company,4.0,4211,EastWilliamsburg
+223,Miramar,4.0,137,LowerEastSide
+224,Izakaya MEW,4.0,1791,BatteryPark
+225,Tavern29,3.5,758,MidtownWest
+226,Momosan Ramen & Sake,4.0,1253,Flatiron
+227,The Farm On Adderley,4.0,1060,MurrayHill
+228,Lolos Seafood Shack,4.0,532,Flatbush
+229,Chouchou,4.0,80,Harlem
+230,Pepe Giallo,4.0,508,EastVillage
+231,The Bar Room,4.0,407,Chelsea
+232,La Pulperia UES,4.0,575,UpperEastSide
+233,Hometown Bar-B-Que,4.0,1052,Yorkville
+234,Surfish Bistro,4.0,253,RedHook
+235,Salinas,4.0,822,Gowanus
+236,Chikarashi,4.0,444,Chelsea
+237,Fonda Park Slope,4.0,707,SouthSlope
+238,Five Leaves,4.0,1459,Greenpoint
+239,Black Iron Burger,4.0,660,MidtownWest
+240,The Thirsty Koala,4.0,893,Tompkinsville
+241,Toloache 50,4.0,1611,Astoria
+242,Libertador,4.0,183,TheaterDistrict
+243,Tartinery Hudson Eats,4.0,347,CobbleHill
+244,Talde,3.5,1009,BatteryPark
+245,Varrio 408,4.5,299,SouthSlope
+246,Maison Premiere,4.0,1016,ParkSlope
+247,Alta,4.0,1698,Williamsburg-SouthSide
+248,Denizen,4.5,90,GreenwichVillage
+249,Excuse My French,4.5,209,Williamsburg-NorthSide
+250,La Esquina,3.5,1817,LowerEastSide
+251,Henrys End,4.0,315,SoHo
+252,Jacksons Eatery | Bar,4.0,143,BrooklynHeights
+253,SoleLuna Restaurant,4.5,300,HuntersPoint
+254,Barbalu Restaurant,4.0,218,Sunnyside
+255,The Halal Guys,4.5,8867,SouthStreetSeaport
+256,The Wild Son,4.5,307,TheaterDistrict
+257,La Slowteria,4.0,191,MeatpackingDistrict
+258,Chicha,4.5,20,CarrollGardens
+259,Sakagura,4.0,1622,EastWilliamsburg
+260,The Green Table,4.0,527,MidtownEast
+261,Silver Factory,5.0,76,MeatpackingDistrict
+262,Benemon,4.5,387,Williamsburg-SouthSide
+263,Xian Famous Foods,4.0,1357,EastVillage
+264,HandCraft Kitchen & Cocktails,4.0,261,MidtownWest
+265,Daniel,4.5,1396,KipsBay
+266,Hello Bklyn,4.0,231,UpperEastSide
+267,Rabbithole Restaurant,4.0,703,EastWilliamsburg
+268,Sarabeths,3.5,1551,Williamsburg-SouthSide
+269,Tenichi Ramen Cobble Hill,4.5,9,MidtownWest
+270,Palo Santo,4.0,443,Tompkinsville
+271,LIC Market,4.0,693,ParkSlope
+272,Pylos,4.5,1026,LongIslandCity
+273,Buvette,4.0,1465,EastVillage
+274,Maialino,4.0,1240,WestVillage
+275,Hole in the Wall,4.0,306,Gramercy
+276,Atomix,5.0,11,FinancialDistrict
+277,Lupa,4.0,1370,MidtownEast
+278,Slane,4.0,431,GreenwichVillage
+279,Coppelia,4.0,1102,KipsBay
+280,5ive Spice,4.0,443,Chelsea
+281,Le Bernardin,4.5,2159,ParkSlope
+282,North River Lobster Co,3.5,458,TheaterDistrict
+283,BLACKBARN,4.0,404,Flatiron
+284,Celestine,4.0,79,DUMBO
+285,Cafeteria,3.5,2980,Chelsea
+286,Totto Ramen,4.0,4880,TheaterDistrict
+287,The Highwater,4.5,132,Astoria
+288,La Parisienne,4.5,128,FinancialDistrict
+289,La Vara,4.0,307,CobbleHill
+290,Pilar Cuban Eatery,4.0,220,BedfordStuyvesant
+291,Gastroteca,4.0,701,Astoria
+292,Macao,4.0,665,TriBeCa
+293,AlMar,4.0,335,DUMBO
+294,Peaches,3.5,904,BedfordStuyvesant
+295,Nish Nush,4.5,610,TriBeCa
+296,Da Andrea,4.0,671,GreenwichVillage
+297,Mercato,4.0,725,MidtownWest
+298,Trinity Place,4.0,297,FinancialDistrict
+299,Glasserie,4.0,295,Greenpoint
+300,Shuka,4.5,172,Tompkinsville
+301,1803,4.5,110,SouthVillage
+302,BoCaphe,4.0,775,TriBeCa
+303,Two Hands Restaurant & Bar,3.5,236,SoHo
+304,Omakasa,4.0,61,TriBeCa
+305,BeeHive Oven Biscuit Cafe,4.5,667,MidtownWest
+306,Fette Sau,4.0,2132,Williamsburg-SouthSide
+307,Roccos Tacos & Tequila Bar,3.5,1026,Williamsburg-NorthSide
+308,Purbird,4.0,431,DowntownBrooklyn
+309,Las Ramblas,4.0,659,ProspectHeights
+310,Gallitos Kitchen,4.0,240,WestVillage
+311,Barn Joo 35,4.5,998,BrooklynHeights
+312,Manhattan Proper,4.0,249,MidtownWest
+313,Noodle Village,4.0,813,CivicCenter
+314,Hourglass Tavern,4.0,658,Chinatown
+315,Nerai,4.5,389,MidtownWest
+316,Piacere,4.0,617,MidtownEast
+317,Burke & Wills,4.0,361,LittleItaly
+318,Kori Tribeca,4.0,443,UpperWestSide
+319,CUPER,4.0,41,TriBeCa
+320,Brooklyn Beet Company,4.5,374,DUMBO
+321,Lillys Craft and Kitchen,4.0,493,BayRidge
+322,White Horse Tavern - Financial District,4.0,275,MidtownWest
+323,Riverpark,4.0,696,FinancialDistrict
+324,La Shuk,4.5,283,KipsBay
+325,El Mate,4.5,225,EastHarlem
+326,Dark Horse,4.0,368,CarrollGardens
+327,Employees Only,4.0,1318,CivicCenter
+328,Schilling,4.5,109,WestVillage
+329,Sofreh,3.5,5,FinancialDistrict
+330,Blue Ribbon Brasserie - Brooklyn,4.0,510,Tompkinsville
+331,Lure Fishbar - New York,4.0,1473,ParkSlope
+332,Rider,4.0,131,SoHo
+333,The Boil,4.0,537,Williamsburg-NorthSide
+334,Hendriks,4.0,313,GreenwichVillage
+335,La Cigogne,4.0,306,MurrayHill
+336,Gardenia,4.0,182,CarrollGardens
+337,Coopers Craft & Kitchen,4.0,329,WestVillage
+338,Wallflower,4.0,224,Chelsea
+339,Spoon Table & Bar,4.0,243,WestVillage
+340,El Almacen,4.0,595,MurrayHill
+341,LAppart,5.0,75,Williamsburg-NorthSide
+342,Iris Cafe Store 9,4.0,378,BatteryPark
+343,Malatesta Trattoria,4.0,1126,BrooklynHeights
+344,Noodle Pudding,4.0,508,WestVillage
+345,Slow Loris,4.5,36,BrooklynHeights
+346,Khe-Yo,4.0,591,ProspectLeffertsGardens
+347,Wanpaku,4.5,21,TriBeCa
+348,China Blue,4.0,502,Greenpoint
+349,Seed,4.5,160,TriBeCa
+350,Go! Go! Curry!,4.0,1322,ParkSlope
+351,Naya,4.5,93,MidtownWest
+352,Adriennes Pizzabar,4.0,1420,FinancialDistrict
+353,The Marshal,4.0,654,Hell'sKitchen
+354,June,4.0,148,CobbleHill
+355,Peter Luger,4.0,4724,Williamsburg-SouthSide
+356,Menya Jiro- Brooklyn,4.0,42,DowntownBrooklyn
+357,Raclette,4.0,940,EastVillage
+358,Ampersand,4.5,160,Gramercy
+359,Clover Club,4.0,684,CobbleHill
+360,Bao Bao Cafe,4.0,366,Tompkinsville
+361,Foxy Johns Bar & Kitchen,4.0,221,Flatiron
+362,Dorlans Tavern & Oyster Bar,3.5,163,MidtownEast
+363,Momofuku Ko,4.5,223,SouthStreetSeaport
+364,Market Table,4.0,742,EastVillage
+365,Trad Room,4.0,4,WestVillage
+366,Infamous Chicken,3.5,19,BedfordStuyvesant
+367,Colonie,4.0,517,ManhattanValley
+368,North End Grill,4.0,373,BrooklynHeights
+369,BKW By Brooklyn Winery,4.5,106,BatteryPark
+370,Carroll Place,4.0,821,CrownHeights
+371,The Greek Kitchen,4.0,407,GreenwichVillage
+372,983-Bushwicks Living Room,4.0,342,Hell'sKitchen
+373,The Food Sermon Kitchen,4.5,209,EastWilliamsburg
+374,Wok Wok,4.0,550,CrownHeights
+375,Kavala Estiatorio,4.5,209,Chinatown
+376,Brooklyn Crab,3.0,847,HuntersPoint
+377,Ducks Eatery,4.0,548,RedHook
+378,Cafe Rue Dix,4.0,286,EastVillage
+379,Drunken Munkey Upper East,4.5,728,CrownHeights
+380,GunBae,4.0,174,Yorkville
+381,Clinton Hall,4.0,466,TriBeCa
+382,Amali,4.0,325,FinancialDistrict
+383,Sumners Luncheonette,3.5,6,UpperEastSide
+384,Shinshi Ramen,4.5,13,WindsorTerrace
+385,OTB,4.5,104,MidtownEast
+386,Father Knows Best,4.5,166,Williamsburg-SouthSide
+387,Cheeky Sandwiches,4.5,1034,Bushwick
+388,Dim Sum Palace,4.0,705,Chinatown
+389,Tinys & the Bar Upstairs,4.0,475,MidtownWest
+390,Five Senses,4.0,1007,Tompkinsville
+391,Olea,4.0,765,Koreatown
+392,Maison Pickle,4.0,512,FortGreene
+393,Catfish,4.0,595,UpperWestSide
+394,99 Favor Taste,4.0,1401,CrownHeights
+395,Veronicas Kitchen,4.0,147,LowerEastSide
+396,Lido,4.0,827,FinancialDistrict
+397,Tavern on Jane,4.0,376,Harlem
+398,Nano Ecuadorian Kitchen,4.5,435,WestVillage
+399,Olmsted,4.0,236,Hell'sKitchen
+400,La Lanterna Di Vittorio,4.0,1311,ProspectHeights
+401,The Black Derby,4.5,101,GreenwichVillage
+402,Masseria Dei Vini,4.0,375,WestVillage
+403,Mazzat,4.5,152,Hell'sKitchen
+404,Ciccio,4.0,246,ColumbiaStreetWaterfrontDistrict
+405,Rosies,4.0,533,SouthVillage
+406,Cheeseboat,4.0,270,EastVillage
+407,SriPraPhai Thai Restaurant,4.0,2151,Williamsburg-NorthSide
+408,Blue Hill,4.5,886,Woodside
+409,Blue Smoke,3.5,554,GreenwichVillage
+410,Saxon + Parole,4.0,690,BatteryPark
+411,Ramen Shack,4.5,173,NoHo
+412,Vekslers,4.0,102,LongIslandCity
+413,Sauce & Barrel,4.0,217,CarrollGardens
+414,House of Small Wonder,4.0,625,FinancialDistrict
+415,Udon West Midtown,4.0,853,Williamsburg-NorthSide
+416,Death Ave,4.0,346,MidtownEast
+417,Print,4.0,795,Chelsea
+418,Smith and Mills,4.0,264,Hell'sKitchen
+419,South Brooklyn Foundry,4.5,122,TriBeCa
+420,Julias,4.5,165,Tompkinsville
+421,Trattoria DellArte,4.0,807,Ridgewood
+422,Space Mabi,4.5,89,MidtownWest
+423,Woodrows,4.0,297,EastVillage
+424,Milk & Honey Cafe,4.0,592,TriBeCa
+425,IL Brigante,4.0,295,Flatbush
+426,Pokeworks,4.0,1631,SouthStreetSeaport
+427,Bar Bacon,4.0,1007,MidtownWest
+428,Osteria Morini Manhattan,4.0,995,Hell'sKitchen
+429,Walters,4.0,459,SoHo
+430,Tabare,4.0,588,FortGreene
+431,Grindhaus,4.5,85,Williamsburg-SouthSide
+432,The Harrow New York,4.5,60,RedHook
+433,Melt Shop,4.0,308,Hell'sKitchen
+434,Kilo,4.0,388,FinancialDistrict
+435,Under The Bridge,4.0,138,Hell'sKitchen
+436,La Nonna Ristorante & Bar,4.0,230,MidtownEast
+437,Till & Sprocket,4.0,130,Williamsburg-NorthSide
+438,UpNorth,4.0,22,Chelsea
+439,Win Son,4.5,254,Bushwick
+440,Tia Pol,4.0,643,EastWilliamsburg
+441,Lobster Joint,4.0,590,Chelsea
+442,Brooklyn Ice House,4.5,198,Greenpoint
+443,Gran Morsi,4.5,266,RedHook
+444,Per Se,4.5,1404,CivicCenter
+445,Infirmary,3.5,434,Hell'sKitchen
+446,Katzs Delicatessen,4.0,9292,Yorkville
+447,MIGHTY Bowl,5.0,17,LowerEastSide
+448,Harrys,4.0,582,UpperEastSide
+449,Cafe China,4.0,1135,FinancialDistrict
+450,Butcher Bar,4.0,367,Tompkinsville
+451,Set L.E.S,4.0,332,LowerEastSide
+452,Quaint,4.0,227,LowerEastSide
+453,Chez Ma Tante,4.5,62,Sunnyside
+454,Shake Shack,4.0,864,Greenpoint
+455,Jongro BBQ,4.0,1247,BatteryPark
+456,CajunSea & Oyster Bar,4.0,904,Koreatown
+457,The Paris Cafe,4.0,254,Koreatown
+458,Char House,4.5,49,SouthStreetSeaport
+459,The Penrose,4.0,938,Chinatown
+460,Casa Mono,3.5,1116,Yorkville
+461,Boucherie West Village,4.5,516,Gramercy
+462,The Greek,4.5,427,WestVillage
+463,Mekelburgs,4.5,205,TriBeCa
+464,Lokal 83 Mediterranean Kitchen,4.5,173,ClintonHill
+465,Craft House,4.5,274,UpperWestSide
+466,The Tuck Room,4.0,167,Tompkinsville
+467,Il Bambino,4.5,1150,SouthStreetSeaport
+468,Le Garage,4.0,106,Astoria
+469,Jun-Men Ramen Bar,4.0,509,Bushwick
+470,Sunday in Brooklyn,4.0,370,Chelsea
+471,Dinosaur Bar-B-Que,3.5,1392,Williamsburg-SouthSide
+472,Forrest Point,4.0,294,Gowanus
+473,Miti Miti,4.0,536,EastWilliamsburg
+474,Mermaid Oyster Bar,4.0,985,ParkSlope
+475,The Crabby Shack,4.0,518,GreenwichVillage
+476,Izakaya,4.0,216,CrownHeights
+477,The Folly,4.5,172,EastVillage
+478,Don Chingon,4.5,281,GreenwichVillage
+479,Taverna Kyclades,4.0,1945,ProspectHeights
+480,Taverna Kyclades,4.0,1945,Tompkinsville
+481,Loi Estiatorio,4.5,259,Astoria
+482,Wolf and Deer,4.0,242,MidtownWest
+483,Westlight,4.0,264,ParkSlope
+484,Aurora,4.0,506,Williamsburg-NorthSide
+485,Midnights,4.5,175,Williamsburg-NorthSide
+486,Grimaldis,3.5,4290,Williamsburg-NorthSide
+487,Sushi Yasaka,4.0,1525,DUMBO
+488,Simple NYC,4.5,292,UpperWestSide
+489,Cock & Bull,4.0,433,LowerEastSide
+490,Calle Dao - Bryant Park,4.0,1162,MidtownWest
+491,Bubbys High Line,3.5,510,MidtownWest
+492,Tygershark,4.0,88,MeatpackingDistrict
+493,Havana NY,4.0,158,ProspectHeights
+494,Fort Defiance,4.0,317,MidtownWest
+495,Jungsik,4.5,483,RedHook
+496,Butter Midtown,3.5,782,TriBeCa
+497,The Spotted Pig,3.5,2792,MidtownWest
+498,La Pulperia Hells Kitchen,4.5,629,WestVillage
+499,Mozzarella & Vino,4.0,206,MidtownWest
+500,The Islands,4.0,636,MidtownWest
+501,Thai Sliders & Co.,4.0,272,ProspectHeights
+502,Rincon Criollo,4.5,699,FinancialDistrict
+503,Salt + Charcoal,3.5,249,NorthCorona
+504,Ninos 46,4.0,959,Williamsburg-SouthSide
+505,Superfine,3.5,400,MidtownWest
+506,Le Coucou,4.0,358,DUMBO
+507,Westville - East,4.0,961,SoHo
+508,Jin Ramen,4.0,653,EastVillage
+509,Go! Go! Curry!,4.0,310,UpperWestSide
+510,Belle Reve,4.0,123,Tompkinsville
+511,Seamores,4.0,609,TriBeCa
+512,Riverwalk Bar & Grill,3.5,191,LittleItaly
+513,Tessa,4.0,284,RooseveltIsland
+514,Taboonette,4.0,544,UpperWestSide
+515,Ugly Kitchen,4.0,539,UnionSquare
+516,Juniper,4.0,483,EastVillage
+517,Dirty French,4.0,531,Williamsburg-NorthSide
+518,Nicandras,4.5,130,LowerEastSide
+519,Hollow Nickel,4.0,190,Bushwick
+520,Chuko,4.0,957,BoerumHill
+521,Bubbys Tribeca,3.5,1148,ProspectHeights
+522,Arco Cafe,4.0,217,TriBeCa
+523,Los Papis,4.5,67,ManhattanValley
+524,The Douglass Public House,4.5,88,VinegarHill
+525,Ltauha Restaurant,4.5,314,Gowanus
+526,Salud Bar & Grill,4.0,239,Ridgewood
+527,Charlies Bar & Kitchen,4.0,253,Bushwick
+528,Black Tap Craft Burgers & Beer,3.5,904,SouthVillage
+529,CAVA,4.5,212,UnionSquare
+530,Industry 1332,4.0,205,Bushwick
+531,Colonia Verde,4.0,129,FortGreene
+532,Burmese Bites,5.0,18,LongIslandCity
+533,MAMO Restaurant,4.0,204,SoHo
+534,Friend of A Farmer,3.5,1131,Gramercy
+535,Kuu Ramen,3.5,476,FinancialDistrict
+536,Morimoto,4.0,2775,MeatpackingDistrict
+537,Coarse NY,4.5,140,MeatpackingDistrict
+538,Bos Kitchen & Bar Room,4.0,306,Flatiron
+539,House of Thai,4.0,220,LongIslandCity
+540,Vics,4.0,343,Tompkinsville
+541,Tchoup Shop,4.0,209,NoHo
+542,Friedmans,4.0,433,Bushwick
+543,Crisp,4.0,358,MidtownWest
+544,Glou,5.0,13,TheaterDistrict
+545,Takashi,4.0,885,ProspectLeffertsGardens
+546,The Cellar,4.0,601,WestVillage
+547,Asian Spicy Curry Pop-up,4.5,117,Flatiron
+548,TRST,4.5,353,Chinatown
+549,Boulton & Watt,4.0,621,Greenpoint
+550,Beso,4.0,427,AlphabetCity
+551,Pure Thai Cookhouse,4.0,2203,St.George
+552,Del Friscos Double Eagle Steakhouse,4.5,2447,TheaterDistrict
+553,Nai Tapas,4.0,793,TheaterDistrict
+554,The Standard Grill,3.5,1029,EastVillage
+555,Sala One Nine,4.0,723,MeatpackingDistrict
+556,21 Shanghai House,4.0,367,Flatiron
+557,Rubirosa,4.0,1621,Chinatown
+558,Aquagrill,4.0,1234,Nolita
+559,Tacombi - Fort Greene,3.0,21,SouthVillage
+560,DOMODOMO,4.0,595,FortGreene
+561,Yakitori Totto,4.0,1182,GreenwichVillage
+562,Fish,4.0,1343,MidtownWest
+563,Minnies,4.5,83,WestVillage
+564,Marea,4.0,1751,LowerEastSide
+565,Balzem,4.0,331,MidtownWest
+566,Bunsmith,4.0,206,Nolita
+567,Pier A Harbor House,3.0,552,CrownHeights
+568,Tanoreen,4.0,741,BayRidge
+569,Le Pif,4.0,238,UpperWestSide
+570,Fresh Salt,4.0,364,Tompkinsville
+571,The Milton,4.0,313,SouthStreetSeaport
+572,Chela,4.5,109,Yorkville
+573,Delaware and Hudson,4.0,261,ParkSlope
+574,Claw Daddys,4.0,1134,Williamsburg-NorthSide
+575,Penthouse 808 Asian Bistro & Lounge,3.0,831,LowerEastSide
+576,Los Tacos No.1,4.5,677,LongIslandCity
+577,The Gumbo Bros,4.5,211,TheaterDistrict
+578,Mezetto,4.0,492,CobbleHill
+579,Runner & Stone,4.0,249,LowerEastSide
+580,Moms Kitchen & Bar,4.0,504,Gowanus
+581,Suite 53,4.0,7,Astoria
+582,Isas,4.5,9,MidtownEast
+583,Lilia,4.0,487,Woodside
+584,Il Falco,4.5,245,Williamsburg-NorthSide
+585,The Shakespeare,4.0,315,LongIslandCity
+586,Atera,4.5,214,MurrayHill
+587,Fraunces Tavern,3.5,703,TriBeCa
+588,Cafe Mogador,4.0,1711,FinancialDistrict
+589,Cafe Henri,4.0,621,EastVillage
+590,Ningbo Cafe,4.0,115,HuntersPoint
+591,Vanessas Dumpling House,4.0,2266,BatteryPark
+592,Yemen Cafe,4.5,398,LowerEastSide
+593,Sons of Thunder,4.5,669,CobbleHill
+594,OCabanon,4.0,357,MurrayHill
+595,Galata Mediterranean Cuisine,4.5,244,Chelsea
+596,Bed-Stuy Provisions,4.5,71,MurrayHill
+597,Smithfield Hall,4.0,413,BedfordStuyvesant
+598,TAO Uptown,3.5,2192,Chelsea
+599,B2 Harlem,4.0,165,MidtownEast
+600,The Good Fork,4.0,376,Tompkinsville
+601,Oceanic Boil,4.5,281,RedHook
+602,,4.5,9,JacksonHeights
+603,Mercer Kitchen,3.5,1427,Chelsea
+604,Quality Meats,4.0,1725,SoHo
+605,Beasts & Bottles,4.0,128,MidtownWest
+606,Rose Water Restaurant,4.0,600,BrooklynHeights
+607,Amaranto Mexican Restaurant,4.5,261,ParkSlope
+608,Vida Verde,4.5,468,Bushwick
+609,Maharlika,4.0,1342,MidtownWest
+610,Nha Minh,4.5,117,EastVillage
+611,Virginias,4.0,142,EastWilliamsburg
+612,Tavola,4.0,710,AlphabetCity
+613,Le Fanfare,4.0,127,MidtownWest
+614,Del Posto,4.0,1286,Greenpoint
+615,Lexington Brass,3.5,739,MeatpackingDistrict
+616,Tsurutontan Udon Noodle Brasserie,4.0,1253,MidtownEast
+617,Naya Mezze & Grill,4.0,449,UnionSquare
+618,Gladys,4.0,381,MidtownEast
+619,Al Di La Trattoria,4.0,794,CrownHeights
+620,Leyenda,4.0,166,ParkSlope
+621,Westville Dumbo,4.0,158,CobbleHill
+622,Topaz Noodle Bar,4.0,412,DUMBO
+623,Maxwells Central Park,4.0,130,MidtownWest
+624,Bedouin Tent,4.0,556,EastHarlem
+625,Milk And Roses,4.0,319,BoerumHill
+626,Le Pif,4.5,121,Greenpoint
+627,Diner,4.0,702,Chelsea
+628,Hometown Hotpot & BBQ,4.0,901,SouthWilliamsburg
+629,Kaoru,4.5,188,LittleItaly
+630,Slide Bar-B-Q,4.0,503,Tompkinsville
+631,Cafe Luluc,4.0,1222,Maspeth
+632,Soju Haus,4.0,439,CobbleHill
+633,Pig Beach,4.0,321,Koreatown
+634,Lincoln Station,4.0,238,Gowanus
+635,Aska,4.5,67,ProspectHeights
+636,Walter Foods,4.0,479,Williamsburg-SouthSide
+637,Oiji,4.5,401,Williamsburg-SouthSide
+638,Hardings,4.0,299,EastVillage
+639,Ofrenda,4.0,843,Flatiron
+640,El Born,4.5,230,WestVillage
+641,Zyara NY,5.0,26,Greenpoint
+642,Industry Kitchen,3.5,388,LowerEastSide
+643,Bistro Les Amis,4.0,313,SouthVillage
+644,El Porron,4.0,289,UpperEastSide
+645,Sugarburg,4.5,254,Williamsburg-NorthSide
+646,DEZ,4.5,47,Nolita
+647,Bacchus Bistro & Wine Bar,4.0,407,BoerumHill
+648,The Meatball Shop,4.0,2646,LowerEastSide
+649,Spaghetti Incident,4.0,455,LowerEastSide
+650,Sanfords Astoria,4.0,599,Astoria
+651,Esme,4.5,253,Greenpoint
+652,Bar Uni,4.5,64,Greenpoint
+653,Narcissa,4.0,441,EastVillage
+654,Turntable Chicken Jazz,4.0,1733,Koreatown
+655,Wah Fung No 1 Fast Food,4.5,999,LowerEastSide
+656,The Mermaid Inn,4.0,1202,EastVillage
+657,Soba-ya,4.0,1305,EastVillage
+658,Burger & Lobster,4.0,390,TheaterDistrict
+659,Le Barricou,4.0,1118,Williamsburg-NorthSide
+660,Cocoron,4.0,559,Tompkinsville
+661,Shortys,4.0,231,Nolita
+662,Sweetwater Restaurant,4.0,314,FinancialDistrict
+663,Alameda,4.0,110,Williamsburg-NorthSide
+664,Society Cafe,4.0,86,Greenpoint
+665,Woodbines,4.0,267,GreenwichVillage
+666,Tri Dim Shanghai,4.0,179,HuntersPoint
+667,Bohemian Restaurant,4.5,660,UpperEastSide
+668,Papas Kitchen,4.5,213,NoHo
+669,VinoTapa,4.0,319,Woodside
+670,Heavy Woods,4.0,228,KipsBay
+671,Little Park,4.0,307,Bushwick
+672,Meet The Meat,4.5,230,TriBeCa
+673,Xian Famous Foods,4.0,849,Astoria
+674,EN Japanese Brasserie,4.0,1157,Chinatown
+675,Wafas,4.5,101,WestVillage
+676,Convivium Osteria,4.0,427,EastWilliamsburg
+677,The Clam,4.0,307,ParkSlope
+678,Bao Bao Cafe,4.0,55,WestVillage
+679,Clay Pot NYC,4.5,94,FinancialDistrict
+680,Ulivo,4.0,201,EastVillage
+681,The Local Bar and Cafe,4.5,66,Flatiron
+682,District Saigon,4.0,387,LongIslandCity
+683,Kikis,4.5,440,Astoria
+684,The Grey Dog,4.0,958,Chinatown
+685,Miss Ada,4.5,96,Chelsea
+686,Black Tap Craft Burger & Beers,4.0,660,FortGreene
+687,Black Swan,3.5,694,MidtownWest
+688,Ugly Baby,4.5,166,BedfordStuyvesant
+689,Meme Mediterranean,4.0,523,CarrollGardens
+690,Taste of Heaven,5.0,77,Tompkinsville
+691,Chow House,4.5,97,EastWilliamsburg
+692,Olivier Bistro,4.0,289,GreenwichVillage
+693,Beija Flor,4.0,178,SouthSlope
+694,Cheryls Global Soul,4.0,669,LongIslandCity
+695,Keens Steakhouse,4.0,2139,ProspectHeights
+696,Okonomi,4.5,373,MidtownWest
+697,Mayfield,4.0,462,Williamsburg-NorthSide
+698,Bisou Bisou,4.5,57,CrownHeights
+699,Modern Love Brooklyn,4.5,293,FortGreene
+700,El Vez,4.0,92,BatteryPark
+701,The Lowery Bar & Kitchen,4.5,175,Sunnyside
+702,Robertas,4.0,2394,EastWilliamsburg
+703,Aita,4.0,226,ClintonHill
+704,Peaches Shrimp and Crab,4.0,183,ClintonHill
+705,Boutros,4.5,83,CobbleHill
+706,Lowerline,4.5,31,ProspectHeights
+707,Positano Restaurant,4.5,220,FortHamilton
+708,Astoria Seafood,4.0,468,LongIslandCity
+709,Cafe DAlsace,4.0,1033,Yorkville
+710,Yaso Tangbao,4.0,30,SunsetPark
+711,Pio Pio 6,3.5,663,UpperWestSide
+712,Riko Peruvian Cuisine,4.0,535,Chelsea
+713,Bistango,4.0,199,MidtownEast
+714,Extra Fancy,3.5,319,Williamsburg-NorthSide
+715,Prospect,4.0,209,FortGreene
+716,Greenpoint Fish & Lobster,4.0,286,Greenpoint
+717,Balvanera,4.5,187,LowerEastSide
+718,Gentleman Farmer,4.0,246,LowerEastSide
+719,Taco Dumbo,4.0,105,DUMBO
+720,The Pomeroy,4.0,180,Tompkinsville
+721,Gallow Green,3.5,664,Astoria
+722,Shanghai King,3.0,5,Chelsea
+723,Petit Poulet,4.0,344,Elmhurst
+724,The Regal,4.0,318,Koreatown
+725,Fig & Olive - Fifth Ave,3.5,1014,Williamsburg-NorthSide
+726,Toscana 49,4.0,146,MidtownEast
+727,Zenkichi,4.0,893,MidtownEast
+728,Tuk Tuk,4.0,591,Williamsburg-NorthSide
+729,Le Fond,4.5,125,HuntersPoint
+730,Houseman,4.0,79,Greenpoint
+731,Sagaponack Bar & Grill,4.0,235,SouthVillage
+732,The Musket Room,4.5,352,Flatiron
+733,Gaia Italian Cafe,4.5,885,Nolita
+734,Kobeyaki,4.0,496,LowerEastSide
+735,Untitled,4.0,237,Chelsea
+736,Seabird,4.0,150,MeatpackingDistrict
+737,Skytown,4.0,232,WestVillage
+738,Lolas Lumpia,4.5,6,BedfordStuyvesant
+739,Toms,4.0,1169,DowntownBrooklyn
+740,Vino Levantino,4.0,201,ProspectHeights
+741,Chalk Point Kitchen,3.5,415,UpperWestSide
+742,Los Mariscos,4.5,385,SouthVillage
+743,Lombardis Pizza,4.0,5512,MeatpackingDistrict
+744,Ikinari Steak East Village,4.0,615,Nolita
+745,Kopitiam,4.5,295,EastVillage
+746,Terroir Tribeca,4.0,257,LowerEastSide
+747,Piccola Cucina Osteria,4.0,295,TriBeCa
+748,La Tarte Flambee,4.5,290,SouthVillage
+749,Carthage Must Be Destroyed,3.5,108,MurrayHill
+750,Cellar 335,4.5,344,Tompkinsville
+751,The Wheelhouse,4.0,195,Bushwick
+752,Blueprint,4.5,291,ParkSlope
+753,Vinegar Hill House,3.5,602,VinegarHill
+754,Krupa Grocery,4.5,243,WindsorTerrace
+755,Grandmas House,3.5,156,BoerumHill
+756,Joseph Leonard,4.0,604,WestVillage
+757,Coco & Cru,4.0,222,GreenwichVillage
+758,Wasan Brooklyn,4.0,137,ParkSlope
+759,Izakaya Juraku,4.5,21,LowerEastSide
+760,12 Chairs,4.0,376,SouthVillage
+761,Sweet Brooklyn Bar And Grill,4.0,233,CrownHeights
+762,Dumonet,4.5,39,Gowanus
+763,Anable Basin Sailing Bar & Grill,4.0,130,HuntersPoint
+764,Frankies 457 Spuntino,4.0,696,CarrollGardens
+765,Aurora Soho,4.0,377,SouthVillage
+766,Concord Hill,4.0,124,EastWilliamsburg
+767,Allora Ristorante,4.5,232,MidtownEast
+768,The Wren,4.0,451,NoHo
+769,Totto Ramen - Midtown East,4.0,904,MidtownEast
+770,Cherry Point,4.5,96,Greenpoint
+771,Boticarios,4.5,65,EastVillage
+772,The Capital Grille,4.0,481,FinancialDistrict
+773,Spice Symphony,4.5,231,MidtownEast
+774,Carmentas Italian Specialties,4.5,22,Bushwick
+775,No5nyc,4.0,66,Astoria
+776,Best Bagel & Coffee,4.5,2299,MidtownWest
+777,Hells Kitchen,4.0,311,TheaterDistrict
+778,Avocaderia,3.0,9,Chelsea
+779,Sweet Chick,4.0,301,ProspectHeights
+780,Joe Allen,4.0,331,Tompkinsville
+781,North Square,4.0,274,MidtownWest
+782,Gnarly Eats,4.0,142,GreenwichVillage
+783,Zizi Limona,4.0,361,SouthSlope
+784,Tama,4.5,56,Williamsburg-SouthSide
+785,Mannys,3.5,256,BedfordStuyvesant
+786,Nickel & Diner,4.0,295,BedfordStuyvesant
+787,Werkstatt,4.5,174,LittleItaly
+788,Flor De Mayo,4.0,1058,Flatbush
+789,Pommes Frites,4.5,611,UpperWestSide
+790,View of the World Terrace Club,4.0,116,GreenwichVillage
+791,Amused,4.0,29,FinancialDistrict
+792,Lahi,4.0,33,UpperWestSide
+793,by CHLOE. Bleecker Street,4.0,1486,Elmhurst
+794,The Meatball Shop,4.0,793,GreenwichVillage
+795,The Bluebell Cafe,4.0,537,Chelsea
+796,El Luchador,3.5,386,Gramercy
+797,Victors Cafe,4.0,1232,SouthStreetSeaport
+798,Fuku,3.5,115,TheaterDistrict
+799,Bluestone Lane,4.0,377,FinancialDistrict
+800,Tastings Social Presents Mountain Bird,4.5,120,UpperEastSide
+801,Zacks Oak Bar & Restaurant,4.0,321,EastHarlem
+802,Cafe Katja,4.5,718,LowerEastSide
+803,CentAnni,4.0,336,CrownHeights
+804,Bunker,4.0,608,EastWilliamsburg
+805,Faros Restaurant,4.0,189,ParkSlope
+806,Loring Place,4.5,234,GreenwichVillage
+807,Llama Inn,4.0,332,Williamsburg-NorthSide
+808,Taim West Village,4.5,1418,WestVillage
+809,AMARACHI,3.5,253,DowntownBrooklyn
+810,The Little Beet Table,4.0,411,Tompkinsville
+811,The Grey Dog - Union Square,4.0,922,Flatiron
+812,Harts Restaurant,4.5,60,UnionSquare
+813,Yuca Bar,4.0,1616,ClintonHill
+814,Joes Shanghai,3.5,1305,EastVillage
+815,Selamat Pagi,4.0,226,MidtownWest
+816,Sweet Chick,4.0,104,Greenpoint
+817,Blanca,4.0,152,HuntersPoint
+818,Quality Italian,4.0,825,EastWilliamsburg
+819,Meet Noodles,4.0,38,MidtownWest
+820,Casa Nonna,4.0,418,BoroughPark
+821,Skinners Loft,4.0,873,MidtownWest
+822,Egg Shop,4.0,896,LittleItaly
+823,Socarrat Paella Bar - Chelsea,4.0,1039,Chelsea
+824,SaltBrick Tavern,4.0,78,DowntownBrooklyn
+825,Urbanspace Vanderbilt,4.0,552,MidtownEast
+826,Golda,4.5,63,ClintonHill
+827,Sally Roots,4.0,174,Bushwick
+828,Adoro Lei,4.5,223,SouthVillage
+829,Crave Fishbar,4.0,602,MidtownEast
+830,Casa Del Chef,4.5,185,Woodside
+831,VINATERIA,4.0,354,Harlem
+832,Avra Estiatorio,4.0,764,MidtownEast
+833,Gran Electrica,3.5,406,DUMBO
+834,Entwine,4.0,184,WestVillage
+835,Mulberry & Vine,4.0,260,TriBeCa
+836,Vesta,4.0,614,Astoria
+837,Club A Steakhouse,4.5,2238,MidtownEast
+838,Tree House,4.0,79,BedfordStuyvesant
+839,Pio Pio 7,4.0,736,MurrayHill
+840,Chela & Garnacha,4.5,294,Tompkinsville
+841,The Factory Bar & Restaurant,4.5,88,Astoria
+842,The Cannibal Beer & Butcher,4.0,506,Bushwick
+843,Little Mo,4.0,245,Flatiron
+844,Margon,4.0,653,Bushwick
+845,Timna,4.5,275,TheaterDistrict
+846,Gyu-Kaku Japanese BBQ,4.0,1493,EastVillage
+847,Ends Meat,4.5,51,NoHo
+848,Tuome,4.5,335,SunsetPark
+849,Shanghai Asian Cuisine,4.0,412,EastVillage
+850,Defontes,4.5,287,Chinatown
+851,Saraghina,4.0,745,RedHook
+852,Vite Vinosteria,4.0,483,BedfordStuyvesant
+853,Sant Ambroeus,4.0,329,Astoria
+854,Sabor De Cuba,4.0,251,UpperEastSide
+855,Black Burger,4.0,252,Astoria
+856,Merchants River House,3.5,327,TriBeCa
+857,Faro,4.0,206,BatteryPark
+858,The MasalaWala,4.5,1179,Bushwick
+859,Fredas Caribbean & Soul Cuisine,4.0,458,LowerEastSide
+860,Maison May Dekalb,4.0,221,ManhattanValley
+861,Kevins,4.0,135,FortGreene
+862,Ozi Dumplings,4.0,53,RedHook
+863,Thaimee Table,3.5,1193,EastWilliamsburg
+864,Dinnertable,4.0,111,EastVillage
+865,Two 8 Two Bar & Burger,4.0,556,EastVillage
+866,Tutt Cafe,4.0,194,CobbleHill
+867,David Burke Kitchen,3.5,1093,BrooklynHeights
+868,Banh Mi Saigon,4.0,1346,SouthVillage
+869,Piccante,5.0,58,LittleItaly
+870,Thai Market,4.0,866,Tompkinsville
+871,Cafe Sabarsky,4.0,445,ManhattanValley
+872,Shake Shack,4.0,2872,UpperEastSide
+873,Ootoya Greenwich Village,4.0,221,MidtownWest
+874,Shabushabu Macoron,4.5,34,GreenwichVillage
+875,Jones Wood Foundry,4.0,539,LowerEastSide
+876,Battersby,4.0,287,UpperEastSide
+877,La Nacional Restaurant,3.5,176,CobbleHill
+878,Bubo,4.5,103,Chelsea
+879,Very Fresh Noodles,4.0,543,MurrayHill
+880,Mama Fox,4.5,37,MeatpackingDistrict
+881,Gotham West Market,4.0,492,BedfordStuyvesant
+882,Bengal Tiger Indian Food,4.5,1228,Hell'sKitchen
+883,Feast,4.0,394,MidtownWest
+884,Mesa Coyoacan,4.0,687,EastVillage
+885,Maysville,4.0,509,EastWilliamsburg
+886,Han Dynasty,4.0,437,Flatiron
+887,Jean-Georges,4.5,1702,UpperWestSide
+888,Chavelas,4.0,894,UpperWestSide
+889,Psari Seafood Restaurant & Bar,4.0,482,CrownHeights
+890,Sarabeths East,3.5,588,Astoria
+891,Momofuku Noodle Bar,3.5,3897,UpperEastSide
+892,Roti Modern Mediterranean,4.0,213,EastVillage
+893,Desnuda,4.0,170,FinancialDistrict
+894,Sunshine,4.0,285,Williamsburg-SouthSide
+895,Klom Klorm,4.5,51,ProspectHeights
+896,Crave Fishbar,4.0,201,Bushwick
+897,Chez Moi,4.0,325,UpperWestSide
+898,Eastfields Kitchen & Bar,4.0,147,CobbleHill
+899,Lot 2,4.5,243,Yorkville
+900,Tonys Di Napoli,4.0,523,Tompkinsville
+901,Brooklyn Cider House,4.0,93,UpperEastSide
+902,Fonda East Village,4.0,654,EastWilliamsburg
+903,Prime Meats,3.5,580,AlphabetCity
+904,Blend,3.5,689,CarrollGardens
+905,dumboLUV,5.0,6,HuntersPoint
+906,Oro Restaurant & Lounge,4.0,105,DUMBO
+907,Mezquite Restaurant,4.5,228,LongIslandCity
+908,Surf,4.0,123,Astoria
+909,Tomino Taberna Gallega,4.5,108,Stapleton
+910,Spoonfed New York Country,4.5,198,LittleItaly
+911,Bushwick Public House,4.5,40,TheaterDistrict
+912,Ashbox,4.5,120,Bushwick
+913,Cafe Boulud,4.0,602,Greenpoint
+914,5th & Mad,3.5,169,UpperEastSide
+915,Fine & Rare,4.0,158,MidtownEast
+916,Gyu-Kaku Japanese BBQ,4.0,986,MidtownEast
+917,La Bella Vita,4.0,285,MidtownEast
+918,Sweet Science,3.5,465,LittleItaly
+919,Matsunichi,4.0,42,EastWilliamsburg
+920,Bierocracy,4.0,231,Chinatown
+921,The Commodore,4.0,492,HuntersPoint
+922,Marta,4.0,709,Williamsburg-NorthSide
+923,Robert,4.0,777,Flatiron
+924,Cape House,3.5,87,Hell'sKitchen
+925,Cafe Gitane,4.0,684,EastWilliamsburg
+926,Nishida Sho-ten,4.0,619,Nolita
+927,Bar B,4.5,143,MidtownEast
+928,Pio Pio 2,3.5,1076,Chelsea
+929,Tin Kettle,4.5,86,JacksonHeights

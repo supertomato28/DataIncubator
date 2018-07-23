@@ -1,0 +1,3031 @@
+,title,rating,review_num,price
+0,SottoCasa Pizzeria,5,181,$$ - $$$
+1,Daniel,4.5,2973,$$$$
+2,Song e Napule Pizzeria,5,101,$$ - $$$
+3,Decoy Bar,4.5,142,$$ - $$$
+4,Gabriel Kreuther,4.5,523,$$$$
+5,Pisillo Italian Panini,4.5,761,$
+6,Faiccos Pork Store,4.5,305,$
+7,Club A Steakhouse,4.5,3007,$$$$
+8,DeStefanos Steak House,5,225,$$$$
+9,Petite Boucherie,4.5,245,$$ - $$$
+10,Los Tacos No. 1,4.5,1352,$
+11,Per Se,4.5,1640,$$$$
+12,Murrays Cheese,4.5,209,$$ - $$$
+13,Bleecker Street Pizza,4.5,928,$
+14,Spice Symphony,4.5,1884,$$ - $$$
+15,San Carlo Osteria Piemonte,5,266,$$ - $$$
+16,Eileens Special Cheesecake,4.5,1734,$
+17,Le Bernardin,4.5,3072,$$$$
+18,Julianas Pizza,4.5,2542,$$ - $$$
+19,The Modern,4.5,1824,$$$$
+20,Sottocasa Pizzeria,4.5,222,$$ - $$$
+21,Nerai,4.5,564,$$$$
+22,Indian Accent,4.5,349,$$$$
+23,K Rico,4.5,2344,$$ - $$$
+24,Piccola Cucina,4.5,1222,$$ - $$$
+25,Gramercy Tavern,4.5,3396,$$$$
+26,Pure Thai Cookhouse,4.5,1147,$$ - $$$
+27,Fiore Deli of Hoboken,5,126,$
+28,Cull & Pistol,4.5,797,$$ - $$$
+29,Oregano,4.5,230,$$ - $$$
+30,LArtusi,4.5,438,$$$$
+31,Russ & Daughters,4.5,975,$$ - $$$
+32,Loi Estiatorio,4.5,174,$$ - $$$
+33,Jungsik,4.5,231,$$$$
+34,Momofuku Ko,4.5,369,$$$$
+35,B Side Pizzeria,4.5,252,$$ - $$$
+36,Momosan Ramen & Sake,4.5,367,$$ - $$$
+37,Royal 35 Steakhouse,4.5,177,$$$$
+38,Tree Bistro,4.5,306,$$ - $$$
+39,Bouley Restaurant,4.5,1683,$$$$
+40,Beyond Sushi,4.5,188,$$ - $$$
+41,Nish Nush,4.5,127,$
+42,The Musket Room,4.5,254,$$$$
+43,Bagels & Schmear,4.5,128,$
+44,Scalini Fedeli,4.5,378,$$$$
+45,Craft,4.5,885,$$$$
+46,Rafele,4.5,1171,$$ - $$$
+47,Numero 28 Pizzeria,4.5,886,$$ - $$$
+48,Russ & Daughters Cafe,4.5,485,$$ - $$$
+49,The Donut Pub,4.5,142,$
+50,Broadway Bagel,4.5,166,$
+51,RabbitHole,4.5,205,$$ - $$$
+52,Olio e Piu,4.5,1057,$$ - $$$
+53,Gotham Bar & Grill,4.5,1619,$$$$
+54,San Matteo Pizza Espresso Bar,4.5,289,$$ - $$$
+55,Via Della Pace,4.5,865,$$ - $$$
+56,Lincoln Square Steak,4.5,2004,$$$$
+57,Hummus Place Upper West Side,4.5,255,$
+58,Izakaya Mew,4.5,833,$$ - $$$
+59,Rubirosa,4.5,1047,$$ - $$$
+60,Upstate,4.5,119,$$ - $$$
+61,Patsys Italian Restaurant,4.5,3933,$$ - $$$
+62,Gallaghers Steak House,4.5,4058,$$$$
+63,Amelie,4.5,396,$$ - $$$
+64,Piccola Cucina,4.5,391,$$ - $$$
+65,Bemelmans Bar,4.5,441,$$$$
+66,Casellula,4.5,251,$$ - $$$
+67,Ocean Prime,4.5,437,$$$$
+68,The Mean Fiddler,4.5,826,$$ - $$$
+69,Rustic Table,4.5,518,$$ - $$$
+70,Keens Steakhouse,4.5,5836,$$$$
+71,The NoMad Bar,4.5,276,$$ - $$$
+72,The River Cafe,4.5,3542,$$$$
+73,The Lobster Place,4.5,1958,$$ - $$$
+74,Tocqueville,4.5,240,$$$$
+75,Her Name Is Han,4.5,134,$$ - $$$
+76,Blue Hill,4.5,622,$$$$
+77,The Little Owl,4.5,1128,$$ - $$$
+78,Almayass,4.5,203,$$$$
+79,Taim West Village,4.5,245,$
+80,Marea,4.5,1986,$$$$
+81,Mastros Steakhouse,4.5,486,$$$$
+82,Robert,4.5,1428,$$$$
+83,Hatsuhana Restaurant,4.5,285,$$ - $$$
+84,Bistango Restaurant,4.5,434,$$ - $$$
+85,Ippudo,4.5,1092,$$ - $$$
+86,PRINT,4.5,886,$$$$
+87,Via Carota,4.5,221,$$ - $$$
+88,BG - Bergdorf Goodman,4.5,425,$$$$
+89,Buddakan,4.5,4888,$$$$
+90,AQUAGRILL,4.5,1139,$$$$
+91,Baz Bagel and Restaurant,4.5,171,$
+92,The Capital Grille,4.5,816,$$$$
+93,Il Punto Ristorante,4.5,1109,$$ - $$$
+94,Del Posto,4.5,1499,$$$$
+95,Patzeria Family & Friends,4.5,3267,$$ - $$$
+96,Cafe Mogador,4.5,395,$$ - $$$
+97,Momoya,4.5,183,$$ - $$$
+98,Jacob Restaurant Soul Food & Salad Bar,4.5,140,$
+99,Cocotte,4.5,208,$$ - $$$
+100,Al Di La Trattoria,4.5,294,$$ - $$$
+101,Chefs Club,4.5,405,$$$$
+102,Red Bamboo,4.5,283,$$ - $$$
+103,Estiatorio Milos,4.5,1284,$$$$
+104,Emilios Ballato,4.5,255,$$ - $$$
+105,Up Thai restaurant,4.5,269,$$ - $$$
+106,Murrays Cheese Bar,4.5,343,$$ - $$$
+107,Jacobs Pickles,4.5,732,$$ - $$$
+108,Flex Mussels - 13th Street,4.5,221,$$ - $$$
+109,Atera,4.5,161,$$$$
+110,Blue Ribbon Sushi,4.5,890,$$ - $$$
+111,Pizza Suprema,4.5,996,$
+112,Buvette Gastrotheque,4.5,798,$$ - $$$
+113,The Polo Bar at Ralph Lauren,4.5,485,$$$$
+114,Hometown Bar-B-Que,4.5,234,$$ - $$$
+115,Jimmys Corner,4.5,411,$
+116,The Boil,4.5,163,$$ - $$$
+117,Amish Market East,4.5,221,$$ - $$$
+118,Dinosaur Bar-B-Que,4.5,1077,$$ - $$$
+119,Whole Foods Market,4.5,1609,$$ - $$$
+120,Senza Gluten,4.5,362,$$ - $$$
+121,The Capital Grille,4.5,1196,$$$$
+122,El Centro,4.5,716,$$ - $$$
+123,The Dead Rabbit,4.5,1076,$$ - $$$
+124,Le Cou Cou Restaurant,4.5,285,$$$$
+125,Franchia Vegan Cafe,4.5,324,$$ - $$$
+126,Montes Trattoria,4.5,434,$$ - $$$
+127,Basso56,4.5,2065,$$ - $$$
+128,The Original SoupMan,4.5,309,$
+129,Land,4.5,299,$$ - $$$
+130,PizzArte,4.5,1123,$$ - $$$
+131,Boucherie Restaurant,4.5,293,$$ - $$$
+132,Hangawi,4.5,545,$$$$
+133,Bareburger,4.5,1166,$$ - $$$
+134,Tonys Di Napoli - Midtown,4.5,5459,$$ - $$$
+135,Mermaid Oyster Bar,4.5,217,$$ - $$$
+136,Johns of Bleecker Street,4.5,1566,$$ - $$$
+137,Emporio,4.5,482,$$ - $$$
+138,Hillstone,4.5,563,$$ - $$$
+139,Fried Dumpling,4.5,163,$
+140,Shake Shack,4.5,7216,$
+141,Jongro BBQ,4.5,310,$$ - $$$
+142,Dean Deluca,4.5,267,$$ - $$$
+143,Black Iron Burger,4.5,223,$$ - $$$
+144,Il Corso,4.5,813,$$ - $$$
+145,Cuba,4.5,411,$$ - $$$
+146,Orso,4.5,397,$$ - $$$
+147,Amandas,4.5,301,$$$$
+148,Maison Premiere,4.5,284,$$ - $$$
+149,Blue Ribbon Brasserie,4.5,341,$$ - $$$
+150,Tanner Smiths,4.5,311,$$ - $$$
+151,Gato,4.5,598,$$$$
+152,The MasalaWala,4.5,369,$$ - $$$
+153,Jacks Wife Freda,4.5,757,$$ - $$$
+154,Times Square Diner,4.5,1679,$
+155,Trattoria Trecolori,4.5,2367,$$ - $$$
+156,Dirt Candy,4.5,289,$$ - $$$
+157,Eleven Madison Park,4.5,2262,$$$$
+158,La Masseria,4.5,1686,$$$$
+159,Market Table,4.5,424,$$ - $$$
+160,La Grenouille,4.5,801,$$$$
+161,Forlinis Restaurant,4.5,665,$$ - $$$
+162,Jean Georges,4.5,1831,$$$$
+163,Fornino,4.5,217,$$ - $$$
+164,Giorgios of Gramercy,4.5,225,$$ - $$$
+165,Eds Lobster Bar,4.5,641,$$ - $$$
+166,Aurora SoHo,4.5,337,$$ - $$$
+167,Keste West Village,4.5,973,$$ - $$$
+168,Lukes Lobster East Village,4.5,667,$$ - $$$
+169,Beyond Sushi,4.5,125,$$ - $$$
+170,Tomoe Sushi,4.5,335,$$ - $$$
+171,Il Gattopardo,4.5,640,$$$$
+172,The Capital Grille,4.5,337,$$$$
+173,Peacefood Cafe,4.5,300,$$ - $$$
+174,Ribalta Pizza,4.5,607,$$ - $$$
+175,The Grey Dog,4.5,470,$$ - $$$
+176,Hakata Ippudo NY,4.5,571,$$ - $$$
+177,Veselka,4.5,843,$$ - $$$
+178,Blossom Vegan Restaurant,4.5,590,$$ - $$$
+179,Joes Pizza,4.5,317,$
+180,Pylos,4.5,360,$$ - $$$
+181,Lukes Lobster,4.5,304,$$ - $$$
+182,Margon,4.5,151,$
+183,Joes Pizza - Carmine St,4.5,1235,$
+184,Mogador Cafe,4.5,495,$$ - $$$
+185,Hells Kitchen,4.5,264,$$ - $$$
+186,The Cuban Restaurant and Bar,4.5,209,$$ - $$$
+187,Pisticci Restaurant,4.5,230,$$ - $$$
+188,53rd & 6th Halal,4.5,613,$
+189,Feinsteins/54 Below,4.5,287,$$ - $$$
+190,Raclette,4.5,292,$$ - $$$
+191,Masseria Dei Vini,4.5,489,$$$$
+192,Il Melograno,4.5,237,$$ - $$$
+193,Blind Tiger Ale House,4.5,274,$$ - $$$
+194,Da Marino Restaurant,4.5,2051,$$ - $$$
+195,Carmines Italian Restaurant - Times Square,4.5,10272,$$ - $$$
+196,Red Cat,4.5,547,$$ - $$$
+197,Burger & Lobster,4.5,803,$$ - $$$
+198,Sweet Chick,4.5,288,$$ - $$$
+199,By CHLOE.,4.5,363,$$ - $$$
+200,Westway Diner,4.5,1613,$
+201,Marc Forgione,4.5,338,$$$$
+202,Piacere,4.5,282,$$ - $$$
+203,The Halal Guys,4.5,2101,$
+204,Momofuku Noodle Bar,4.5,1244,$$ - $$$
+205,Scarpetta,4.5,731,$$$$
+206,Perry St,4.5,338,$$$$
+207,Pearl Oyster Bar,4.5,493,$$ - $$$
+208,Westville Hudson,4.5,157,$$ - $$$
+209,Hudson Eats,4.5,168,$$ - $$$
+210,Queen Italian Restaurant,4.5,293,$$ - $$$
+211,Buenos Aires,4.5,282,$$ - $$$
+212,Sea Fire Grill,4.5,910,$$$$
+213,Red Farm,4.5,533,$$ - $$$
+214,Angelas Sandwich Shop,4.5,224,$
+215,Lukes Lobster- Upper East Side,4.5,148,$$ - $$$
+216,Forno Rosso Pizzeria,4.5,168,$$ - $$$
+217,Barney Greengrass,4.5,468,$$ - $$$
+218,Coppelia,4.5,328,$$ - $$$
+219,Da Andrea Ristorante,4.5,276,$$ - $$$
+220,Prince Street Pizza,4.5,285,$
+221,Saigon Shack,4.5,210,$
+222,Palma,4.5,377,$$ - $$$
+223,Island Burgers and Shakes,4.5,466,$$ - $$$
+224,Prune,4.5,407,$$ - $$$
+225,Henrys End Restaurant,4.5,196,$$ - $$$
+226,Pommes Frites,4.5,344,$
+227,Carraghers Pub & Restaurant,4.5,336,$$ - $$$
+228,Rainbow Room,4.5,558,$$$$
+229,Morton Williams - 57th St,4.5,229,$
+230,Black Tap,4.5,581,$$ - $$$
+231,12 Chairs,4.5,186,$$ - $$$
+232,Caracas Arepa Bar,4.5,308,$
+233,Tamarind - Tribeca,4.5,610,$$$$
+234,Uncle Pauls Pizza,4.5,580,$
+235,Bond Street,4.5,320,$$$$
+236,The Bluebell Cafe,4.5,188,$$ - $$$
+237,Taboon,4.5,338,$$ - $$$
+238,Chalk Point Kitchen,4.5,449,$$ - $$$
+239,Trattoria Pesce Pasta,4.5,164,$$ - $$$
+240,Churrascaria Plataforma,4.5,1354,$$$$
+241,Olea,4.5,139,$$ - $$$
+242,Eataly,4.5,11350,$$ - $$$
+243,Bar SixtyFive,4.5,708,$$$$
+244,La Lanterna di Vittorio,4.5,314,$$ - $$$
+245,Flex Mussels,4.5,294,$$ - $$$
+246,Raouls,4.5,336,$$$$
+247,Artichoke Pizza,4.5,645,$
+248,Hillstone Midtown,4.5,382,$$ - $$$
+249,The Perfect Pint Public House,4.5,202,$$ - $$$
+250,OHaras Restaurant and Pub,4.5,1052,$$ - $$$
+251,Carmines Italian Restaurant - Upper West Side,4.5,1575,$$ - $$$
+252,Little Italy Gourmet Pizza,4.5,319,$
+253,Bareburger,4.5,333,$$ - $$$
+254,Sushi Yasaka,4.5,222,$$ - $$$
+255,Employees Only,4.5,377,$$ - $$$
+256,Dutch Freds,4.5,150,$$ - $$$
+257,Crispo,4.5,401,$$ - $$$
+258,Candle 79,4.5,941,$$ - $$$
+259,Sweet Chick,4.5,238,$$ - $$$
+260,Red Hook Lobster Pound,4.5,169,$$ - $$$
+261,Sunac Natural Food,4.5,146,$
+262,Del Friscos Double Eagle Steak House,4.5,2974,$$$$
+263,Toscana 49,4.5,387,$$ - $$$
+264,Zuckers Bagels Grand Central,4.5,209,$
+265,Boulud Sud,4.5,810,$$$$
+266,Beauty & Essex,4.5,1912,$$$$
+267,Luzzos,4.5,323,$$ - $$$
+268,Pauls Da Burger Joint,4.5,223,$
+269,Pure & Fresh,4.5,211,$
+270,Fish Restaurant and Oyster Bar,4.5,258,$$ - $$$
+271,Via Brasil Restaurant,4.5,391,$$ - $$$
+272,2 Bros Pizza,4.5,162,$
+273,The Meatball Shop,4.5,309,$$ - $$$
+274,The NoMad Restaurant,4.5,898,$$$$
+275,Clinton St. Baking Company & Restaurant,4.5,1259,$$ - $$$
+276,5 Napkin Burger,4.5,3584,$$ - $$$
+277,Two Hands,4.5,254,$$ - $$$
+278,Eisenbergs Sandwich Shop,4.5,481,$
+279,Sweetgreen,4.5,205,$
+280,The Meatball Shop,4.5,960,$$ - $$$
+281,La Pulperia,4.5,210,$$ - $$$
+282,The Leopard at des Artistes,4.5,260,$$$$
+283,Upland,4.5,483,$$ - $$$
+284,Pepolino,4.5,566,$$ - $$$
+285,The Perfect Pint,4.5,1118,$$ - $$$
+286,Zuckers Bagels & Smoked Fish,4.5,393,$
+287,Umi Sushi,4.5,296,$$ - $$$
+288,Georgios Country Grill,4.5,447,$$ - $$$
+289,Blue Dog Kitchen Bar,4.5,222,$$ - $$$
+290,Pepe Giallo,4.5,194,$$ - $$$
+291,Bengal Tiger Indian Food,4.5,380,$$ - $$$
+292,Oceana Restaurant,4.5,1029,$$$$
+293,Nicks,4.5,237,$$ - $$$
+294,Vezzo,4.5,954,$$ - $$$
+295,Fluffys Cafe & Pizzeria,4.5,451,$
+296,Andrews Coffee Shop,4.5,1455,$
+297,Dean & Deluca,4.5,253,$$ - $$$
+298,Capizzi,4.5,1540,$$ - $$$
+299,Union Square Cafe,4.5,1197,$$$$
+300,Cafe Habana,4.5,698,$
+301,Avra Madison Estiatorio,4.5,210,$$$$
+302,Nobu 57,4.5,1547,$$$$
+303,Bread & Butter,4.5,146,$
+304,ABC Kitchen,4.5,1694,$$ - $$$
+305,Beer Culture,4.5,154,$$ - $$$
+306,Antica Pesa,4.5,265,$$$$
+307,Mables Smokehouse & Banquet Hall,4.5,175,$$ - $$$
+308,2nd Avenue Deli,4.5,1006,$$ - $$$
+309,Lillies Victorian Establishment,4.5,955,$$ - $$$
+310,Cafe Boulud,4.5,1082,$$$$
+311,Fiat Cafe,4.5,305,$$ - $$$
+312,Bagel Express,4.5,172,$
+313,Augustine,4.5,182,$$ - $$$
+314,Table 87 Coal Oven Pizza,4.5,139,$$ - $$$
+315,Beechers Handmade Cheese,4.5,244,$$ - $$$
+316,Crave Fishbar,4.5,331,$$ - $$$
+317,Guantanamera,4.5,518,$$ - $$$
+318,aldea,4.5,294,$$$$
+319,The Mermaid Inn,4.5,282,$$ - $$$
+320,Whiskey Tavern,4.5,115,$$ - $$$
+321,Batard,4.5,254,$$$$
+322,Stage Door Deli,4.5,413,$
+323,Sarges Delicatessen & Diner,4.5,629,$$ - $$$
+324,Zero Otto Nove,4.5,220,$$ - $$$
+325,Ravagh Persian Grill,4.5,188,$$ - $$$
+326,Gyu-Kaku Times Square,4.5,324,$$ - $$$
+327,Luigis Gourmet Pizza,4.5,181,$
+328,Whole Foods Market,4.5,415,$
+329,Ayza Wine & Chocolate Bar,4.5,464,$$ - $$$
+330,Match 65 Brasserie,4.5,314,$$ - $$$
+331,Faces and Names,4.5,260,$$ - $$$
+332,The Marshal,4.5,234,$$ - $$$
+333,BLT Steak,4.5,576,$$$$
+334,Num Pang Sandwich Shop,4.5,223,$
+335,New York Yankees Steak House,4.5,489,$$$$
+336,Danji,4.5,430,$$ - $$$
+337,Westville Chelsea,4.5,172,$$ - $$$
+338,Sushi Yasuda,4.5,628,$$$$
+339,Penelope,4.5,1173,$$ - $$$
+340,Friedmans,4.5,1059,$$ - $$$
+341,Vitae,4.5,299,$$$$
+342,Felice 15 Gold Street,4.5,219,$$ - $$$
+343,Patzeria Perfect Pizza,4.5,1080,$
+344,Excellent Dumpling House,4.5,609,$
+345,Clarks Corner,4.5,225,$
+346,La Isla Restaurant,4.5,319,$$ - $$$
+347,Morimoto,4.5,1462,$$$$
+348,Five Leaves,4.5,558,$$ - $$$
+349,Balthazar,4.5,5738,$$$$
+350,Five Guys,4.5,1224,$
+351,Mamouns Falafel,4.5,390,$
+352,Trinity Place,4.5,261,$$ - $$$
+353,Sant Ambroeus,4.5,363,$$$$
+354,The Press Lounge,4.5,337,$$ - $$$
+355,Bus Stop,4.5,198,$
+356,Dovetail,4.5,484,$$$$
+357,Mortons The Steakhouse,4.5,1010,$$$$
+358,Taim Nolita,4.5,122,$
+359,The Grand Tier Restaurant,4.5,293,$$$$
+360,Xian Famous Foods,4.5,245,$
+361,STATE Grill and Bar,4.5,217,$$ - $$$
+362,Sadelles,4.5,232,$$ - $$$
+363,The Egg Shop,4.5,238,$$ - $$$
+364,The Landmark Tavern,4.5,297,$$ - $$$
+365,The Top of The Standard,4.5,689,$$$$
+366,Hourglass Tavern,4.5,419,$$ - $$$
+367,The Dining Room,4.5,221,$$$$
+368,Black Iron Burger,4.5,422,$$ - $$$
+369,Adriennes Pizzabar,4.5,713,$$ - $$$
+370,Lukes Lobster- The Plaza,4.5,359,$$ - $$$
+371,Le Coq Rico NYC,4.5,211,$$$$
+372,ABA Turkish Restaurant,4.5,243,$$ - $$$
+373,Villa Berulia,4.5,143,$$ - $$$
+374,Red Farm,4.5,371,$$ - $$$
+375,99 Cent Fresh Pizza,4.5,215,$
+376,Five Guys,4.5,1675,$
+377,Etcetera Etcetera Restaurant,4.5,462,$$ - $$$
+378,la bonbonniere,4.5,138,$
+379,Great Northern Food,4.5,150,$$ - $$$
+380,Urbanspace Vanderbilt,4.5,296,$
+381,Tribecas Kitchen,4.5,197,$$ - $$$
+382,Balaboosta,4.5,251,$$ - $$$
+383,Fig & Olive Fifth Avenue,4,1220,$$ - $$$
+384,Blue Smoke,4.5,485,$$ - $$$
+385,21 Club,4.5,1066,$$$$
+386,Bocca di Bacco,4,511,$$ - $$$
+387,Bubbys,4,1280,$$ - $$$
+388,VIV Thai,4.5,204,$$ - $$$
+389,Malibu Diner,4.5,434,$
+390,Bareburger,4.5,373,$$ - $$$
+391,Bistro Les Amis,4.5,307,$$ - $$$
+392,Quality Meats,4.5,2136,$$$$
+393,Jackson Hole,4.5,538,$$ - $$$
+394,Sakagura,4.5,444,$$ - $$$
+395,Sandwicherie,4.5,189,$
+396,Tomino - Taberna Gallega,5,56,$$ - $$$
+397,Dean and Deluca,4.5,220,$$ - $$$
+398,Peter Luger Steak House,4,4145,$$$$
+399,Brasserie 8 1/2,4,367,$$ - $$$
+400,Zabar Deli & Gourmet Foods,4.5,468,$
+401,Natsumi,4.5,746,$$ - $$$
+402,Remi,4,558,$$$$
+403,Front Street Pizza,4.5,207,$
+404,Acqua,4.5,303,$$ - $$$
+405,Tessa,4.5,229,$$ - $$$
+406,Annam,4.5,167,$$ - $$$
+407,Bluestone Lane,4.5,129,$$ - $$$
+408,Cookshop,4.5,971,$$ - $$$
+409,Kang Ho Dong Baekjeong,4.5,204,$$ - $$$
+410,Boqueria,4.5,542,$$ - $$$
+411,Il Mulino,4.5,471,$$$$
+412,Steves Pizza,4.5,174,$
+413,Toloache,4.5,1803,$$ - $$$
+414,Benjamin Steakhouse,4.5,2164,$$$$
+415,Shake Shack,4.5,126,$
+416,Il Tinello Ristorante,4.5,276,$$$$
+417,Shake Shack,4.5,467,$
+418,Ristorante Morini,4.5,291,$$$$
+419,Mudspot,4.5,118,$$ - $$$
+420,OCabanon,4.5,271,
+421,Pio Pio 6,4.5,388,
+422,Aquavit,4.5,504,
+423,Crompton Ale House,4.5,135,
+424,Avra Estiatorio,4.5,945,
+425,Mighty Quinns Barbeque,4.5,593,
+426,Dudleys,4.5,211,
+427,Delmonicos,4.5,850,
+428,Ruths Chris Steak House,4.5,1302,
+429,Filaga Pizzeria e Rosticerria Siciliana,4.5,107,
+430,Shake Shack,4.5,1603,
+431,Victors Cafe,4.5,1401,
+432,West Side Steakhouse,4.5,857,
+433,Totto Ramen,4.5,798,
+434,Roman Nose,4.5,148,
+435,Motorino,4.5,253,
+436,9 Ten Restaurant,4.5,194,
+437,Pick A Bagel,4.5,778,
+438,Sparks Steak House,4,1222,
+439,Jackson Hole,4.5,721,
+440,Dean & Deluca,4.5,254,
+441,Vaucluse,4.5,226,
+442,Emmett OLunneys Irish Pub,4.5,878,
+443,TORST,4.5,109,
+444,LEcole,4.5,480,
+445,44 & X,4.5,618,
+446,Friedmans Lunch,4.5,430,
+447,Dinosaur Bar-B-Que,4.5,503,
+448,Ai Fiori,4.5,850,
+449,Le Parisien,4.5,266,
+450,99 Cents Fresh Pizza,4.5,241,$
+451,Kashkaval Garden,4.5,105,$$ - $$$
+452,Llama Inn,4.5,90,$$ - $$$
+453,Le Bateau Ivre,4.5,237,$$ - $$$
+454,Bourbon Street Bar & Grille,4,916,$$ - $$$
+455,Mozzarella&Vino;,4.5,354,$$ - $$$
+456,Fresh and Co.,4.5,307,$
+457,The Kati Roll Company,4.5,175,$
+458,Birdland,4.5,299,$$ - $$$
+459,Ivan Ramen,4.5,275,$$ - $$$
+460,Cafe Luxembourg,4,504,$$ - $$$
+461,Boucherie Park Avenue South,5,132,$$$$
+462,Katzs Deli,4,14172,$$ - $$$
+463,Anejo Tequileria,4.5,296,$$ - $$$
+464,Arturos,4.5,300,$$ - $$$
+465,BLT Prime,4.5,319,$$$$
+466,Lukes Lobster- Brooklyn Bridge Park,4.5,249,$$ - $$$
+467,Toasties,4.5,159,$
+468,La Esquina,4.5,1023,$$ - $$$
+469,The Milling Room,4.5,162,$$ - $$$
+470,Nirvana,4,316,$$ - $$$
+471,Spyglass,4.5,280,$$ - $$$
+472,Scottys Diner,4.5,1669,$
+473,Molyvos,4.5,951,$$ - $$$
+474,Rubys,4.5,271,$$ - $$$
+475,ABC Cocina,4.5,616,$$ - $$$
+476,Blue Smoke,4,1566,$$ - $$$
+477,The Grey Dog,4.5,214,$$ - $$$
+478,Pret A Manger,4.5,232,$
+479,Cupping Room Cafe,4.5,466,$$ - $$$
+480,The Malt House,4.5,184,$$ - $$$
+481,Grazie,4.5,291,$$ - $$$
+482,City Sandwich,4.5,111,$
+483,The Meatball Shop,4.5,173,$$ - $$$
+484,ilili,4.5,1013,$$ - $$$
+485,Pies-N-Thighs,4.5,320,$$ - $$$
+486,Quantum Leap Natural Food,4.5,148,$$ - $$$
+487,Le Rivage,4,667,$$ - $$$
+488,2 Bros Pizza,4.5,667,$
+489,Pio Pio 8,4.5,457,$$ - $$$
+490,Murray Hill Diner,4.5,535,$
+491,Untitled,4,382,$$ - $$$
+492,Fresh and Co.,4.5,185,$
+493,Champs Diner,4.5,148,$$ - $$$
+494,Cowgirl Seahorse,4.5,201,$$ - $$$
+495,Bareburger,4.5,230,$$ - $$$
+496,Carve Unique Sandwiches,4.5,983,$
+497,Nobu,4.5,1390,$$$$
+498,The Paris Cafe,4.5,282,$$ - $$$
+499,Fat Cat,4.5,180,$
+500,Mari Vanna,4.5,307,$$ - $$$
+501,Saju Bistro,4.5,1229,$$ - $$$
+502,Souvlaki Gr,4.5,224,$$ - $$$
+503,Hakkasan,4,908,$$$$
+504,Maison Harlem,4.5,153,$$ - $$$
+505,Momofuku Ssam Bar,4,597,$$ - $$$
+506,Fig & Olive,4,1080,$$ - $$$
+507,Pokeworks,4.5,111,$$ - $$$
+508,Amma,4.5,379,$$ - $$$
+509,Tasty Hand Pulled Noodles,4.5,298,$
+510,Osteria Morini Manhattan,4.5,664,$$ - $$$
+511,Foxy Johns Bar & Kitchen,4.5,144,$$ - $$$
+512,Zuma,4,625,$$$$
+513,Joe Allen,4,911,$$ - $$$
+514,Estela,4.5,316,$$ - $$$
+515,Riverpark,4.5,347,$$$$
+516,Rotisserie Georgette,4,241,$$$$
+517,Tacombi - Nolita,4.5,470,$$ - $$$
+518,Little Italy Pizza,4.5,177,$
+519,The Smith,4,802,$$ - $$$
+520,Felidia,4.5,725,$$$$
+521,Niles Bar & Restaurant,4,581,$$ - $$$
+522,Blue Ribbon Sushi Bar & Grill,4.5,306,$$ - $$$
+523,Barbuto,4.5,531,$$ - $$$
+524,Shake Shack Theater District,4.5,5877,$
+525,Clement at The Peninsula New York,4.5,190,$$$$
+526,Shake Shack,4.5,179,$
+527,The Counter,4.5,1381,$$ - $$$
+528,Harrys Cafe & Steak,4.5,302,$$$$
+529,Samba Kitchen,4.5,72,$$ - $$$
+530,Tommy Bahama Restaurant Bar Store,4.5,382,$$ - $$$
+531,Central Market,4.5,82,$$ - $$$
+532,Barn Joo 35,4.5,110,$$ - $$$
+533,Pret A Manger,4.5,176,$
+534,Yakitori Totto,4.5,269,$$ - $$$
+535,Benito One,4.5,1208,$$ - $$$
+536,Aurora,4.5,182,$$ - $$$
+537,Aretskys Patroon,4.5,154,$$$$
+538,P.J. Clarkes,4,1441,$$ - $$$
+539,Naruto Ramen,4.5,143,$
+540,Saxon and Parole,4.5,288,$$ - $$$
+541,Freds,4.5,296,$$ - $$$
+542,Dons Bogam BBQ & Wine Bar,4.5,158,$$ - $$$
+543,Banc Cafe,4.5,142,$$ - $$$
+544,TAO Downtown,4.5,1213,$$$$
+545,Valbella,4.5,239,$$$$
+546,Koi,4,746,$$$$
+547,Shake Shack,4.5,873,$
+548,Davios Northern Italian Steakhouse,4.5,329,$$$$
+549,Cipriani,4.5,388,$$$$
+550,Rossinis Restaurant,4,383,$$$$
+551,New York Luncheonette,4,838,$
+552,Smoke Jazz Club,4.5,467,$$ - $$$
+553,The Palm West Side,4.5,552,$$$$
+554,Don Antonio,4.5,1877,$$ - $$$
+555,Lupa,4,875,$$ - $$$
+556,Paolas Restaurant,4.5,244,$$ - $$$
+557,Strip House,4,563,$$$$
+558,Nocello,4,327,$$ - $$$
+559,Calle Ocho,4,441,$$ - $$$
+560,Vanessas Dumpling House,4.5,429,$
+561,Lighthorse Tavern,4,326,$$ - $$$
+562,Lukes Lobster Upper West Side,4.5,164,$$ - $$$
+563,The Meatball Shop,4.5,391,$$ - $$$
+564,Parker and Quinn,4,708,$$ - $$$
+565,ViceVersa,4,397,$$ - $$$
+566,Cielo at the Mayfair,4,223,$$ - $$$
+567,Shake Shack,4.5,819,$
+568,Seans Bar & Kitchen,4,216,$$ - $$$
+569,Rosemarys,4.5,562,$$ - $$$
+570,Boqueria,4,378,$$ - $$$
+571,La Mangeoire,4.5,247,$$ - $$$
+572,Il Brigante,4.5,333,$$ - $$$
+573,Black Tap Craft Burgers & Beer,4,379,$$ - $$$
+574,Cock & Bull,4.5,359,$$ - $$$
+575,Tinys & The Bar Upstairs,4,222,$$ - $$$
+576,Knickerbocker Bar & Grill,4,382,$$ - $$$
+577,Big Daddys,4,444,$$ - $$$
+578,Fette Sau,4.5,609,$$ - $$$
+579,Little Park,4.5,193,$$ - $$$
+580,Artichoke Basilles Pizza,4.5,401,$$ - $$$
+581,Candle Cafe,4.5,313,$$ - $$$
+582,Porter House,4,879,$$$$
+583,Johnys Luncheonette,4.5,315,$
+584,Trading Post,4.5,165,$$ - $$$
+585,2 Bros Pizza,4.5,213,$
+586,R Lounge at Two Times Square,4.5,489,$$ - $$$
+587,Black Barn,4.5,212,$$ - $$$
+588,Marta,4,660,$$ - $$$
+589,Benjamin Steakhouse Prime,4.5,140,$$$$
+590,Marseille,4,1004,$$ - $$$
+591,Tonys Di Napoli - Upper East Side,4.5,497,$$ - $$$
+592,Ear Inn,4.5,185,$$ - $$$
+593,Pret A Manger,4.5,395,$
+594,Brazil Brazil,4,672,$$ - $$$
+595,The Harold,4,653,$$ - $$$
+596,Dos Toros Taqueria,4.5,135,$
+597,Pastrami Queen,4.5,336,$$ - $$$
+598,Lincoln Ristorante,4.5,541,$$$$
+599,DB Bistro Moderne,4,1279,$$$$
+600,Traif,4.5,146,
+601,Marcony,4.5,212,
+602,Benny Tudinos,4.5,230,
+603,Maysville,4.5,171,
+604,Trattoria DellArte,4,1595,
+605,Kiss My Slice,4.5,77,
+606,City Diner,4,368,
+607,Terri,4.5,104,
+608,Gelso & Grand,4,652,
+609,Emporium Brasil,4.5,337,
+610,Cheri,4.5,168,
+611,Noodle Pudding,4.5,191,
+612,Pret A Manger,4.5,724,
+613,Freemans Restaurant,4,599,
+614,Mustang Harrys,4,301,
+615,Ipanema Restaurant,4.5,609,
+616,Kodama Sushi,4.5,370,
+617,Trattoria Spaghetto,4,288,
+618,Mighty Quinns Barbeque,4.5,143,
+619,Minetta Tavern,4,996,
+620,Raines Law Room,4.5,173,
+621,Kikis,4.5,115,
+622,Baccarat Hotel Bar,4.5,133,
+623,Pershing Square,4,2166,
+624,Main Noodle House,4,233,
+625,Juliette,4,362,
+626,The Odeon,4.5,439,
+627,Coppolas Pizzeria Restaurant,4.5,367,
+628,Jane,4,418,
+629,The Comfort Diner,4,810,
+630,The House of Brews,4,275,$$ - $$$
+631,Casa Enrique,4.5,199,$$ - $$$
+632,Shake Shack,4.5,557,$
+633,The Keg Room,4,651,$$ - $$$
+634,Marys Fish Camp,4.5,245,$$ - $$$
+635,Bistango at the Kimberly Hotel,4.5,176,$$ - $$$
+636,Cornelia Street Cafe,4,342,$$ - $$$
+637,The Ginger Man,4.5,240,$$ - $$$
+638,The Loeb Boathouse at Central Park,4,3316,$$ - $$$
+639,Nougatine at Jean Georges,4,995,$$$$
+640,Bread & Butter Market,4,250,$
+641,Il Buco Alimentari & Vineria,4,381,$$ - $$$
+642,The Roxy Lounge,4.5,77,$$ - $$$
+643,Five Guys,4.5,253,$
+644,North End Grill,4.5,360,$$$$
+645,Good Enough to Eat,4,694,$$ - $$$
+646,Bar Bacon,4,278,$$ - $$$
+647,Xian Famous Foods,4.5,247,$
+648,Casa Mono,4,459,$$ - $$$
+649,Gaonnuri,4.5,460,$$$$
+650,Thai Select,4.5,319,$$ - $$$
+651,Waldys Wood Fired Pizza & Penne,4.5,275,$
+652,McHales Bar & Grill,4.5,406,$$ - $$$
+653,Uncle Boons,4.5,205,$$ - $$$
+654,Frankies Spuntino 457,4.5,200,$$ - $$$
+655,Pi Greek Bakerie,4.5,109,$$ - $$$
+656,Basta Pasta,4.5,263,$$ - $$$
+657,The Three Monkeys,4.5,560,$$ - $$$
+658,Souvlaki GR,4.5,160,$
+659,Havana NY,4.5,176,$$ - $$$
+660,Tao,4,3311,$$$$
+661,Old Town Bar,4,149,$$ - $$$
+662,Tir na Nog,4,619,$$ - $$$
+663,OReillys Bar & Kitchen,4.5,363,$$ - $$$
+664,Morrell Wine Bar & Cafe,4,261,$$ - $$$
+665,Chez Josephine,4.5,817,$$$$
+666,Johns of Times Square,4,5294,$$ - $$$
+667,AG Kitchen,4,375,$$ - $$$
+668,Shanghai Asian Cuisine,4.5,209,$
+669,Kung Fu Little Steamed Buns Ramen,4,274,$
+670,5 Napkin Burger,4,654,$$ - $$$
+671,Park Avenue Autumn/Winter/Spring/Summer,4,473,$$$$
+672,Metro Diner,4,417,$
+673,Tasty Cafe,4.5,108,$
+674,Foragers,4.5,182,$$ - $$$
+675,Little Italy Pizza,4,219,$
+676,Liberty House Restaurant,4,349,$$$$
+677,North Square,4,215,$$ - $$$
+678,Bubbys High Line,4,876,$$ - $$$
+679,BXL Cafe,4,356,$$ - $$$
+680,Mollys Pub & Restaurant,4.5,200,$$ - $$$
+681,Osteria al Doge,4,1175,$$ - $$$
+682,Eataly Downtown,4,1071,$$ - $$$
+683,Smac,4.5,371,$
+684,Hendriks,4,165,$$ - $$$
+685,The Smith,4,899,$$ - $$$
+686,Manhattan Diner,4,466,$
+687,Cafe Cluny,4,318,$$ - $$$
+688,Hudson Clearwater,4.5,173,$$ - $$$
+689,Chart House,4.5,506,$$$$
+690,DBGB Kitchen & Bar,4,491,
+691,Battello,4,250,
+692,limani,4,306,
+693,Armani Ristorante,4.5,298,
+694,dellanima,4.5,159,
+695,Angels Share,4.5,85,
+696,Refinery Rooftop,4.5,601,
+697,Rosa Mexicano - First Avenue,4,564,
+698,Bea,4,252,
+699,Shake Shack,4,1477,
+700,Il Buco,4,457,
+701,The Rum House,4,470,
+702,Joseph Leonard,4.5,171,
+703,West Bank Cafe,4,306,
+704,Westville,4.5,160,
+705,Almond,4,258,
+706,My Pie Pizzeria Romana,4.5,102,
+707,The Irish Pub,4,708,
+708,Strip House,4,592,
+709,Community Food & Juice,4,254,
+710,Bathtub Gin,4,324,
+711,Bond 45 Italian Kitchen & Bar,4,1066,
+712,Hu Kitchen,4.5,172,
+713,Shanghai Asian Manor,4.5,203,
+714,French Louie,4.5,119,
+715,Asiate,4.5,974,
+716,Speedy Deli,4.5,172,
+717,The Green Table,4.5,468,
+718,Morandi,4,473,
+719,Pret A Manger,4.5,352,
+720,Pampano New York,4,307,
+721,Peasant,4,339,
+722,The Clam,4.5,127,
+723,Salumeria Rosi,4,330,
+724,Lattanzi Ristorante,4,692,
+725,OLunneys,4,862,
+726,Bull & Bear Steakhouse,4,778,
+727,Gigino Trattoria,4,227,
+728,The Crooked Knife,4,263,
+729,Obao,4.5,594,
+730,Egg,4,326,
+731,Ariana Afghan Kabab Restaurant,4.5,143,
+732,Tender Restaurant,4,238,
+733,Tir Na Nog - Penn Station,4,248,
+734,Crif Dogs,4,380,
+735,"One if by Land, Two if by Sea",4,727,
+736,Apotheke,4.5,246,
+737,The Skylark,4.5,212,
+738,Food Emporium,4,352,
+739,Sylvias Restaurant,4,1746,
+740,Bogota Latin Bistro,4.5,202,
+741,44 1/2,4,229,
+742,Baker & Co,4.5,120,
+743,Hundred Acres,4,297,
+744,Elysian Cafe,4.5,176,
+745,Jacks Restaurant & Bar,4,352,
+746,Brooklyn Diner,4,2516,
+747,Ellens Stardust Diner,4,17824,
+748,Jams Restaurant,4,406,
+749,Amy Ruths Home Style Southern Cuisine,4,765,
+750,Mariella Pizza,4.5,163,$
+751,Rocking Horse Cafe,4.5,219,$$ - $$$
+752,Ootoya,4.5,169,$$ - $$$
+753,Charlie Palmer Steak,4.5,197,$$$$
+754,Delicatessen,4,518,$$ - $$$
+755,Le Pain Quotidien,4,653,$$ - $$$
+756,The Fat Radish,4,222,$$ - $$$
+757,Lucali,4.5,156,$$ - $$$
+758,Turkish Kitchen,4.5,293,$$ - $$$
+759,Triomphe,4,279,$$$$
+760,Fresh & Co,4,194,$
+761,Inakaya,4,300,$$ - $$$
+762,Redeye Grill,4,1055,$$$$
+763,Rana,4,321,$$ - $$$
+764,Harlem Shake,4,383,$
+765,Antique Garage,4,361,$$ - $$$
+766,Sticky Rice,4.5,97,$$ - $$$
+767,Isadoras Cafe,4,220,$
+768,Room Service,4,318,$$ - $$$
+769,Loring Place,4.5,86,$$$$
+770,Le Gigot,4.5,151,$$ - $$$
+771,Ceci Italian Cuisine,4,546,$$ - $$$
+772,Uva,4,390,$$ - $$$
+773,Kashkaval,4.5,150,$$ - $$$
+774,New York Beer Company,4,313,$$ - $$$
+775,Locanda Verde,4,1084,$$$$
+776,burger joint,4,4676,$
+777,Temple Court,4.5,155,$$$$
+778,Fogo de Chao Brazilian Steakhouse,4,897,$$$$
+779,Porto Leggero,4.5,168,$$$$
+780,Pascalou,4.5,196,$$ - $$$
+781,Virgils Real BBQ -Time Square,4,3874,$$ - $$$
+782,Havana Central Times Square,4,1579,$$ - $$$
+783,Blooms Cafe,4,567,$$ - $$$
+784,Cowgirl,4,226,$$ - $$$
+785,Thai Market,4.5,152,$$ - $$$
+786,Park Avenue Tavern,4,431,$$ - $$$
+787,Whole Foods Market,4.5,115,$$ - $$$
+788,Red Rooster Harlem,4,2182,$$ - $$$
+789,Please Dont Tell,4,412,$$ - $$$
+790,Five Napkin Burger,4,320,$$ - $$$
+791,Le Bilboquet,4,278,$$$$
+792,Fraunces Tavern Restaurant,4,1162,$$ - $$$
+793,The Smith,4,1379,$$ - $$$
+794,Raymi,4,219,$$ - $$$
+795,Black Tap Craft Burgers & Beer,4,259,$$ - $$$
+796,Sushi of Gari 46,4,320,$$$$
+797,Broome Street Bar,4,261,$$ - $$$
+798,Bocado Wine Bar & Restaurant,4,164,$$ - $$$
+799,Aureole,4.5,1048,$$$$
+800,Quality Italian,4,672,$$$$
+801,Obica Mozzarella Bar - Flatiron,4,229,$$ - $$$
+802,Russian Vodka Room,4.5,157,$$ - $$$
+803,Bistro Milano,4,619,$$ - $$$
+804,Alta,4,411,$$ - $$$
+805,Risotteria Melotti NYC,4.5,132,$$ - $$$
+806,The Butchers Daughter,4,626,$$ - $$$
+807,Foleys Pub & Restaurant,4,261,$$ - $$$
+808,"Chocolate by the Bald Man, Max Brenner",4,1850,$$ - $$$
+809,Il Cortile,4,708,$$ - $$$
+810,Cafe Cranberry,4,651,$
+811,Hunt & Fish Club,4,258,$$$$
+812,Stone Park Cafe,4.5,188,$$ - $$$
+813,Wok To Walk,4,239,$
+814,The Palm Too,4,383,$$$$
+815,I Sodi,4.5,186,$$ - $$$
+816,Seven Bistro,4,202,$$ - $$$
+817,Frankie & Johnnies Steakhouse,4,297,$$$$
+818,Naya Mezze & Grill,4.5,162,$$ - $$$
+819,Pomodoro Rosso,4,289,$$ - $$$
+820,Maloney & Porcelli,4,714,$$$$
+821,Pod 39,4,227,$$ - $$$
+822,Totto Ramen,4.5,176,$
+823,Pret,4,259,$
+824,CHO DANG GOL,4,274,$$ - $$$
+825,Lure Fishbar,4,574,$$ - $$$
+826,Maria Pia,4,625,$$ - $$$
+827,Malatesta Trattoria,4.5,208,$$ - $$$
+828,Atlantic Grill,4,437,$$$$
+829,La Contenta,4.5,59,$$ - $$$
+830,Toms Restaurant,4.5,336,$
+831,Connollys Pub & Restaurant,4,1322,$$ - $$$
+832,Westside Market NYC,4.5,98,$
+833,The Clocktower,4,298,$$$$
+834,Chai Thai Kitchen,4,266,$$ - $$$
+835,Petes Tavern,4,363,$$ - $$$
+836,The Grey Dog,4.5,155,$$ - $$$
+837,Cafe Fiorello,4,1151,$$ - $$$
+838,Pazza Notte,4,885,$$ - $$$
+839,Sangria 46,4,482,$$ - $$$
+840,Razza Pizza Artigianale,4.5,114,$$ - $$$
+841,El Vez,4,281,$$ - $$$
+842,Gotham West Market,4,417,$
+843,Buttermilk Channel,4.5,232,$$ - $$$
+844,The Red Flame Diner,4,2098,$
+845,Rosa Mexicano - Lincoln Center,4,1206,$$ - $$$
+846,Pongsri Thai Restaurant,4,655,$$ - $$$
+847,Barbounia,4,332,$$ - $$$
+848,Ootoya,4.5,120,$$ - $$$
+849,The Sea Grill,4,612,$$$$
+850,Dicksons Farmstand Meats,4.5,108,$
+851,Monkey Bar,4,523,$$$$
+852,Maialino Resturant,4.5,823,$$$$
+853,Melt Shop,4,142,$
+854,MarkJoseph Steakhouse,4.5,184,$$$$
+855,Trader Joe,4.5,106,$
+856,Top Hops,4.5,93,$$ - $$$
+857,Azalea,4.5,735,$$ - $$$
+858,Petit Poulet,4,299,$$ - $$$
+859,Glass House Tavern,4,712,$$ - $$$
+860,Pick A Bagel,4.5,160,$
+861,Ninos 46,4,283,$$ - $$$
+862,Fanelli Cafe,4,298,$$ - $$$
+863,The Smith,4,275,$$ - $$$
+864,Cafe dAlsace,4,306,$$ - $$$
+865,Le District,4,398,$$ - $$$
+866,Casa Lever,4,244,$$$$
+867,The Stagecoach Tavern,4,329,$$ - $$$
+868,Five Senses,4.5,119,$$ - $$$
+869,Tia Pol,4.5,227,$$ - $$$
+870,Circo,4,523,$$$$
+871,Fresco by Scotto,4,403,$$$$
+872,Gotham Pizza,4,219,$
+873,Hide-Chan Ramen,4,152,$
+874,Treehaus,4,246,$$ - $$$
+875,The Stanton Social,4,779,$$ - $$$
+876,Wine 30,4.5,196,$$ - $$$
+877,Radegast Hall & Biergarten,4.5,181,$$ - $$$
+878,OBriens Irish Pub & Restaurant,4,497,$$ - $$$
+879,Hearth,4,270,$$$$
+880,Da Claudio,4.5,140,$$ - $$$
+881,Tout Va Bien,4,398,$$ - $$$
+882,Le Colonial,4,340,$$$$
+883,Playwright Irish Pub,4,645,$$ - $$$
+884,Miss Lilys,4,250,$$ - $$$
+885,Extra Virgin,4,297,$$ - $$$
+886,Morgans Brooklyn Barbecue,4.5,95,$$ - $$$
+887,Lafayette Grand Cafe and Bakery,4,498,$$ - $$$
+888,Brownstone Diner & Pancake,4,567,$$ - $$$
+889,Cafe Gitane,4,312,$$ - $$$
+890,EN Japanese Brasserie,4,296,$$$$
+891,Cacio e Pepe,4.5,144,$$ - $$$
+892,ODonoghues Pub and Restaurant,4,651,$$ - $$$
+893,Nano Ecuadorian Kitchen,4.5,87,$$ - $$$
+894,Periyali,4.5,183,$$ - $$$
+895,Le Grainne Cafe,4,198,$$ - $$$
+896,Spice Symphony 31st,4.5,64,$$ - $$$
+897,Perilla,4.5,203,$$$$
+898,Gigino Wagner Park,4,331,$$ - $$$
+899,Cosme,4,590,$$$$
+900,Little Italy NYC,4,273,$$ - $$$
+901,Lexington Candy Shop,4,224,$
+902,Jack Doyles,4,277,$$ - $$$
+903,Nizza,4,896,$$ - $$$
+904,Cherche Midi,4,224,$$ - $$$
+905,Tonic Times Square,4,180,$$ - $$$
+906,West End Bar & Grill,4,323,$$ - $$$
+907,Claudette,4,166,$$ - $$$
+908,Johns of 12th Street,4,292,$$ - $$$
+909,Tri Tip Grill,4,277,$$ - $$$
+910,GMT Tavern,4.5,179,$$ - $$$
+911,Sams Place,4,255,$$ - $$$
+912,Elmo,4,270,$$ - $$$
+913,Puglia Restaurant,4,397,$$ - $$$
+914,Nix,4.5,129,$$ - $$$
+915,Angelos Pizza,4,1551,$$ - $$$
+916,HB Burger,4,640,$$ - $$$
+917,Topaz Thai Restaurant,4,629,$$ - $$$
+918,Bar Primi,4,179,$$ - $$$
+919,Ritz Diner,4,360,$
+920,Chipotle Mexican Grill,4,246,$
+921,Rosa Mexicano - Union Square,4,404,$$ - $$$
+922,Salinas,4.5,223,$$$$
+923,Hama Japanese Cuisine,4.5,114,$$ - $$$
+924,Numero 28 Pizzeria Napoletana,4.5,165,$$ - $$$
+925,Bread & Tulips,4,227,$$ - $$$
+926,Shake Shack,4,216,$
+927,Dannys Gourmet,4,211,$
+928,Jacob Restaurant,4.5,96,$
+929,Pietrasanta Restaurant,4,274,$$ - $$$
+930,Candle Cafe West,4.5,169,$$ - $$$
+931,Wollenskys Grill,4,241,$$ - $$$
+932,Cask Bar + Kitchen,4.5,121,$$ - $$$
+933,Yemen Cafe and Restaurant,4.5,80,$$ - $$$
+934,Manzo,4,378,$$$$
+935,Amarone Ristorante,4,909,$$ - $$$
+936,Casa Nonna,4,554,$$ - $$$
+937,Cafe China,4,449,$$ - $$$
+938,Johnny Rockets Diner,4,168,$
+939,Paesano of Mulberry Street,4,615,$$ - $$$
+940,Cafe Duke,4,220,$
+941,The Crosby Bar,4,185,$$ - $$$
+942,Jacks Wife Freda,4.5,144,$$ - $$$
+943,Le Relais de Venise LEntrecote,4,687,$$ - $$$
+944,Five Guys,4,286,$
+945,La Pain Quotidien,4,959,$$ - $$$
+946,Tavola,4,748,$$ - $$$
+947,Papaya King,4,258,$
+948,Remedy Diner,4,221,$
+949,Wasabi Sushi & Bento,4,537,$
+950,Very Fresh Noodles,4.5,61,$
+951,Bubba Gump Shrimp Co.,4,11448,$$ - $$$
+952,New Wonjo Restaurant,4,395,$$ - $$$
+953,Osteria Laguna Restaurant,4,622,$$ - $$$
+954,Petrossian Boutique & Cafe,4.5,156,$$ - $$$
+955,Sarabeths East,4,503,$$ - $$$
+956,Margherita NYCe,4.5,130,$$ - $$$
+957,Peacock Alley,4,572,$$$$
+958,Pig and Khao,4.5,138,$$ - $$$
+959,Shortys,4.5,144,$
+960,Darbar,4,300,
+961,Tavern on the Green,4,2582,
+962,Uncle Jacks Steakhouse - Midtown,4,1149,
+963,Briciola,4.5,208,
+964,Shake Shack,4,485,
+965,Langans Bar & Restaurant,4,583,
+966,Pig n Whistle,4,558,
+967,Macao Trading Co,4,193,
+968,BCD Tofu House,4,193,
+969,Friend of a Farmer,4,464,
+970,Taverna di Bacco,4.5,113,
+971,Spring Natural Kitchen,4,198,
+972,Tappo Thin Crust Pizza,4,205,
+973,Chipotle Mexican Grill,4,842,
+974,Ninja New York,4,893,
+975,Walkers,4.5,127,
+976,St. Anselm,4.5,175,
+977,Clyde Fraziers Wine and Dine,4,183,
+978,El Parador Cafe,4.5,179,
+979,Wo Hop,4,892,
+980,Nippori,4.5,150,
+981,Giano,4.5,81,
+982,Jubilee,4.5,220,
+983,Daltons Bar & Grill,4.5,132,
+984,Yum Yum Too,4,366,
+985,Giovanni Rana Pastificio e Cucina,4,1207,
+986,Famous Amadeus Pizza,4,216,
+987,Haru,4,673,
+988,Lil Frankies Pizza,4.5,178,
+989,VYNL,4,257,
+990,Hill Country Barbecue Market,4,960,$$ - $$$
+991,J.G. Melon,4,701,$$ - $$$
+992,El Almacen,4.5,113,$$ - $$$
+993,Toloache 82,4.5,155,$$ - $$$
+994,Luna Piena Ristorante,4.5,287,$$ - $$$
+995,Brasserie 1605 at the Crowne Plaza Times Square,4,352,$$ - $$$
+996,Benoit New York,4,771,$$$$
+997,The Standard Grill,4,1623,$$ - $$$
+998,Patsys Pizza,4,249,$$ - $$$
+999,Fire & Oak - Jersey City,4,334,$$ - $$$
+1000,Nom Wah Tea Parlor,4,682,$
+1001,Beyond Sushi,4.5,71,$$ - $$$
+1002,Brendans Bar & Grill,4,799,$$ - $$$
+1003,Patsys,4.5,102,$$ - $$$
+1004,Philip Marie Restaurant,4.5,528,$$ - $$$
+1005,King Cole Bar,4.5,216,$$$$
+1006,Blue Fin,4,1839,$$ - $$$
+1007,Teds Montana Grill,4,631,$$ - $$$
+1008,Atrium Dumbo,4,261,$$ - $$$
+1009,Pign Whistle On Third,4,138,$$ - $$$
+1010,At Nine Restaurant & Bar,4.5,94,$$ - $$$
+1011,Bella Blu,4.5,236,$$ - $$$
+1012,Pax Wholesome Foods,4,241,$
+1013,Sushi Nakazawa,4.5,216,$$$$
+1014,The East Pole,4,154,$$ - $$$
+1015,Greek Kitchen,4,199,$$ - $$$
+1016,The House of Brews,4.5,172,$$ - $$$
+1017,Bodrum Mediterranean Restaurant,4,135,$$ - $$$
+1018,Colonie,4.5,125,$$ - $$$
+1019,Angelos of Mulberry Street,4,637,$$ - $$$
+1020,Pappardella,4,370,$$ - $$$
+1021,Bistro Vendome,4.5,97,$$ - $$$
+1022,Johns Coffee Shop,4.5,97,$
+1023,California Pizza Kitchen,4,225,$$ - $$$
+1024,Wild Ginger Pan Asian,4.5,130,$$ - $$$
+1025,The Irish American Pub,4,247,$$ - $$$
+1026,LIC Market,4.5,174,$$ - $$$
+1027,Sofia Wine Bar and Cafe,4.5,106,$$ - $$$
+1028,La Pizza & La Pasta,4.5,147,$$ - $$$
+1029,Gallow Green,4,227,$$ - $$$
+1030,230 Fifth,4,3050,$$ - $$$
+1031,Supernova - Novotel Hotel Times Square,4,432,$$ - $$$
+1032,Paulie Gees,4.5,189,$$ - $$$
+1033,Bann,4,239,$$ - $$$
+1034,La Pecora Bianca,4,277,$$ - $$$
+1035,Kellari Taverna,4,805,$$ - $$$
+1036,Ovest Pizzoteca,4.5,131,$$ - $$$
+1037,District Tap House,4,158,$$ - $$$
+1038,Tarallucci e Vino Union Square,4,170,$$ - $$$
+1039,Docks Oyster Bar,4,543,$$ - $$$
+1040,Schnippers,4,256,$
+1041,Mas,4.5,242,$$$$
+1042,Lido,4,181,$$ - $$$
+1043,Bills Bar & Burger,4,2905,$$ - $$$
+1044,David Burke Kitchen,4,449,$$ - $$$
+1045,Clover Club,4.5,89,$$ - $$$
+1046,Smith & Wollensky,4,2864,$$$$
+1047,Lusardis Restaurant,4.5,118,$$$$
+1048,Uncle Nicks Greek Cuisine,4,271,$$ - $$$
+1049,EJs Luncheonette,4,218,$
+1050,Agern,4.5,156,$$$$
+1051,Los Mariscos,4.5,54,$
+1052,Don Giovanni Ristorante,4,536,$$ - $$$
+1053,The Lambs Club,4,839,$$$$
+1054,Lips,4,274,$$ - $$$
+1055,Morning Star Cafe,4,342,$
+1056,La Gioconda,4.5,114,$$ - $$$
+1057,Sergimmo Salumeria,4.5,126,$$ - $$$
+1058,Blue Note,4,1203,$$ - $$$
+1059,Burger Joint,4,404,$
+1060,indikitch,4.5,115,$
+1061,Dim Sum Palace,4,181,$$ - $$$
+1062,Skylight Diner,4,669,$
+1063,The Soho Grand Bar & Lounge,4.5,133,$$ - $$$
+1064,La Bonne Soupe,4,903,$$ - $$$
+1065,Black Seed Bagels,4,173,$
+1066,Porteno,4.5,148,$$ - $$$
+1067,The Little Beet Table,4.5,97,$$ - $$$
+1068,Empire Diner,4,306,$$ - $$$
+1069,Cafe Manhattan,4.5,144,$
+1070,City Kitchen,4,506,$$ - $$$
+1071,The Bread Factory Cafe,4,189,$
+1072,Burger and Barrel,4,240,$$ - $$$
+1073,Aunt Jakes NYC,4,173,$$ - $$$
+1074,Famous Famiglia Pizzeria,4,472,$
+1075,Georges Restaurant,4,681,$$ - $$$
+1076,Tribeca Grill,4,1085,$$$$
+1077,DeGrezia Ristorante,4.5,149,$$$$
+1078,The Brindle Room,4.5,143,$$ - $$$
+1079,Chirping Chicken,4,227,$
+1080,Brooklyn Diner,4,1764,$$ - $$$
+1081,Viv Regional Thai Cuisine,4.5,125,$$ - $$$
+1082,Westlight,4,172,$$$$
+1083,Creamline,4,152,$
+1084,Sarabeths West,4,645,$$ - $$$
+1085,Draught 55,4.5,84,$$ - $$$
+1086,Neapolitan Express,4.5,83,$
+1087,Blue Water Grill,4,950,$$$$
+1088,Mad Dog & Beans,4,257,$$ - $$$
+1089,Rice N Beans,4.5,142,$$ - $$$
+1090,Industry Kitchen,4,314,$$ - $$$
+1091,Junoon Restaurant,4,637,$$$$
+1092,Carroll Place,4.5,130,$$ - $$$
+1093,Havana Social,4.5,84,$$ - $$$
+1094,Snack EOS,4,157,$$ - $$$
+1095,Zoob Zib Thai Authentic Noodle Bar,4.5,141,$$ - $$$
+1096,Emily,4.5,82,$$ - $$$
+1097,Stage Door Delicatessen,4,319,$$ - $$$
+1098,Milon Restaurant,4,192,$
+1099,View Of The World,4.5,79,$$ - $$$
+1100,Ngam,4.5,144,$$ - $$$
+1101,Le Cirque,4,573,$$$$
+1102,Peacefood Cafe,4.5,87,$$ - $$$
+1103,Non Solo Piada,5,44,$
+1104,Pietros,4.5,131,$$$$
+1105,Lilia,4.5,133,$$ - $$$
+1106,Bluestone Lane,4.5,114,$$ - $$$
+1107,The Long Room,4,432,$$ - $$$
+1108,Brasserie Ruhlmann,4,545,$$ - $$$
+1109,Bobby Vans Steakhouse - 50th Street,4,563,$$$$
+1110,Reynards,4,209,$$ - $$$
+1111,Joes Shanghai,4,1612,$$ - $$$
+1112,John Brown Smokehouse,4.5,312,$$ - $$$
+1113,The Dutch,4,766,$$ - $$$
+1114,Stella 34 Trattoria,4,893,$$ - $$$
+1115,Lavagna,4.5,141,$$ - $$$
+1116,Pescatore,4,225,$$ - $$$
+1117,Five Guys,4,142,$
+1118,Brooklyn Crab,4,214,$$ - $$$
+1119,Rocco Steakhouse,4.5,131,$$$$
+1120,Mandoo Bar,4,252,$
+1121,Bodega Negra,4,203,$$ - $$$
+1122,La Mirabelle,4.5,177,$$ - $$$
+1123,Merchants River House,4,303,$$ - $$$
+1124,Tartinery,4,201,$$ - $$$
+1125,Grand Central Oyster Bar & Restaurant,4,4291,$$ - $$$
+1126,Cellini,4,368,$$ - $$$
+1127,Fairway Cafe,4,299,$$ - $$$
+1128,Caviar Russe,4.5,113,$$$$
+1129,Le Pain Quotidien,4,1037,$$ - $$$
+1130,Cafe Viand,4,708,$$ - $$$
+1131,BXL Zoute,4.5,96,$$ - $$$
+1132,Valhalla,4.5,100,$$ - $$$
+1133,Mercato,4,862,$$ - $$$
+1134,Chopt Salad,4.5,117,$
+1135,Timna,4.5,63,$$ - $$$
+1136,Epistrophy,4,166,$$ - $$$
+1137,Wondee Siam I,4.5,127,$
+1138,Pepe Rosso Social,4.5,126,$$ - $$$
+1139,Il Piccolo Bufalo,4,325,$$ - $$$
+1140,Del Friscos Grille,4,786,$$$$
+1141,Ashleys Fine Foods,4,344,$
+1142,Scallywags Irish Pub and Restaurant,4.5,187,$$ - $$$
+1143,Metro Grill,4,330,$$ - $$$
+1144,Robertas Pizza,4.5,1145,$$ - $$$
+1145,Vandal,4,349,$$$$
+1146,Sevilla Restaurant & Bar,4,298,$$ - $$$
+1147,Bar Italia,4,235,$$ - $$$
+1148,Serafina,4,286,$$ - $$$
+1149,Schnippers,4,726,$
+1150,La Boite en Bois,4,219,$$ - $$$
+1151,Best Pizza,4.5,102,$
+1152,The Grange Bar & Eatery,4.5,154,$$ - $$$
+1153,Beer Authority NYC,4,707,$$ - $$$
+1154,Cosmic Diner,4,849,$
+1155,Dirty French,4,347,$$$$
+1156,Serafina at The Time Hotel,4,471,$$ - $$$
+1157,Legends New York City,4,303,$$ - $$$
+1158,Rattle N Hum,4,195,$$ - $$$
+1159,Harry Cipriani Restaurant,4,527,$$$$
+1160,Arriba Arriba Mexican Restaurant,4,279,$$ - $$$
+1161,Oatmeals,4.5,59,$
+1162,Chipotle Mexican Grill,4,227,$
+1163,BXL East,4.5,110,$$ - $$$
+1164,Vintry Wine and Whiskey,4.5,83,$$ - $$$
+1165,SuteiShi,4.5,101,$$ - $$$
+1166,Mermaid Inn,4,195,$$ - $$$
+1167,Ella Kitchen and Bar,4.5,103,$$ - $$$
+1168,OReillys Pub & Restaurant,4,185,$$ - $$$
+1169,Frying Pan,4,159,$$ - $$$
+1170,Omai,4.5,115,$$ - $$$
+1171,Salon de Ning ROOFTOP,4,255,$$$$
+1172,Hurleys Saloon,4,585,$$ - $$$
+1173,Europa Cafe,4,377,$
+1174,Karczma Polish Restaurant,4.5,109,$$ - $$$
+1175,Barilla Restaurant,4,360,$
+1176,The Flatiron Room,4.5,129,$$ - $$$
+1177,One World Observatory Restaurant,4,276,$$ - $$$
+1178,Route 66 Cafe,4,329,$$ - $$$
+1179,Olive Garden,4,4022,$$ - $$$
+1180,The Strand Bistro,4.5,194,$$ - $$$
+1181,Bryant Park Grill,4,1523,$$ - $$$
+1182,Khe-Yo,4.5,147,$$ - $$$
+1183,DuMont Burger,4.5,146,$$ - $$$
+1184,Meme Mediterranean,4,139,$$ - $$$
+1185,Hyatt Regency Jersey City,4.5,132,$$ - $$$
+1186,Red Lobster,4,3178,$$ - $$$
+1187,Indochine,4,315,$$$$
+1188,Rosie OGradys,4,1956,$$ - $$$
+1189,Bobby Vans Steak House,4,223,$$$$
+1190,Caffe Palermo,4,407,$$ - $$$
+1191,Atoboy,4.5,54,$$ - $$$
+1192,Nios,4,199,$$ - $$$
+1193,Pilsener Haus & Biergarten,4.5,122,$$ - $$$
+1194,Le Pain Quotidien,4,217,$$ - $$$
+1195,Smashbhrger,4.5,118,$
+1196,Yum Yum Bangkok,4,379,$$ - $$$
+1197,Pret A Manger,4,147,$
+1198,Rucola,4.5,118,$$ - $$$
+1199,Lybane,4,260,$$ - $$$
+1200,Inatteso Pizzabar,4,186,$$ - $$$
+1201,Distilled,4.5,129,$$ - $$$
+1202,The Little Beet,4.5,148,$$ - $$$
+1203,Eats,4,164,$$ - $$$
+1204,Supper,4,216,$$ - $$$
+1205,Manettas Ristorante,4.5,151,$$ - $$$
+1206,Skinners Loft,4,139,$$ - $$$
+1207,Morning Star Restaurant,4,401,$
+1208,Bens Kosher Delicatessen Restaurant & Caterers,4,764,$$ - $$$
+1209,Maoz Vegetarian,4.5,113,$
+1210,Upstairs at the Kimberly,4,299,$$ - $$$
+1211,Flor De Mayo Restaurant,4,160,$$ - $$$
+1212,Obica Mozzarella Bar - Madison Avenue,4,199,$$ - $$$
+1213,Mezetto,4.5,102,$$ - $$$
+1214,Il Corallo Trattoria,4,222,$$ - $$$
+1215,Pergola Des Artistes,4,297,$$ - $$$
+1216,Patsys Pizzeria,4,207,$$ - $$$
+1217,Fig & Olive Uptown,4,269,$$ - $$$
+1218,Via Quadronno,4,303,$$ - $$$
+1219,Brushstroke,4,204,$$$$
+1220,Sinigual,4,325,$$ - $$$
+1221,Trademark Taste + Grind,4.5,115,$$ - $$$
+1222,Babbo,4,1809,$$$$
+1223,Table DHote,4.5,89,$$ - $$$
+1224,Grimaldis Coal Brick Oven,4,163,$$ - $$$
+1225,Megu,4.5,141,$$ - $$$
+1226,Il Vagabondo,4.5,202,$$ - $$$
+1227,Wolfgangs Steakhouse,4,1048,$$$$
+1228,El Quijote,4,300,$$ - $$$
+1229,Whole Foods Market,4.5,121,$
+1230,Carbone,4,364,$$$$
+1231,Joe Gs Restaurant Italiano,4,163,$$ - $$$
+1232,Rare Bar & Grill,4,647,$$ - $$$
+1233,The Mark Restaurant by Jean Georges,4,347,$$$$
+1234,Mintons,4.5,116,$$ - $$$
+1235,Astro Restaurant,4,634,$
+1236,BareBurger,4.5,126,$$ - $$$
+1237,Cafe 28,4,201,$
+1238,Aldo Sohm Wine Bar,4.5,119,$$ - $$$
+1239,Heidelberg Restaurant,4,241,$$ - $$$
+1240,Shanghai Cafe,4,285,$
+1241,Barbetta,4,470,$$$$
+1242,Los Tacos No. 1,4.5,54,$
+1243,Cafe Frida,4,427,$$ - $$$
+1244,Root & Bone,4,174,$$ - $$$
+1245,Lansdowne Road,4.5,119,$$ - $$$
+1246,Food Gallery 32,4.5,101,$
+1247,The Heartland Brewery and Rotisserie at the Empire State Building,4,2342,$$ - $$$
+1248,The Spotted Pig,4,2169,$$ - $$$
+1249,Connollys Pub & Restaurant,4,260,$$ - $$$
+1250,Dafni Greek Taverna,4,547,$$ - $$$
+1251,Famous Famiglia,4,139,$
+1252,Tacombi,4,121,$$ - $$$
+1253,Le Pain Quotidien,4,189,$$ - $$$
+1254,Isle of Capri,4.5,179,$$ - $$$
+1255,City Lobster & Steakhouse,4,706,$$ - $$$
+1256,Sake Bar Hagi,4,252,$$ - $$$
+1257,Gyu-Kaku Japanese BBQ Dining,4,204,$$ - $$$
+1258,LAVO Italian Restaurant & Nightclub,4,823,$$$$
+1259,Brother Jimmys BBQ,4,363,$$ - $$$
+1260,Uncle Jacks Steakhouse Westside,4,596,$$$$
+1261,Da Umberto,4.5,144,$$$$
+1262,Arco Cafe,4.5,145,$$ - $$$
+1263,Mokbar,4.5,115,$$ - $$$
+1264,Catch NYC,4,1343,$$$$
+1265,Rue 57,4,2219,$$ - $$$
+1266,Tavern 29,4,154,$$ - $$$
+1267,Dekalb Market Hall,4.5,60,$
+1268,Bareburger,4.5,60,$$ - $$$
+1269,Gemma,4,398,$$ - $$$
+1270,Harrys Italian Pizza Bar,4,313,$$ - $$$
+1271,Normas,4,1377,$$$$
+1272,Brunetti Pizza,4.5,107,$$ - $$$
+1273,Serafina,4,1473,$$ - $$$
+1274,Scarlatto,4,759,$$ - $$$
+1275,Abigaels,4.5,206,$$$$
+1276,Indian Project,4.5,82,$$ - $$$
+1277,Gaby Brasserie Francaise,4,281,$$ - $$$
+1278,Orsay,4,290,$$ - $$$
+1279,Almanac,4.5,93,$$$$
+1280,Byblos Restaurant,4.5,132,$$ - $$$
+1281,Pera Mediterranean Brasserie,4,300,$$ - $$$
+1282,Bistro Chat Noir,4,213,$$ - $$$
+1283,Orale Mexican Kitchen,4.5,131,$$ - $$$
+1284,Kefi,4,392,$$ - $$$
+1285,Satis Bistro,4.5,153,$$ - $$$
+1286,Obao,4,171,$$ - $$$
+1287,cafeteria,4,656,$$ - $$$
+1288,Jules Bistro,4,174,$$ - $$$
+1289,Vapiano Union Square,4,290,$$ - $$$
+1290,Moonstruck Diner,4,590,$$ - $$$
+1291,LA SIRENE,4.5,156,$$ - $$$
+1292,Sushi of Gari,4.5,250,$$$$
+1293,Excuse My French,5,49,$$ - $$$
+1294,Playwright Celtic Pub,4,778,$$ - $$$
+1295,Joes Pizza Of Park Slope,4.5,75,$
+1296,Corner Bistro,4,987,$
+1297,Roccos Tacos and Tequila Bar Brooklyn,4,285,$$ - $$$
+1298,Delice & Sarrasin,4.5,67,$$ - $$$
+1299,Damore Winebar & Ristorante,5,52,$$ - $$$
+1300,Babbalucci,4.5,82,$$ - $$$
+1301,Rare Chelsea,4,394,$$ - $$$
+1302,Sardis Restaurant,4,1781,$$ - $$$
+1303,lAmico,4,320,$$ - $$$
+1304,Little Italy Pizza,4,155,$
+1305,STK Midtown,4,599,$$$$
+1306,Russian Samovar,4,280,$$ - $$$
+1307,Basera Indian Bistro,4,203,$$ - $$$
+1308,Miss Korea BBQ,4,534,$$ - $$$
+1309,Gallo Nero Wine Bar and Grill,4,206,$$ - $$$
+1310,Superiority Burger,4.5,50,$
+1311,Szechuan Gourmet,4,319,$$ - $$$
+1312,Nai Tapas Bar,4.5,98,$$ - $$$
+1313,Ecco!,4.5,152,$$ - $$$
+1314,Omars Kitchen & Bakery,4.5,85,$
+1315,Speedys Fresh Food Cafe,4,151,$
+1316,Alfies,4.5,109,$$ - $$$
+1317,Big Daddys,4,215,$$ - $$$
+1318,Stout,4,378,$$ - $$$
+1319,Covina,4.5,108,$$ - $$$
+1320,Blue Dog Kitchen,4.5,86,$$ - $$$
+1321,P.J. Clarkes,4,1018,$$ - $$$
+1322,TBar,4.5,121,$$$$
+1323,Bamontes Restaurant,4,182,$$ - $$$
+1324,Cascade Cafe,4.5,118,$
+1325,Public,4,431,$$$$
+1326,Sarabeths Tribeca,4,394,$$ - $$$
+1327,Friedmans,4.5,60,$$ - $$$
+1328,Lexington Brass,4,671,$$ - $$$
+1329,Essex World Cafe,4,155,$
+1330,Wolfgangs Steakhouse,4,838,$$$$
+1331,Patsys Pizza--74th Street,4,266,$$ - $$$
+1332,Fabio Cucina Italiana,4.5,180,$$$$
+1333,Bacchus,4,125,$$ - $$$
+1334,Hard Rock Cafe,4,8176,$$ - $$$
+1335,Il Baretto,4.5,70,$$ - $$$
+1336,Becco,4,3659,$$ - $$$
+1337,La Mela Ristorante,4,740,$$ - $$$
+1338,Tulsi,4,231,$$$$
+1339,Roast Kitchen,4,191,$
+1340,Judge Roy Bean Public House,4.5,97,$
+1341,Goa Taco,4.5,63,$
+1342,Barn Joo,4,131,$$ - $$$
+1343,The John Dory Oyster Bar,4,398,$$ - $$$
+1344,Resette,4,283,$$ - $$$
+1345,Berimbau,4.5,118,$$ - $$$
+1346,Playwright Tavern & Restaurant,4,312,$$ - $$$
+1347,Aria,4.5,179,$$ - $$$
+1348,Friedmans,4,113,$$ - $$$
+1349,Epicerie Boulud,4,191,$$ - $$$
+1350,Sala One Nine,4.5,119,$$ - $$$
+1351,Cafe Un Deux Trois,4,1417,$$ - $$$
+1352,Vai,4.5,130,$$ - $$$
+1353,Molly Wee Pub,4,182,$$ - $$$
+1354,Nyonya,4,297,$$ - $$$
+1355,The Todd English Food Hall,4,182,$$ - $$$
+1356,Aita,4.5,68,$$ - $$$
+1357,City Winery,4,359,$$ - $$$
+1358,Panera Bread,4,146,$
+1359,Meadowsweet,4.5,111,$$$$
+1360,Star on 18,4.5,98,$
+1361,Waverly Diner,4,231,$
+1362,Sacco Pizza,4.5,107,$
+1363,Sojourn,4.5,102,$$ - $$$
+1364,Bistecca Fiorentina,4,227,$$ - $$$
+1365,Narcissa,4,246,$$$$
+1366,Cafe Luluc,4,167,$$ - $$$
+1367,Cafe Select,4,152,$$ - $$$
+1368,Qi Bangkok Eatery,4,233,$$ - $$$
+1369,Amsterdam Ale House,4,293,$$ - $$$
+1370,Barilla Restaurants,4,1053,$
+1371,Amaranth Restaurant,4,230,$$ - $$$
+1372,Chimichurri Grill,4,254,$$ - $$$
+1373,Dim Sum Go Go,4,377,$
+1374,River Deli,4.5,93,$$ - $$$
+1375,Buceo 95,4.5,103,$$ - $$$
+1376,Croton Reservoir Tavern,4,172,$$ - $$$
+1377,The London Bar,4,769,$$$$
+1378,Barboncino,4.5,117,$$ - $$$
+1379,Cucina Liberta Market,4,141,$
+1380,Lantern,4,123,$$ - $$$
+1381,Storico,4,198,$$ - $$$
+1382,Zio Ristorante,4.5,125,$$ - $$$
+1383,Corner Social,4,169,$$ - $$$
+1384,Da Nico Ristorante,4,879,$$ - $$$
+1385,Sarabeths Central Park South,4,2880,$$ - $$$
+1386,Mercury Bar,4.5,129,$$ - $$$
+1387,SEA thai restaurant and bistro,4,374,$$ - $$$
+1388,Tacuba Hells Kitchen Cantina Mexicana,4,134,$$ - $$$
+1389,Taverna Kyclades East Village,4.5,139,$$ - $$$
+1390,Mulligans Pub,4,185,$$ - $$$
+1391,Cesca,4,275,$$$$
+1392,Melbas,4,168,$$ - $$$
+1393,Freddie and Peppers,4.5,147,$
+1394,Serafina Always,4,268,$$ - $$$
+1395,Harlem Tavern,4,320,$$ - $$$
+1396,Contra,4.5,116,$$$$
+1397,Square Diner,4,157,$
+1398,Arno Ristorante,4,311,$$ - $$$
+1399,Eds Chowder House,4,491,$$ - $$$
+1400,La Villetta,4.5,74,$$ - $$$
+1401,Blue Ribbon Sushi Izakaya,4.5,110,$$ - $$$
+1402,Earls Beer and Cheese,4.5,97,$
+1403,Heights Cafe,4,221,$$ - $$$
+1404,Sant Ambroeus,4,192,$$ - $$$
+1405,Ca Va Todd English,4,384,$$$$
+1406,Gradisca,4.5,140,$$ - $$$
+1407,PJ Carneys,4,172,$$ - $$$
+1408,Amelias Restaurant,4,129,$
+1409,Cafe Colette,4.5,106,$$ - $$$
+1410,Premier Cafe,4,306,$
+1411,Brass Monkey,4,208,$$ - $$$
+1412,Reserve Cut at The Setai,4.5,153,$$$$
+1413,The Bar Room,4.5,111,$$ - $$$
+1414,Akdeniz,4,139,$$ - $$$
+1415,Villa Mosconi,4.5,170,$$ - $$$
+1416,Neta,4.5,126,$$$$
+1417,Uno Pizzeria & Grill,4,351,$$ - $$$
+1418,The Greek Tribeca,4.5,109,$$ - $$$
+1419,Cara Mia,4,446,$$ - $$$
+1420,Awadh,4.5,122,$$ - $$$
+1421,Laut,4,193,$$ - $$$
+1422,The Standard Biergarten,4,302,$$ - $$$
+1423,810 Deli Incorporated,4,321,$
+1424,Vinegar Hill House,4,170,$$ - $$$
+1425,AlMar,4,161,$$ - $$$
+1426,Dos Caminos,4,386,$$ - $$$
+1427,Barawine,4,138,$$ - $$$
+1428,The Jeffrey Craft Beer Bar and Bites,4.5,85,$$ - $$$
+1429,Bills Townhouse,4.5,122,$$ - $$$
+1430,Cecconis Dumbo,4,179,$$ - $$$
+1431,Tavern on Jane,4.5,120,$$ - $$$
+1432,Skyline Gourmet Deli,4.5,97,$
+1433,Chop Shop,4.5,67,$$ - $$$
+1434,Just Salad,4.5,112,$
+1435,121 Fulton Street Restaurant,4,170,$$ - $$$
+1436,Yerba Buena,4.5,112,$$ - $$$
+1437,Bombay Grill House,4.5,92,$$ - $$$
+1438,Patsys Pizzeria,4,207,$$ - $$$
+1439,Zengo,4,235,$$ - $$$
+1440,Lupulo,4,218,$$ - $$$
+1441,Bareburger,4.5,124,$$ - $$$
+1442,Coppolas East,4.5,131,$$ - $$$
+1443,Pizza Rollio,4.5,87,$$ - $$$
+1444,Racines,4.5,73,$$$$
+1445,Burrito Box,4.5,72,$
+1446,Freds at Barneys New York,4,275,$$ - $$$
+1447,Empire Steak House 54th Street,4,636,$$$$
+1448,Hale and Hearty Soups--Lexington Avenue,4.5,104,$
+1449,Jin Ramen,4.5,127,$$ - $$$
+1450,Pier A,4,581,$$ - $$$
+1451,Sukhumvit 51,4.5,90,$
+1452,I Trulli,4,243,$$ - $$$
+1453,Tonys Di Napoli,4.5,84,$$ - $$$
+1454,MoMAs Cafe 2,4,385,$$ - $$$
+1455,Takashi,4.5,135,$$ - $$$
+1456,A A Jing,4.5,113,$$ - $$$
+1457,Andys Deli,4.5,69,$
+1458,the Junction,4.5,91,$
+1459,Theatre Row Diner,4,420,$$ - $$$
+1460,Sals Little Italy,4,226,$$ - $$$
+1461,Le Pain Quotidien - Lexington,4,218,$$ - $$$
+1462,Galli Restaurant,4,216,$$ - $$$
+1463,Bailey Pub and Brasserie,4,169,$$ - $$$
+1464,Chipotle Mexican Grill,4,148,$
+1465,Sotto 13,4.5,114,$$ - $$$
+1466,P.J. Clarkes on the Hudson,4,398,$$ - $$$
+1467,The Bedford,4.5,76,$$ - $$$
+1468,94 Corner Cafe,4,139,$
+1469,Mexicue,4,124,$$ - $$$
+1470,Speedy Romeo,4.5,110,$$ - $$$
+1471,Emmetts,4.5,64,$$ - $$$
+1472,Downtown Cipriani,4,461,$$$$
+1473,Charlie Bird,4,164,$$ - $$$
+1474,Le Zie,4,142,$$ - $$$
+1475,Bohemian,4.5,78,$$$$
+1476,Ponche Taqueria & Cantina,4.5,69,$
+1477,Oda House,4.5,81,$$ - $$$
+1478,Nomad,4,152,$$ - $$$
+1479,Izakaya NoMad,4.5,80,$$ - $$$
+1480,Bryant Park Cafe,4,229,$$ - $$$
+1481,Iron Chef House,4.5,102,$$ - $$$
+1482,Santina,4,417,$$ - $$$
+1483,Galaxy Diner,4,378,$
+1484,Cacio e Vino,4.5,122,$$ - $$$
+1485,Gnocco,4.5,171,$$ - $$$
+1486,Woorijip,4,155,$
+1487,Jeffreys,4.5,140,$$ - $$$
+1488,Bar Boulud,4,795,$$$$
+1489,Bedford & Co.,4,150,$$ - $$$
+1490,Bonchon,4,180,$$ - $$$
+1491,El Rio Grande,4,180,$$ - $$$
+1492,Il Violino,4,239,$$ - $$$
+1493,Sarabeths Park Avenue South,4,422,$$ - $$$
+1494,Haven Rooftop,4,629,$$ - $$$
+1495,The Mercer Kitchen,4,1367,$$ - $$$
+1496,Dallas BBQ,4,453,$$ - $$$
+1497,Shrine Bar,5,50,$
+1498,Tartine,4,179,$$ - $$$
+1499,The Melt Shop,4.5,73,$
+1500,Grimaldis,4,440,$$ - $$$
+1501,Kiabacca Bar,4.5,61,$$ - $$$
+1502,Empellon Taqueria,4,183,$$ - $$$
+1503,Under The Bridge,4.5,57,$$ - $$$
+1504,Two 8 Two Bar and Burger,4.5,75,$$ - $$$
+1505,Rosarios Pizzeria,4.5,90,$
+1506,Toloache,4.5,105,$$ - $$$
+1507,Burke & Wills,4,118,$$ - $$$
+1508,Boqueria - Spanish Tapas Upper East Side,4,129,$$ - $$$
+1509,Andaz 5th Avenue,4.5,139,$$ - $$$
+1510,Miriam,4.5,125,$$ - $$$
+1511,Hale and Hearty Soup,4.5,71,$
+1512,Dunhill Cafe & Caterers,4,112,$
+1513,The Original Soup Man,4,128,$
+1514,Lazzaras Pizza Cafe,4,172,$$ - $$$
+1515,Norma,4.5,46,$$ - $$$
+1516,Meme on Hudson,4.5,131,$$ - $$$
+1517,Ivy Bar & Grill,4,130,$$ - $$$
+1518,Caravaggio Restaurant,4.5,182,$$$$
+1519,Le Pain Quotidien,4,377,$$ - $$$
+1520,Elephant & Castle West,4,157,$$ - $$$
+1521,The Wayfarer,4,574,$$ - $$$
+1522,Nice Matin,4,825,$$ - $$$
+1523,Sons of Thunder,4.5,50,$
+1524,Brgr,4,208,$
+1525,Dallas BBQ Times Square,4,3118,$$ - $$$
+1526,Amelias Bistro,4.5,138,$$ - $$$
+1527,Gran Electrica,4,152,$$ - $$$
+1528,Madison Restaurant - First Ave,4,150,$$ - $$$
+1529,D.J. Reynolds,4,168,$$ - $$$
+1530,Settepani,4,131,$$ - $$$
+1531,Iguana New York,4,475,$$ - $$$
+1532,by CHLOE.,4.5,93,$$ - $$$
+1533,Georgias Eastside BBQ,4.5,107,$$ - $$$
+1534,Bricolage,4.5,68,$$ - $$$
+1535,Wagamama,4,150,$$ - $$$
+1536,Oldcastle Pub & Restaurant,4,235,$$ - $$$
+1537,Angelos Pizza,4,535,$$ - $$$
+1538,Bettolona,4.5,72,$$ - $$$
+1539,Bassanova Ramen,4.5,106,$$ - $$$
+1540,Posto Thin Crust Pizza,4.5,91,$$ - $$$
+1541,Uncle Nicks,4,253,$$ - $$$
+1542,B&H; Dairy,4.5,80,$
+1543,McGettigans NYC,4,156,$$ - $$$
+1544,Brasserie Cognac,4,517,$$ - $$$
+1545,Red Poke,4.5,45,$
+1546,Trattoria Bianca,4,205,$$ - $$$
+1547,Buddha Bodai,4,132,$
+1548,Au Bon Pain,4,119,$
+1549,Chazz Palminteri Italian Restaurant,4,146,$$$$
+1550,Mamo Restaurant,4.5,140,$$ - $$$
+1551,Deux AMIS,4,111,$$ - $$$
+1552,Zenkichi,4.5,124,$$$$
+1553,Novita,4,171,$$$$
+1554,P.S. Kitchen,4.5,48,$$ - $$$
+1555,Larb Ubol,4,131,$$ - $$$
+1556,Annabel,4.5,105,$$ - $$$
+1557,Tim Ho Wan,4,122,$$ - $$$
+1558,Boulton & Watt,4.5,87,$$ - $$$
+1559,The Quarter,4.5,116,$$ - $$$
+1560,Gloo NYC,4.5,72,$$ - $$$
+1561,Spitzers Corner,4,121,$$ - $$$
+1562,Reichenbach Hall,4,330,$$ - $$$
+1563,Carlyle Restaurant,4,307,$$$$
+1564,Meske,4.5,119,$$ - $$$
+1565,Nuchas,4.5,101,$
+1566,Bangkok House,4,214,$$ - $$$
+1567,Delmonicos Kitchen,4,198,$$$$
+1568,Maison Pickle,4.5,96,$$ - $$$
+1569,Z Deli Discount Supermarket,4.5,81,$
+1570,Marlow & Sons,4.5,121,$$ - $$$
+1571,Sobaya,4.5,147,$$ - $$$
+1572,Le Pain Quotidien,4,157,$$ - $$$
+1573,biricchino,4,140,$$ - $$$
+1574,Beyoglu,4,262,$$ - $$$
+1575,Il Mulino,4,227,$$$$
+1576,Lasso,4.5,144,$$ - $$$
+1577,Madison & Vine,4,468,$$ - $$$
+1578,Butter Midtown,4,878,$$$$
+1579,BLVD Bistro,4.5,97,$$ - $$$
+1580,Ruby Tuesday,4,1961,$$ - $$$
+1581,Jack The Horse Tavern,4.5,116,$$ - $$$
+1582,Barbalu Restaurant,4.5,118,$$ - $$$
+1583,Japonica,4.5,117,$$ - $$$
+1584,Claw Daddys,4.5,80,$$ - $$$
+1585,Piccoli Trattoria,4.5,70,$$ - $$$
+1586,Blooms Delicatessen,4,138,$$ - $$$
+1587,Europa Cafe,4,536,$
+1588,Mamasita Bar & Grill,4.5,144,$$ - $$$
+1589,Patrizias Pizza and Pasta,4.5,104,$$ - $$$
+1590,Blue Bar,4,186,$$ - $$$
+1591,The Australian NYC,4,202,$$ - $$$
+1592,Mikes Bistro,4.5,147,$$$$
+1593,Dont Tell Mama,4,316,$$ - $$$
+1594,Mortons The Steakhouse,4,180,$$$$
+1595,Smiths Bar and Restaurant,4,780,$$ - $$$
+1596,Peking Duck House,4,616,$$ - $$$
+1597,Vietnaam Restaurant,4,89,$$ - $$$
+1598,Balvanera,4.5,71,$$ - $$$
+1599,STK,4,778,$$$$
+1600,Bucca Di Beppo,4,271,$$ - $$$
+1601,Five Guys,4.5,71,$
+1602,Smithfield Hall,4.5,89,$$ - $$$
+1603,Dizengoff,4.5,66,$
+1604,The Smile,4,149,$$ - $$$
+1605,Bravo Pizza,4,165,$
+1606,Pings,4,243,$$ - $$$
+1607,Zaitzeff,4,163,$$ - $$$
+1608,Bills Bar & Burger,4,719,$$ - $$$
+1609,San Marino Ristorante,4.5,79,$$ - $$$
+1610,Augustinos,4.5,94,$$ - $$$
+1611,The Cheesecake Factory,4,198,$$ - $$$
+1612,Turco,4.5,84,$
+1613,Tortilla Flats,4,133,$$ - $$$
+1614,Hummus Kitchen,4,129,$$ - $$$
+1615,Sushiya,4,154,$$ - $$$
+1616,Thai Villa,4.5,76,$$ - $$$
+1617,Burger & Lobster,4.5,77,$$ - $$$
+1618,La Nonna Restaurant,4,427,$$ - $$$
+1619,Le Pain Quotidien,4,226,$$ - $$$
+1620,Joes Shanghai,4,539,
+1621,Harney & Sons Soho,4.5,97,
+1622,Lombardis Pizza,4,4358,
+1623,House of Lasagna,4,360,
+1624,The Cinnamon Snail,4.5,85,
+1625,Teddys Bar and Grill,4.5,75,
+1626,The Edge Harlem,4.5,67,
+1627,Pauls on Times Square,4,177,
+1628,Lupes East LA Kitchen,4,137,
+1629,Sanctuary T,4,158,
+1630,Mama Mia 44sw,4,148,
+1631,Feast,4.5,59,
+1632,Zen Ramen Sushi,4.5,66,
+1633,J. G. Melon,4,181,
+1634,Frankie & Johnnies Steakhouse,4,553,
+1635,Heartland Brewery,4,470,
+1636,Chopt Creative Salad,4.5,74,
+1637,Kobeyaki,4,124,
+1638,Da Gennaro Restaurant,4,1241,
+1639,Rosarito Fish Shack,4,137,
+1640,Randolphs Bar & Lounge,4,304,
+1641,Cafe Oliviero,4,153,
+1642,Pig N Whistle On 36th,4,162,
+1643,Balade,4.5,142,
+1644,Grays Papaya,4,1342,
+1645,LExpress,4,231,
+1646,Da Marcella Taverna,4.5,110,
+1647,Wild Ginger,4,92,
+1648,Good Stuff Diner,4,149,
+1649,Dos Caminos,4,688,
+1650,The Good Fork,4.5,88,
+1651,Manousheh NYC,4.5,50,
+1652,Fish Tag,4,140,
+1653,Cafe Europa,4,377,
+1654,Jeremys Ale House,4.5,94,
+1655,Murphys Tavern,4,155,
+1656,The Bao,4.5,98,
+1657,Pizzeria Sirenetta,4.5,62,
+1658,Times Deli Cafe,4,129,
+1659,Bowery Meat,4,145,
+1660,Flinders Lane,4.5,58,
+1661,The Pickle Guys,4.5,85,
+1662,Chavelas,4.5,138,
+1663,Trestle on Tenth,4,170,
+1664,Cafe Espanol,4,249,
+1665,HENRYs,4,189,
+1666,Lukes Lobster Midtown East,4,121,
+1667,One Dine,4,205,
+1668,Applejack Diner,4,900,
+1669,Big Nicks Pizza Joint,4,169,
+1670,Talde,4.5,160,
+1671,Pearl Street Diner,4,173,
+1672,Jean Claude 2,4.5,86,
+1673,Majestic Pizza Corp,4.5,118,
+1674,Houndstooth Pub,4,418,
+1675,Kelloggs NYC,4.5,114,
+1676,AGAVE,4,192,
+1677,Tre,4.5,100,
+1678,Terra Wine Bar,4,167,
+1679,White Oak Tavern,4.5,92,
+1680,Empire Steak House East 50th Street,4,131,
+1681,Florian,4.5,92,
+1682,Trattoria Belvedere,4,213,
+1683,Mimis Restaurant,4,252,
+1684,Il Cantinori,4,178,
+1685,Aburiya Kinnosuke,4,151,
+1686,Utsav Restaurant,4,498,
+1687,Petite Abeille,4,178,
+1688,Dos Caminos,4,492,
+1689,Essen Slow Fast Food,4,125,
+1690,Highlands,4.5,80,
+1691,Ammos Estiatorio,4,247,
+1692,Cipriani Dolci,4,321,
+1693,Daniela Trattoria,4,917,
+1694,Pegu Club,4.5,65,
+1695,Opry City Stage,4,103,
+1696,Connollys Pub and Restaurant,4,100,
+1697,Nha Trang One,4,141,
+1698,Bistro Le Steak,4,109,
+1699,Lenwich,4,111,
+1700,Prime Meats,4,133,
+1701,Hummus and Pita Co,4.5,85,
+1702,Nanoosh,4,126,
+1703,Broadway Lounge & Terrace,4,232,
+1704,Simit Sarayi,4,123,
+1705,The Simone,4.5,83,
+1706,Wolf & Lamb Steakhouse,4,159,
+1707,Hello Deli,4.5,83,
+1708,Blossom Du Jour,4.5,87,
+1709,El Porron,4,118,
+1710,Meson Sevilla,4,302,$$ - $$$
+1711,Old Homestead Steakhouse,4,1011,$$$$
+1712,The Waverly Inn and Garden,4,278,$$$$
+1713,Court Street,4.5,108,$$ - $$$
+1714,Bar Tabac,4,185,$$ - $$$
+1715,Hale and Hearty Soup,4.5,70,$
+1716,Angus Club Steakhouse,4.5,120,$$$$
+1717,Village Taverna,4.5,112,$$ - $$$
+1718,Totto Ramen,4,135,$
+1719,Parm NYC,4,203,$$ - $$$
+1720,Kitchenette,4,138,$$ - $$$
+1721,T45 Restaurant,4,190,$$ - $$$
+1722,The Smoke Joint,4,175,$$ - $$$
+1723,Barbes Restaurant,4,148,$$ - $$$
+1724,Lillies Victorian Establishment,4,130,$$ - $$$
+1725,Peaches,4.5,210,$$ - $$$
+1726,Great NY Noodletown,4,295,$
+1727,Tiella,4.5,94,$$ - $$$
+1728,Murray Hill Market,4,84,$
+1729,Perrine,4.5,54,$$$$
+1730,Blaue Gans,4,154,$$ - $$$
+1731,Niu Noodle House,4.5,73,$$ - $$$
+1732,Gee Whiz Restaurant,4,161,$
+1733,Cafe Metro,4,186,$
+1734,Bhatti Indian Grill,4,182,$$ - $$$
+1735,Mudville 9,4,164,$$ - $$$
+1736,Gennaro,4,166,$$ - $$$
+1737,Gabby OHaras,4,102,$$ - $$$
+1738,Breakroom,4.5,46,$
+1739,BaoHaus,4,110,$
+1740,Brooklyn Fare,4.5,131,$$$$
+1741,Ottos Tacos,4.5,75,$
+1742,Ryan Maguires Ale House,4.5,91,$$ - $$$
+1743,Ulysses,4,254,$$ - $$$
+1744,The Malt House,4,124,$$ - $$$
+1745,Saraghina Bakery,4.5,236,$$ - $$$
+1746,Mangia,4,186,$$ - $$$
+1747,Heartland Brewery Chophouse,4,1087,$$ - $$$
+1748,Hampton Chutney Co.,4.5,89,$
+1749,Pause Cafe,5,41,$
+1750,Bar Ciccio Alimentari,4.5,67,$$ - $$$
+1751,Dhaba,4,224,$$ - $$$
+1752,Island Burgers & Shakes,4.5,82,$$ - $$$
+1753,Tick Tock Diner,4,3362,$$ - $$$
+1754,St. Cloud Social Rooftop,4,157,$$ - $$$
+1755,Pok Pok NY,4,196,$$ - $$$
+1756,Blackwells Pub and Restaurant,4,110,$$ - $$$
+1757,Eat Here Now,4,185,$
+1758,Westville Dumbo,4.5,70,$$ - $$$
+1759,Verde on Smith,4.5,72,$$ - $$$
+1760,Chopt,4.5,96,$
+1761,Famiglia Pizzeria,4,141,$
+1762,Babas Pierogies,5,37,$$ - $$$
+1763,Mother Burger,4,129,$
+1764,Yuca Bar,4,147,$$ - $$$
+1765,Sant Ambroeus,4.5,82,$$ - $$$
+1766,The Meatball Shop,4,139,$$ - $$$
+1767,The National,4,991,$$ - $$$
+1768,Thalia,4,984,$$ - $$$
+1769,Brother Jimmys BBQ,4,209,$$ - $$$
+1770,The Breslin,4,706,
+1771,Nearys,4.5,83,
+1772,Hop Kee Restaurant,4,275,
+1773,LAdresse,4.5,93,
+1774,Lanterns Keep,4.5,74,
+1775,Amish Market,4.5,93,
+1776,B Squared,4.5,63,
+1777,Giuseppes Pizza,4.5,72,
+1778,Le Marais,4,473,
+1779,La Stanza,4,103,
+1780,Jing Fong Restaurant,4,565,
+1781,Antonucci,4.5,120,
+1782,Dos Caminos,4,567,
+1783,Teresas Restaurant,4,208,
+1784,Toms Restaurant,4,561,
+1785,Cornerstone Cafe,4.5,102,
+1786,Saggio,4.5,86,
+1787,The Ritz-Carlton New York,4.5,71,
+1788,The Garden at The Four Seasons,4.5,113,
+1789,Death & Co,4,191,
+1790,Spunto Thin Crust Pizza,4.5,90,
+1791,Vics,4,105,
+1792,Black Shack Burger,4,193,
+1793,The View Restaurant & Lounge,4,5069,
+1794,Mon Petit Cafe Inc,4,166,
+1795,Nelson Blue,4,118,
+1796,Trattoria Dante Caffe Dante,4,120,
+1797,Bennys Burritos,4,145,
+1798,Brandy Library,4.5,110,
+1799,Tribeca Bagels,4.5,79,
+1800,Pasha,4,181,$$ - $$$
+1801,indikitch,4,90,$
+1802,The Water Club,4,220,$$$$
+1803,Cosi,4,165,$
+1804,Sociale,4,168,$$ - $$$
+1805,Mamas Pizza,4,91,$
+1806,The Palm Tribeca,4,145,$$$$
+1807,Lallisse Mediterranean Wine & Food,4.5,112,$$ - $$$
+1808,Juice Generation,4.5,56,$
+1809,Ethos Gallery 51,4,227,$$ - $$$
+1810,The Russian Tea Room,3.5,1428,$$$$
+1811,pax wholesome food,4,153,$
+1812,Connollys Pub and Restaurant,4,104,$$ - $$$
+1813,Allswell,4,121,$$ - $$$
+1814,Le Baratin,4.5,85,$$ - $$$
+1815,Ristorante Altesi,4.5,107,$$ - $$$
+1816,Mykonos Blue Restaurant & Rooftop,4.5,68,$$ - $$$
+1817,Michael Jordans The Steak House N.Y.C.,4,929,$$$$
+1818,Chick-fil-A,4,94,$
+1819,Lillys craft and kitchen,4.5,69,$$ - $$$
+1820,Noodies Thai Kitchen,4.5,75,$$ - $$$
+1821,Soba Totto,4,130,$$ - $$$
+1822,Ajisai Japanese Restaurant,4,133,$$ - $$$
+1823,Pippali,4.5,102,$$ - $$$
+1824,Pomodoro,4,192,$
+1825,99 Cent Fresh Pizza,4.5,59,$
+1826,Brooklyn Bowl,4.5,91,$$ - $$$
+1827,New York Burger Co.,4,157,$
+1828,Panera Bread,4,226,$
+1829,Pizza Gruppo,4.5,71,$$ - $$$
+1830,Landmarc,4,247,$$ - $$$
+1831,Zagara,4.5,64,$$ - $$$
+1832,Yatenga French Bistro and Bar,4.5,68,$$ - $$$
+1833,The Kati Roll Company,4.5,114,$
+1834,Astoria Seafood,4.5,78,$$ - $$$
+1835,Le Singe Vert,4,131,$$ - $$$
+1836,Il caffe latte,4.5,92,$$ - $$$
+1837,BoCaphe,4.5,70,$$ - $$$
+1838,Ashtons Alley Sports Bar,4,129,$$ - $$$
+1839,Dylans Candy Bar,4,248,$$ - $$$
+1840,Iron Bar New York,4,392,$$ - $$$
+1841,A.O.C. Laile ou la Cuisse,4,304,$$ - $$$
+1842,John Sullivans Bar & Grill,4,150,$$ - $$$
+1843,Subway,4,133,$
+1844,Ichiumi,4,723,$$ - $$$
+1845,Famous Original Rays Pizza,3.5,799,$
+1846,Ki Sushi,4.5,66,$$ - $$$
+1847,High Street on Hudson,4,125,$$ - $$$
+1848,Caliente Cab,4,249,$$ - $$$
+1849,Osteria del Principe,4.5,80,$$ - $$$
+1850,The Cannibal Beer & Butcher,4.5,126,$$ - $$$
+1851,Grimaldis Pizzeria,4,4109,$$ - $$$
+1852,La Piccola Cucina,4.5,56,$$ - $$$
+1853,Mr. Broadway,4,228,$$ - $$$
+1854,Amsterdam Burger Co.,4.5,87,$$ - $$$
+1855,A Voce,4,207,$$$$
+1856,Tournesol Bistro,4.5,151,$$ - $$$
+1857,Sauce,4,177,$$ - $$$
+1858,Chez Lucienne,4,224,$$ - $$$
+1859,The Nuaa,4.5,83,$$ - $$$
+1860,Maya,4,203,$$ - $$$
+1861,Da Noi,4,126,$$ - $$$
+1862,Pennsylvania 6,4,173,$$ - $$$
+1863,Ignazios Pizzeria,4,365,$$ - $$$
+1864,Bukhara Grill,4,198,$$ - $$$
+1865,Dziupla Restaurant,4.5,59,$$ - $$$
+1866,Calle Dao,4,108,$$ - $$$
+1867,Gotan,4.5,48,$$ - $$$
+1868,Teresas Gourmet Cafe,4.5,74,$
+1869,Locanda Vini & Olii,4.5,98,$$ - $$$
+1870,Artichoke Basilles Pizza,4.5,104,$
+1871,Hakubai,4.5,71,$$$$
+1872,Anassa Taverna,4,204,$$ - $$$
+1873,Cafe Metro,4,128,$
+1874,EuroPan Cafe,4,265,$
+1875,Bobo,4,166,$$$$
+1876,minca,4.5,73,$
+1877,Hale and Hearty Soups--Ninth Avenue,4.5,86,$
+1878,IHOP,4,118,$
+1879,The Churchill,4.5,97,$$ - $$$
+1880,Barnes & Noble Bookstore & Cafe,4.5,66,$$ - $$$
+1881,Barilla Restaurants,4,245,$$ - $$$
+1882,District Social,4,75,$$ - $$$
+1883,Rahi,4.5,43,$$ - $$$
+1884,Browns Bagels,4.5,66,$
+1885,Fresh From Hell,5,34,$
+1886,San Marzano,4.5,68,$$ - $$$
+1887,Ravagh Persian Grill,4,134,$$ - $$$
+1888,San Matteo Pizzeria e Cucina,4.5,54,$$ - $$$
+1889,Blue Ribbon Fried Chicken,4,108,$
+1890,Don Filippo Restaurant,4.5,78,$
+1891,Cha Pas Noodles & Grill,4,111,$$ - $$$
+1892,Burger Heaven,4,211,$$ - $$$
+1893,Maoz,4.5,115,$
+1894,Wolfgangs Steakhouse--Midtown 54th Street,4,373,$$$$
+1895,Le Pain Quotidien,4,137,$$ - $$$
+1896,Buca di Beppo Italian Restaurant,4,709,$$ - $$$
+1897,Ajisen Ramen,4,130,$
+1898,The Mad Hatter Saloon,4.5,62,$$ - $$$
+1899,Sushi Damo Damo,4,291,$$ - $$$
+1900,Superfine,4,143,$$ - $$$
+1901,Il Posto Accanto,4.5,69,$$ - $$$
+1902,Court Square Diner,4,450,$
+1903,Cafe Katja,4.5,84,$$ - $$$
+1904,Landmarc Restaurant,4,747,$$ - $$$
+1905,Half King,4,167,$$ - $$$
+1906,Ricardo Steakhouse,4.5,112,$$ - $$$
+1907,Hale and Hearty Soups -- 56th Street,4.5,74,$
+1908,Shake Shack,4,97,$$ - $$$
+1909,Cafe Centro,4,201,$$ - $$$
+1910,Olive Tree Cafe,4,144,$$ - $$$
+1911,Social Bar,4,145,$$ - $$$
+1912,Fine and Rare,4.5,46,$$$$
+1913,Bobby Vans Central Park South,4.5,70,$$ - $$$
+1914,The Ides,4,153,$$ - $$$
+1915,EATALY - Il Pesce,4,88,$$ - $$$
+1916,Belgian Beer Cafe,4,315,$$ - $$$
+1917,Mira Sushi Izakaya,4.5,61,$$ - $$$
+1918,Pio Pio 7,4,121,$$ - $$$
+1919,Sushiden Sixth Ave,4,120,$$ - $$$
+1920,Frank,4,141,$$ - $$$
+1921,Vinnies Pizzeria,4.5,57,$
+1922,Tabata Noodle,4,122,$
+1923,Pagani,4.5,88,$$ - $$$
+1924,Takumi,4.5,60,$
+1925,Cotenna,4.5,90,$$ - $$$
+1926,Kuu Ramen,4.5,64,$
+1927,Battersby,4.5,71,$$$$
+1928,Doma na rohu,4.5,91,$$ - $$$
+1929,Takahachi Tribeca Restaurant,4.5,48,$$ - $$$
+1930,Monument Lane,4,100,$$ - $$$
+1931,Raos Restaurant,4.5,77,$$$$
+1932,Vu,4,164,$$ - $$$
+1933,Guy & Gallard,4.5,84,$
+1934,Restaurant Riki,4,112,$$ - $$$
+1935,Kanoyama,4.5,108,$$ - $$$
+1936,El Paso Taqueria,4,99,$$ - $$$
+1937,Petrarca Cucina e Vino,4,151,$$ - $$$
+1938,Rosies,4.5,87,$$ - $$$
+1939,Krolewskie Jadlo,4.5,69,$$ - $$$
+1940,Kung Fu Kitchen,4,93,$$ - $$$
+1941,Chelsea Grill,4,155,$$ - $$$
+1942,Bar Six,4,101,$$ - $$$
+1943,Mr. Dennehys,4.5,61,$$ - $$$
+1944,The Half Pint,4,120,$$ - $$$
+1945,44 Southwest Ristorante & Bar,4,320,$$ - $$$
+1946,BVs Burger,3.5,472,$$ - $$$
+1947,Papa Kebab,4.5,68,$
+1948,2017 Bella Luna,4,129,$$ - $$$
+1949,Soho Park,4,251,$
+1950,Fedora Restaurant,4.5,103,
+1951,Delmonico NYC,4.5,54,
+1952,Piccola Cucina Estiatorio,4.5,55,
+1953,Zizi Limona,4.5,57,
+1954,456 Shanghai Cuisine,4,412,
+1955,Indie Food & Wine,4.5,65,
+1956,Kingside,4,266,
+1957,The Pennsy,4,121,
+1958,Graffiti,4.5,116,
+1959,Dulce Vida Latin Bistro,4.5,68,
+1960,Degustation,4.5,153,
+1961,Mulberry & Vine,4.5,45,
+1962,Onieals Restaurant,4,111,
+1963,Defontes Sandwich Shop,4.5,47,
+1964,Piccolo Cafe,4,154,
+1965,Muldoons Irish Bar & Restaurant,4,124,
+1966,La Vara,4.5,107,
+1967,Thalassa,4.5,135,
+1968,Otto Enoteca & Pizzeria,4,1108,
+1969,Cascabel Taqueria East,4,116,
+1970,Chola,4,196,
+1971,Papillon Bistro & Bar,4,300,
+1972,Coco & Cru,4.5,82,
+1973,McGees Pub & Restaurant,4,944,
+1974,Da Mikele,4.5,88,
+1975,Black Sushi,4.5,78,
+1976,The Cecil Restaurant,4,188,
+1977,El Luchador,4.5,66,
+1978,Blue Ribbon Federal Grill,4.5,42,
+1979,Club Macanudo,4.5,99,
+1980,Maiella,4.5,144,$$$$
+1981,Southern Hospitality BBQ,4,903,$$ - $$$
+1982,Kava,4.5,66,$$ - $$$
+1983,Snax Spot,5,32,$
+1984,The Pig & Whistle,4,94,$$ - $$$
+1985,Mama Eatery,4,91,$
+1986,Sushi Seki,4,127,$$$$
+1987,Radio City Pizza,4,95,$
+1988,Corkbuzz,4,101,$$ - $$$
+1989,Wonton Noodle Garden,4,138,$
+1990,Thursday Kitchen,5,34,$$ - $$$
+1991,Scalinatella Restaurant,4,223,$$$$
+1992,Mels Burger Bar,4,118,$$ - $$$
+1993,Jaiya Thai,4,161,$$ - $$$
+1994,Bobby Vans Steakhouse - 54th Street,4,171,$$$$
+1995,Red Egg,4,198,$$ - $$$
+1996,Pasta Lovers,3.5,510,$$ - $$$
+1997,Seasoned Vegan,4.5,74,$$ - $$$
+1998,Washington Square Diner,4,124,$
+1999,XO Kitchen,4,100,$
+2000,Amici II,4,673,$$ - $$$
+2001,Outback Steakhouse,4,417,$$ - $$$
+2002,Joe Jr,4,66,$
+2003,Amali,4,164,$$ - $$$
+2004,Bocca,4,112,$$ - $$$
+2005,Lobster Joint,4.5,87,$$ - $$$
+2006,Palace Restaurant Coffee House,4,163,$
+2007,Moustache,4,120,$
+2008,Phebes Tavern & Grill,4.5,86,$$ - $$$
+2009,La Sirena Ristorante,4,219,$$$$
+2010,Coogans Restaurant,4.5,84,$$ - $$$
+2011,Sushi You,4.5,51,$$ - $$$
+2012,Le Botaniste,4.5,45,$$ - $$$
+2013,Masa,4,254,$$$$
+2014,Potbelly Sandwich Works,4,92,$
+2015,The Flame,4,93,$
+2016,Caracas Arepa Bar,4.5,58,$$ - $$$
+2017,Little Prince,4,138,$$ - $$$
+2018,Moti Mahal Delux,4,135,$$ - $$$
+2019,Agozar Cuban Restaurant,4,124,$$ - $$$
+2020,Socarrat Paella Bar,4,195,$$ - $$$
+2021,Dawat Haute Indian Cuisine,4,197,$$ - $$$
+2022,Bella Vita Pizzeria & Trattoria,4,643,$$ - $$$
+2023,Via Emilia,4.5,122,$$ - $$$
+2024,Roof Garden Cafe and Martini Bar,4,123,$$ - $$$
+2025,Cafe Loup,4,117,$$ - $$$
+2026,Basiles Pizza,4.5,73,$
+2027,Cafe Clover,4,87,$$ - $$$
+2028,Asellina,4,228,$$ - $$$
+2029,Sfoglia,4,128,$$$$
+2030,Left Bank Burger Bar,4.5,56,$$ - $$$
+2031,El Azteca,4.5,109,$$ - $$$
+2032,El Pote Espanol,4,91,$$ - $$$
+2033,Nathans Famous,4,239,$
+2034,Madangsui,4,155,$$ - $$$
+2035,Houlihans,4,245,$$ - $$$
+2036,BlackTail,4.5,47,$$ - $$$
+2037,Bobwhite Lunch and Supper Counter,4.5,56,$
+2038,Toro,4,198,$$ - $$$
+2039,Ulivo,4.5,84,$$ - $$$
+2040,La Loteria,4.5,61,$$ - $$$
+2041,Lilli and Loo,4,120,$$ - $$$
+2042,Broadstone Bar & Kitchen,4,84,$$ - $$$
+2043,Till & Sprocket,4.5,40,$$ - $$$
+2044,Persepolis,4,139,$$ - $$$
+2045,55 Fulton Market,4.5,62,$
+2046,Takumi Taco,4.5,50,$
+2047,Pret A Manger,4,66,$
+2048,Negril Village,4,174,$$ - $$$
+2049,Mission Ceviche,5,31,$
+2050,Lucky Strike,4,153,$$ - $$$
+2051,FOUR @ YOTEL New York,4.5,89,$$ - $$$
+2052,Walters,4.5,90,$$ - $$$
+2053,Lilis 57,4,179,$$ - $$$
+2054,Grand Banks,4,114,$$ - $$$
+2055,Chez Napoleon,4,233,$$ - $$$
+2056,Dishes,4,89,$$ - $$$
+2057,Brooklyn Winery,4.5,64,$$ - $$$
+2058,Toasties,4,61,$
+2059,Gyu-Kaku - Mid Town,4,231,$$ - $$$
+2060,Kings of Kobe,4.5,32,$
+2061,Mulberry Street Bar,4,232,$$ - $$$
+2062,Ponty Bistro Harlem,4.5,57,$$ - $$$
+2063,Hole in the Wall Cafe & Cocktail Bar,5,29,$
+2064,American Girl Place New York Cafe,4,270,$$ - $$$
+2065,Matisse Restaurant,4,117,$$ - $$$
+2066,Seamores Seafood Restaurant,4,125,$$ - $$$
+2067,Cafe Europa - Sixth Ave,4,174,$
+2068,Kaboozs Bar and Grill,4,103,$$ - $$$
+2069,A Salt and Battery,4,148,$
+2070,La Nonna Ristorante & Bar,4.5,74,$$ - $$$
+2071,El Sombrero Restaurant,4.5,70,$$ - $$$
+2072,Blue Ribbon Sushi Bar - Hudson Eats,4.5,44,$$ - $$$
+2073,ruchi,4,210,$$ - $$$
+2074,Turkish Cuisine,4,199,$$ - $$$
+2075,Vivolo Restaurant,4.5,97,$$ - $$$
+2076,Shi,4.5,110,$$ - $$$
+2077,Jaspers Taphouse,4.5,62,$$ - $$$
+2078,The Wright,4,155,$$ - $$$
+2079,Edwards Steak House,4.5,101,$$$$
+2080,Pho Pasteur,4.5,90,$
+2081,Freeks Mill,4.5,39,$$ - $$$
+2082,Milos Cafe,4.5,48,$$$$
+2083,Lexington pizza parlor,4.5,75,$$ - $$$
+2084,Studio Cafe at The Whitney Museum of American Art,4,133,$$ - $$$
+2085,Hanjan,4.5,74,$$ - $$$
+2086,La Tarte Flambee,4.5,65,$$ - $$$
+2087,Serafina,3.5,332,$$ - $$$
+2088,Joes Pizza,4.5,46,$
+2089,Oxford Cafe,4,160,$
+2090,Famous Famiglia Pizza,4,124,$
+2091,Campagnola Restaurant,4,159,$$$$
+2092,Flat Top,4,72,$$ - $$$
+2093,Tortaria,4,85,$
+2094,Bobs Steak and Chop House,4,90,$$$$
+2095,Cafe Wha,4,158,$$ - $$$
+2096,Leuca,4.5,91,$$ - $$$
+2097,Alma,4,138,$$ - $$$
+2098,Feile,4,115,$$ - $$$
+2099,Au Bon Pain,4,219,$
+2100,Shalel,4.5,50,$$ - $$$
+2101,SakaMai,4.5,56,$$ - $$$
+2102,Mole Restaurante Mexicano & Tequileria,4,137,$$ - $$$
+2103,The Terrace Club,4,86,$$ - $$$
+2104,Mr Biggs Bar & Grill,4,189,$$ - $$$
+2105,Cafe Eighty Two,4,124,$
+2106,Cozy Soup & Burger,4,218,$
+2107,Bustan NYC,4,130,$$ - $$$
+2108,Taqueria Downtown,4,202,$
+2109,Characters Grill,4,97,$$ - $$$
+2110,Adoro Lei,4.5,53,$$ - $$$
+2111,Santa FE Restaurant,4,97,$$ - $$$
+2112,La Villa Pizzeria,4.5,80,$$ - $$$
+2113,Somtum Der,4,77,$$ - $$$
+2114,Felice 64,4.5,64,$$ - $$$
+2115,The Drunken Munkey,4,88,$$ - $$$
+2116,Las Ramblas,4.5,88,$$ - $$$
+2117,Fonda Manhattan,4.5,59,$$ - $$$
+2118,Han Bat Restaurant,4,146,$$ - $$$
+2119,Wallse,4,160,$$$$
+2120,Honshu,4.5,78,$$ - $$$
+2121,Rancho Tequileria,4,74,$$ - $$$
+2122,Essex Restaurant,4,109,$$ - $$$
+2123,Flora Bar,4,105,$$ - $$$
+2124,Broccolino Italian Restaurant,4.5,74,$$ - $$$
+2125,Vatan,4,177,$$ - $$$
+2126,VLife,4.5,42,$
+2127,Mezzaluna,4.5,88,$$ - $$$
+2128,Arabesque,4.5,124,$$ - $$$
+2129,Dig Inn,4,102,$
+2130,Nomo Soho Restaurant,4,190,$$ - $$$
+2131,Wolfgangs Steakhouse - Tribeca,4,299,$$$$
+2132,Casa Agave,4.5,77,$$ - $$$
+2133,Groove,4,112,$$ - $$$
+2134,Pret A Manger,4,72,$
+2135,Whole Foods Market,4.5,65,$$ - $$$
+2136,La Defense,4,84,$$ - $$$
+2137,Bella Napoli,4,305,$$ - $$$
+2138,Ristorante Grifone,4.5,83,$$$$
+2139,PN Wood Fired Pizza,4.5,80,$$ - $$$
+2140,Sen Sakana,4.5,70,$$$$
+2141,Barrio Chino,4,121,$$ - $$$
+2142,Peking Duck House,4,219,$$ - $$$
+2143,El Malecon Restaurant,4,85,$$ - $$$
+2144,Dellaroccos,4,99,$$ - $$$
+2145,Crossroads American Kitchen & Bar,4,194,$$ - $$$
+2146,Tsushima,4,96,$$ - $$$
+2147,Bono Trattoria,4.5,40,$$ - $$$
+2148,LoLos Seafood Shack,4.5,58,$$ - $$$
+2149,Dos Caminos,4,789,$$ - $$$
+2150,Malai Marke,4,85,$$ - $$$
+2151,Naples 45 Ristorante e Pizzeria,3.5,311,$$ - $$$
+2152,Luce Restaurant & Enoteca,4,133,$$ - $$$
+2153,Brooklyn Heights Wine Bar,4,112,$$ - $$$
+2154,Famiglia Pizzeria,4,65,$
+2155,Little Poland Restaurant,4,97,$$ - $$$
+2156,Blooms Tavern,4,73,$$ - $$$
+2157,Great Jones Cafe,4.5,79,$$ - $$$
+2158,Bocca Di Bacco,4,106,$$ - $$$
+2159,Cafe Martinique,3.5,511,$$ - $$$
+2160,15 East Restaurant,4,164,$$$$
+2161,Pret A Manger,4.5,47,$
+2162,Two Boots Hells Kitchen,4,91,$
+2163,San Pietro Ristorante,4,115,$$$$
+2164,Cucina & Co.,3.5,249,$$ - $$$
+2165,Golden Unicorn Restaurant,3.5,460,$$ - $$$
+2166,Volare,4.5,78,$$ - $$$
+2167,Mexicue,4,78,$$ - $$$
+2168,Sophies Cuban Cuisine,4,81,$
+2169,Fumo Pizza-Bar-Pasta,4.5,50,$$ - $$$
+2170,Tinys Giant Sandwich Shop,4.5,75,$
+2171,Maharlika,4,87,$$ - $$$
+2172,Madison Bistro,4,224,$$ - $$$
+2173,NY Luncheonette,4.5,40,$
+2174,Mr. Taka Ramen,4.5,48,$
+2175,Il Forno,3.5,459,$$ - $$$
+2176,Mandolino,5,30,$$ - $$$
+2177,Soto,4,147,$$$$
+2178,Numero 28 Cucina,4.5,45,$$ - $$$
+2179,Flavors,4.5,75,$
+2180,Esanation,4,78,$$ - $$$
+2181,Ferdinandos Focacceria,4.5,60,$$ - $$$
+2182,Jin Ramen Uws,4.5,56,$$ - $$$
+2183,Le Veau Dor,4.5,87,$$ - $$$
+2184,Europa Cafe,4,120,$
+2185,The Kunjip,4,304,$$ - $$$
+2186,Il Cafe Latte II,4.5,42,$
+2187,Huertas,4.5,71,$$ - $$$
+2188,Vinateria,4,94,$$ - $$$
+2189,Sons of Essex,4,95,$$ - $$$
+2190,Shelter Pizza,4,90,$$ - $$$
+2191,The Black Ant,4.5,69,$$ - $$$
+2192,American Cut Steakhouse Tribeca,4,181,$$$$
+2193,Left Bank,4.5,86,$$ - $$$
+2194,Sutton Inn,4.5,73,$$$$
+2195,Hotel Chantelle,4,160,$$ - $$$
+2196,Le Barricou,4.5,83,$$ - $$$
+2197,Vin et Fleurs,4,111,$$ - $$$
+2198,Potbelly Sandwich Works,4.5,57,$
+2199,Palm Court,4,933,$$$$
+2200,Row House,4.5,48,$$ - $$$
+2201,Lugo Cucina,4,190,$$ - $$$
+2202,Mannas Soul Food Restaurant,4.5,85,$
+2203,Ducks Eatery,4.5,76,$$ - $$$
+2204,Pio Pio 3,4.5,86,$$ - $$$
+2205,The Wild Son,4.5,32,$$ - $$$
+2206,Cafe du Soleil,4,136,$$ - $$$
+2207,Giorgione,4,109,$$ - $$$
+2208,Ousia,4.5,52,$$ - $$$
+2209,Oxford Cafe,4,173,$
+2210,Rouge Tomate Chelsea,4.5,60,$$$$
+2211,Le Coucou,4.5,64,$$$$
+2212,Jazz at Kitano,4,93,$$ - $$$
+2213,Sola Pasta Bar,4.5,50,$$ - $$$
+2214,The Hummus & Pita Co.,4.5,67,$
+2215,Burger Heaven,4,215,$$ - $$$
+2216,Swing 46 Jazz and Supper Club,4,165,$$ - $$$
+2217,Tenzan,4.5,73,$$ - $$$
+2218,Duane Park,4.5,108,$$$$
+2219,Cheryls Global Soul,4.5,80,$$ - $$$
+2220,Savann Restaurant,4.5,47,$$ - $$$
+2221,Despana,4.5,56,$$ - $$$
+2222,The Rose Club at The Plaza in NYC,4.5,71,$$$$
+2223,Au Zaatar,4.5,82,$$ - $$$
+2224,Slatterys Midtown Pub,4.5,72,$$ - $$$
+2225,Lucys Cantina Royale,3.5,332,$$ - $$$
+2226,The Wheeltapper,4,152,$$ - $$$
+2227,Maries Crisis,4,180,$
+2228,Yakiniku Futago,4.5,39,$$$$
+2229,Peter Lugars,4,99,$$$$
+2230,Farinella Italian Bakery Pizza,4.5,80,$$ - $$$
+2231,Blue Seafood Bar,4.5,67,$$ - $$$
+2232,Joya,4,176,$
+2233,Cafe Metro,4,104,$
+2234,Grey Bar & Restaurant,4.5,47,$$ - $$$
+2235,Uncle Marios Brick Oven Pizza,4,362,$$ - $$$
+2236,Tipsy Parson,4,168,$$ - $$$
+2237,Maison Hugo,4.5,59,$$ - $$$
+2238,Whitmans Restaurant,4.5,81,$$ - $$$
+2239,Belle Reve,4.5,42,$$ - $$$
+2240,Paulaner,4.5,86,$$ - $$$
+2241,Serafina Fabulous Pizza,4,207,$$ - $$$
+2242,Cafe R,4,137,$
+2243,Alcala,4,124,$$ - $$$
+2244,Pret A Manger,4,73,$
+2245,Jones Wood Foundry,4,93,$$ - $$$
+2246,Bella Vita Pizzeria,4,200,$
+2247,The Beekman Pub,4,103,$$ - $$$
+2248,Asuka Japanese Fusion & Lounge,4.5,103,$$ - $$$
+2249,Uskudar Turkish Restaurant,4,79,$$ - $$$
+2250,Giardino Doro,4.5,63,$$ - $$$
+2251,Bar Pitti,3.5,578,$$ - $$$
+2252,Delizia 73,4.5,57,$$ - $$$
+2253,Hale & Hearty Soups - West 42nd St.,4.5,48,$
+2254,Diner,4,168,$$ - $$$
+2255,Tutto Il Giorno,4,87,$$$$
+2256,La Carafe,4,148,$$ - $$$
+2257,Chipotle Mexican Grill,4,156,$
+2258,Brinkleys Broome Street,4,80,$$ - $$$
+2259,Naked Dog,4.5,38,$$ - $$$
+2260,Trailer Park Lounge and Grill,4,115,$
+2261,Shilla,4,123,$$ - $$$
+2262,The Grill,4,81,$$$$
+2263,Ruths Chris Steak House,4,205,$$$$
+2264,Han Dynasty,4,84,$$ - $$$
+2265,JoJo,4.5,37,$$$$
+2266,Avant Garden,4.5,54,$$ - $$$
+2267,Punch,4,82,$$ - $$$
+2268,Jewel Bako,4.5,80,$$$$
+2269,Ollies Sichuan Restaurant,4,242,$$ - $$$
+2270,Little Basil,4.5,66,$$ - $$$
+2271,Max Soha,4,72,$$ - $$$
+2272,Lucien Restaurant,4,152,$$ - $$$
+2273,Wah Fung Fast Food,4.5,39,$
+2274,Chelsea Square Restaurant,4,117,$$ - $$$
+2275,Cafe Petisco,4.5,60,$$ - $$$
+2276,Burger Heaven,4,179,$
+2277,Bricco Restaurant,4,178,$$ - $$$
+2278,SOCO,4,156,$$ - $$$
+2279,Uncle Gussys,5,50,$
+2280,Tasty Dumpling,4,79,$
+2281,Esca,3.5,805,$$$$
+2282,Putnams,4.5,48,$$ - $$$
+2283,Arte Cafe,4,290,$$ - $$$
+2284,Belle Harlem,5,30,$$ - $$$
+2285,Friend of a Farmer,4,89,$$ - $$$
+2286,Zaros Bread Basket,4,99,$
+2287,Surfish,4.5,68,$$ - $$$
+2288,2nd Avenue Deli and 2nd Floor Bar & Essen,4,122,$$ - $$$
+2289,The Bar Downstairs,4,74,$$ - $$$
+2290,Hells Chicken,4.5,50,$$ - $$$
+2291,Market Crates,4.5,37,$
+2292,Momoya,4,83,$$ - $$$
+2293,The Vine NYC,4,91,$$ - $$$
+2294,Celeste,4,226,$$ - $$$
+2295,Bobby Vans Steakhouse & Grill,4,247,$$$$
+2296,Pongal,4,166,$$ - $$$
+2297,Captain Cafe,4,105,$
+2298,Empire Pizza,4,128,$
+2299,Upholstery Store,4.5,53,$$ - $$$
+2300,Westville East,4.5,64,$$ - $$$
+2301,Riko Peruvian Cuisine,4,73,$$ - $$$
+2302,Sweetwater Restaurant,4,79,$$ - $$$
+2303,Hakata TonTon,4.5,69,$$ - $$$
+2304,The Brooklyn Barge,5,30,$$ - $$$
+2305,Bar Sardine,4.5,54,$$ - $$$
+2306,Rock Center Cafe,3.5,1163,$$ - $$$
+2307,Souths Bar & Restaurant,4.5,56,$$ - $$$
+2308,Amada,4,88,$$ - $$$
+2309,Butcher & Banker,4.5,37,$$$$
+2310,Mamouns Falafel,4.5,55,$
+2311,Sasabune,4.5,94,$$$$
+2312,Baker Street,4,73,$$ - $$$
+2313,Burger Burger,4.5,63,$
+2314,Oficina Latina,4,110,$$ - $$$
+2315,Europa Cafe,4,130,$
+2316,Nickel & Diner,4.5,57,$$ - $$$
+2317,Schnippers,4,83,$
+2318,St Patricks Bar and Grill,4,127,$$ - $$$
+2319,Green Apple Gourmet,4,97,$
+2320,Tarallucci E Vino Upper West Side,4.5,71,$$ - $$$
+2321,Union Square Burger,4.5,28,$
+2322,Rogue,4,84,$$ - $$$
+2323,Spoonfed NYC,4.5,30,$$ - $$$
+2324,Oiji,4.5,52,$$ - $$$
+2325,Taproom 307,4.5,76,$$ - $$$
+2326,Ho Yip Chinese Restaurant,4,82,$
+2327,Whole Foods Market,4,65,$$ - $$$
+2328,Vida Verde,4.5,37,$$ - $$$
+2329,Mr. Chow - 57th,4,282,$$$$
+2330,Hectors Restaurant,4,73,$
+2331,GRK Fresh Greek - Financial District,4,108,$
+2332,The Jolly Monk,4,118,$$ - $$$
+2333,Spice,4,136,$$ - $$$
+2334,Smorgas Chef at Scandinavia House,4,111,$$ - $$$
+2335,Herald Square Market,4,70,$
+2336,Udon West,4,98,$
+2337,Shortys Pearl Street,4.5,31,$$ - $$$
+2338,Cajun Sea,4,60,$$ - $$$
+2339,VBar Seaport,4.5,48,$$ - $$$
+2340,Hummus Place,4,74,$$ - $$$
+2341,Fort Defiance,4.5,47,$$ - $$$
+2342,Shuka,4.5,35,$$ - $$$
+2343,Bread & Honey,4.5,80,$
+2344,Georgios Pizzeria,4.5,47,$
+2345,Bread & Butter,4,112,$
+2346,Desnuda,4.5,48,$$ - $$$
+2347,P J Morans,4,214,$$ - $$$
+2348,Stags Head,4.5,64,$$ - $$$
+2349,La Cava,4.5,60,$$ - $$$
+2350,Balzem,4,83,$$ - $$$
+2351,Wild Ginger,4.5,39,$$ - $$$
+2352,Tenzan,4,129,$$ - $$$
+2353,St. James Gate,4.5,59,$$ - $$$
+2354,Citizens of Chelsea,4.5,29,$$ - $$$
+2355,Ofrenda,4,97,$$ - $$$
+2356,Forcella,4,79,$$ - $$$
+2357,Spaghetti Incident,4.5,48,$$ - $$$
+2358,Island,4,120,$$ - $$$
+2359,Fabianes,4,80,$$ - $$$
+2360,Luckys Famous Burgers,4,85,$
+2361,Tang Pavilion,4,191,$$ - $$$
+2362,Brick Lane Curry House,4,205,$$ - $$$
+2363,Librettos Pizzeria & Restaurant,4.5,56,$
+2364,Barcade,4.5,64,$$ - $$$
+2365,Patrizias of Manhattan,4.5,55,$$ - $$$
+2366,Davids Brisket House,4.5,74,$$ - $$$
+2367,The Bread Factory Cafe,4,86,$
+2368,Merilu Pizza Al Metro,4.5,54,$
+2369,The Park,3.5,504,$$ - $$$
+2370,Amber Upper West,4,87,$$ - $$$
+2371,Amor Cubano,4,80,$$ - $$$
+2372,Ginnys Supper Club,4.5,56,$$ - $$$
+2373,New York Burger Co.,4.5,50,$
+2374,Gabriels,4,199,$$$$
+2375,Tinas Cuban Cuisine,4.5,61,$
+2376,Piccolo Angolo,4,153,$$ - $$$
+2377,Chikarashi,4.5,34,$$ - $$$
+2378,Massoni,4,77,$$ - $$$
+2379,Seven Hills Mediterranean Grill,4,93,$$ - $$$
+2380,Karma Kafe - An Indian Bistro,4,103,$$ - $$$
+2381,The Triple Crown Ale House & Restaurant,4,177,$$ - $$$
+2382,Edi and the Wolf,4,94,$$ - $$$
+2383,The House,4,120,$$ - $$$
+2384,Sapphire Indian Cuisine,4,196,$$ - $$$
+2385,Cucharamama,4,118,$$ - $$$
+2386,Mooncake Foods,4.5,79,$
+2387,Subway,4,83,$
+2388,The Ribbon,4,139,$$ - $$$
+2389,Pam Real Thai Food 49,4,105,$
+2390,The Grey Dog,4.5,36,$$ - $$$
+2391,Harrys Pizza Parlor,4.5,68,$
+2392,Aaheli,4.5,83,$$ - $$$
+2393,The Pembroke Room,4.5,72,$$$$
+2394,Lan Zhou Handmade Noodle,4.5,69,$
+2395,Flute Midtown,4.5,83,$$ - $$$
+2396,Genuine Roadside,4.5,71,$
+2397,Havana Alma de Cuba,4,156,$$ - $$$
+2398,Uncle Teds,4,77,$$ - $$$
+2399,Deluxe Green Bo Restaurant,4,200,$
+2400,Komegashi Too,4.5,82,$$ - $$$
+2401,Three Guys Restaurant,4,222,$$ - $$$
+2402,Korali,4.5,63,$$ - $$$
+2403,Galata Mediterranean Cuisine,4.5,34,$$ - $$$
+2404,Terri,4.5,39,$
+2405,Bella Napoli,4.5,39,$
+2406,Snack Taverna,4.5,78,$$ - $$$
+2407,Yakitori Taisho,4,155,$$ - $$$
+2408,AperiTIVO Pizza Bar,4,184,$$ - $$$
+2409,Cafe Metro,4,77,$
+2410,Saravanaa Bhavan,4,108,$$ - $$$
+2411,Hot & Crusty,4,54,$
+2412,Gari of Columbus,4,104,$$$$
+2413,Pardon My French,4.5,55,$$ - $$$
+2414,Bacaro,4,84,$$ - $$$
+2415,Maoz,4.5,68,$
+2416,Fusco,4.5,36,$$$$
+2417,Sachi Asian Bistro,4.5,48,$$ - $$$
+2418,Trump Tower Bar and Grill,4,382,$$ - $$$
+2419,Dorado Tacos & Quesadillas,4.5,38,$
+2420,Terrace @ YOTEL New York,4,115,$$ - $$$
+2421,LAppart,5,30,$$$$
+2422,The Park Room at The Helmsley Park Lane Hotel,4,191,$$ - $$$
+2423,Malaparte,4,112,$$ - $$$
+2424,Beacon Bar,4,61,$$ - $$$
+2425,Building on Bond,4.5,63,$$ - $$$
+2426,Porto-bello Restaurant,4,87,$$ - $$$
+2427,The Regency Bar & Grill,4,139,$$$$
+2428,Schilling,4.5,52,$$ - $$$
+2429,Go! Go! Curry!,4,78,$
+2430,Affinia Restaurant,4,98,
+2431,Congee Village,4,176,
+2432,Gin Parlour - Intercontinental New York,4.5,60,
+2433,Mimi Chengs Dumplings,4,84,
+2434,Route 66 Smokehouse,4,152,
+2435,Le Pain Quotidien Tribeca,4,147,
+2436,Latitude Bar & Lounge,4,124,
+2437,Rossopomodoro,4.5,44,
+2438,Chez Moi,4.5,66,
+2439,Morso,4,98,
+2440,Morgan Cafe,4,75,
+2441,Stone Street Tavern,4,149,
+2442,Gramercy Cafe,4,96,
+2443,Comodo,4.5,60,
+2444,Aunt Rosies Restaurant & Diner,4.5,60,
+2445,Samurai Mama,4.5,76,
+2446,Xian Famous Foods,4.5,45,
+2447,Jack Demseys,4,144,
+2448,Tataki Japanese Restaurant,4.5,63,
+2449,Ali Baba Turkish Cuisine,4,233,
+2450,Queen of Sheba,4,183,
+2451,Habana Outpost,4,69,
+2452,Dark Horse,4.5,83,
+2453,The Ellington,4,70,
+2454,Cloud Social,4.5,47,
+2455,Bevacco,4,94,
+2456,Annie Moores Bar & Restaurant,4,158,
+2457,Momofuku Nishi,4,96,
+2458,Rothmanns Steakhouse - NYC,4,112,
+2459,Bistro 61,4,101,
+2460,Fresh & Co.,4,57,$
+2461,Birreria,3.5,582,$$ - $$$
+2462,Oscar Wilde,4,73,$$ - $$$
+2463,Union Bar and Kitchen,4.5,48,$$ - $$$
+2464,City Diner,4,93,$$ - $$$
+2465,Mothers Ruin,4.5,71,$$ - $$$
+2466,Rebelle,4,84,$$$$
+2467,Salvation Taco,3.5,427,$$ - $$$
+2468,Hill Country Chicken,3.5,207,$
+2469,Opera Cafe & Lounge,4.5,78,$$ - $$$
+2470,Vino Levantino,4.5,48,$$ - $$$
+2471,Mighty Quinns,4,87,$$ - $$$
+2472,Estancia 460,4.5,49,$$ - $$$
+2473,Gleasons Tavern,4,84,$$ - $$$
+2474,The Heath,4,80,$$ - $$$
+2475,Nur,4.5,60,$$$$
+2476,Lasagna Ristorante,4,146,$$ - $$$
+2477,Graziellas Restaurant,4.5,49,$$ - $$$
+2478,Do Hwa Korean Cusine,4,75,$$ - $$$
+2479,Haru Sushi,4,85,$$ - $$$
+2480,Sessanta,4.5,55,$$ - $$$
+2481,Scaletta Ristorante,4,113,$$$$
+2482,D.O.C. Wine Bar,4.5,48,$$ - $$$
+2483,Pax Wholesome Foods,4,74,$
+2484,Sea Wolf,4.5,76,$$ - $$$
+2485,Maggies Place,4,133,$$ - $$$
+2486,Old Johns Luncheonette,4,82,$
+2487,Villard,4,92,$$ - $$$
+2488,Surf Bar,4,92,$$ - $$$
+2489,Pollo dOro,4.5,44,$$ - $$$
+2490,Mile End delicatessen,4,111,$$ - $$$
+2491,Trattoria Casa di Isacco,4,237,$$ - $$$
+2492,Frannys,4,187,$$ - $$$
+2493,Beehive Oven Biscuit Cafe,4.5,42,$$ - $$$
+2494,New Apollo Diner,4,98,$
+2495,D & S Market Place,4.5,37,$
+2496,Iris Cafe,4.5,60,$$ - $$$
+2497,Shake Shack,4.5,73,$
+2498,Elios Restaurant,4,138,$$$$
+2499,Rays Pizza,4,97,$
+2500,Ichabods,4,75,$$ - $$$
+2501,New Amity Restaurant,4,110,$$ - $$$
+2502,Guy & Gallard,4.5,53,$
+2503,Gabrielas Restaurant and Tequila Bar,4,148,$$ - $$$
+2504,A&H; Deli,4,57,$
+2505,The Milton,4.5,58,$$ - $$$
+2506,Napolis Brick Oven Pizza,4.5,76,$$ - $$$
+2507,Bergen Bagels,4.5,45,$
+2508,Cafe Hestia,4,58,$
+2509,Beyond Sushi,5,28,$$ - $$$
+2510,Turntable Chicken Jazz,4.5,43,$$ - $$$
+2511,Tartina,4.5,59,$$ - $$$
+2512,Azuri Cafe,4.5,70,$
+2513,Injera Ethiopian Restaurant,4.5,62,$$ - $$$
+2514,Korzo,4.5,56,$$ - $$$
+2515,Grey Lady,4,86,$$ - $$$
+2516,Aangan,4,67,$$ - $$$
+2517,Iridium Jazz Club,4.5,96,$$ - $$$
+2518,Turning Point,4,136,$$ - $$$
+2519,Macondo,4,82,$$ - $$$
+2520,Live Bait,4,122,$$ - $$$
+2521,The Boat Basin Cafe,4,189,$$ - $$$
+2522,Tanaka Sushi,4.5,56,$$ - $$$
+2523,Terrace 5,4,107,$$ - $$$
+2524,Delis 48,4,64,$
+2525,The Coffee Shop,3.5,274,$$ - $$$
+2526,Sapori DItalia,4.5,43,$$ - $$$
+2527,Pil Pil Spanish Tapas Wine Bar,4.5,42,$$ - $$$
+2528,Ageha Sushi Restaurant,4,76,$$ - $$$
+2529,Asia De Cuba,4,84,$$$$
+2530,Cheeky Sandwiches,4.5,36,$
+2531,Cipriani Dolci,4,144,$$ - $$$
+2532,Bagel Talk,4,94,$
+2533,Kilo,4.5,70,$$ - $$$
+2534,Pier i Cafe,4,61,$$ - $$$
+2535,Han Dynasty,4,110,$$ - $$$
+2536,Boqueria Tapas Bar,4,81,$$ - $$$
+2537,Houston Hall,4,82,$$ - $$$
+2538,Rai Rai Ken,4,65,$
+2539,Kirsh Bakery and Kitchen,4.5,46,$$ - $$$
+2540,A La Turka,4,87,$$ - $$$
+2541,Society Cafe,4.5,33,$$ - $$$
+2542,Pick A Bagel,4,78,$
+2543,Kajitsu,4,126,$$$$
+2544,Le Gamin,4.5,40,$$ - $$$
+2545,Panca,4,102,$$ - $$$
+2546,Crescent Grill,4.5,201,$$ - $$$
+2547,Ihop,4,135,$
+2548,V & T Pizzeria,4,128,$$ - $$$
+2549,V Spot,4.5,36,$$ - $$$
+2550,Raaz,4,88,
+2551,Bedouin Tent,4,60,
+2552,Chick- Fil-A,4,68,
+2553,Tasty Hand-Pulled Noodles II,4.5,38,
+2554,Ardesia Wine Bar,4.5,44,
+2555,Osamil,4.5,37,
+2556,Fine & Schapiro,4,70,
+2557,Pig n Whistle on 2nd,4,75,
+2558,Little Branch,4,86,
+2559,Saravanaa Bhavan,4,240,
+2560,Shun Lee Palace,3.5,358,
+2561,Carpe Diem Pub & Restaurant,4.5,41,
+2562,The Wren,4.5,58,
+2563,Ramen Thukpa,4.5,45,
+2564,Firenze Ristorante,4,79,
+2565,Totto Ramen,4,60,
+2566,Crave Fishbar Upper West,4,73,
+2567,Sfilatino Italian Gourmet,4.5,55,
+2568,Agora Turkish Restaurant,4.5,47,
+2569,Arbys,4,66,
+2570,Quality Eats,4.5,73,
+2571,Xixa,4.5,37,
+2572,Rock & Reillys,4,119,
+2573,Giovanni Venti Cinque Restaurant,4,132,
+2574,Pret A Manger,4.5,59,
+2575,Calexico,4.5,62,
+2576,Intermezzo,4,134,
+2577,Shabu-Tatsu Downtown,4.5,71,
+2578,Inside Park at St Barts,4,214,
+2579,Percys Pizza,4.5,35,
+2580,Caffe e Vino,4.5,103,$$ - $$$
+2581,LAtelier de Joel Robuchon,4.5,42,$$$$
+2582,Maritime Parc,4,99,$$$$
+2583,thai son,4,148,$
+2584,Sandros,4.5,86,$$$$
+2585,Gotan,4.5,45,$$ - $$$
+2586,Cilantro,4,84,$$ - $$$
+2587,Bierhaus NYC,3.5,227,$$ - $$$
+2588,Acqua,4,86,$$ - $$$
+2589,Genes Restaurant,4,95,$$ - $$$
+2590,Restivo Ristorante,4,75,$$ - $$$
+2591,Long Hall,4.5,51,$$ - $$$
+2592,Famous Original Rays Pizza,4,143,$
+2593,Valbella Midtown,4.5,54,$$$$
+2594,Rintintin,4,85,$$ - $$$
+2595,The Growler,4,65,$$ - $$$
+2596,Da Nonna Rosa Cucina Italiana,4.5,45,$$ - $$$
+2597,Tum & Yum,4.5,39,$
+2598,Cabana,4,104,$$ - $$$
+2599,Dear Irving,4.5,66,$$ - $$$
+2600,Senn Thai Comfort Food,4.5,38,$$ - $$$
+2601,Baby Bos Cantina,4.5,63,$$ - $$$
+2602,Rasa,4,78,$$ - $$$
+2603,The Writing Room,4,119,$$ - $$$
+2604,Aahar Indian Cuisine,4.5,33,$$ - $$$
+2605,Peter Dillons,4.5,39,$
+2606,Petes Grill,4.5,230,$$ - $$$
+2607,Brooklyn Bagel & Coffee Co,4.5,100,$
+2608,American Art Cafe,3.5,249,$$ - $$$
+2609,Porchetta,4.5,74,$
+2610,Sushiden Madison Ave,4,69,$$$$
+2611,Brooklyn Star,4.5,63,$$ - $$$
+2612,Joanne,3.5,284,$$ - $$$
+2613,Bareburger,4,78,$$ - $$$
+2614,Angelos on 55th Street,4,92,$$ - $$$
+2615,Jolie Cantina,4.5,46,$$ - $$$
+2616,Rumi Turkish Grill,4,80,$$ - $$$
+2617,Pera Soho,4,169,$$ - $$$
+2618,Mr Purple at the Hotel Indigo,4,148,$$ - $$$
+2619,Yefsi Estiatorio,4,121,$$ - $$$
+2620,Justinos Pizzeria,4.5,49,$
+2621,Krupa Grocery,5,53,$$ - $$$
+2622,Brodys Bagels,4.5,29,$
+2623,Shalom Japan,4.5,66,$$ - $$$
+2624,Sombrero Mexican,3.5,468,$$ - $$$
+2625,Kings Carriage House,4.5,72,$$ - $$$
+2626,Teleon Cafe,4.5,57,$
+2627,GiGi Cafe,4,74,$
+2628,Massawa,4.5,41,$$ - $$$
+2629,Barbaresco,4,123,$$ - $$$
+2630,Sant Andrea Cafe,4,77,$$ - $$$
+2631,Double Zero,4.5,31,$$ - $$$
+2632,Marumi,4.5,70,$$ - $$$
+2633,Natsumi Tapas,4.5,44,$$ - $$$
+2634,Anchor Wine Bar,4.5,36,$$ - $$$
+2635,Bouley at Home,4.5,28,$$$$
+2636,Shimizu Sushi Restaurant,4,84,$$ - $$$
+2637,Gigi Cafe,4.5,54,$
+2638,Due Restaurant,4.5,78,$$ - $$$
+2639,Subway,4,201,$
+2640,Moo Burger,4.5,52,$$ - $$$
+2641,Del Friscos Grille,4,89,$$ - $$$
+2642,Badshah,4.5,31,$$ - $$$
+2643,Wallflower,4.5,49,$$ - $$$
+2644,Black Burger,4.5,65,$
+2645,Gossip Bar & Restaurant,4,125,$$ - $$$
+2646,Bar Bolonat,4.5,60,$$ - $$$
+2647,Broadway Deli and Cafe,4,82,$
+2648,Katsu-Hama,4,73,$$ - $$$
+2649,Times Square Deli,4.5,46,$
+2650,China Blue,4,65,$$ - $$$
+2651,The Penrose,4,88,$$ - $$$
+2652,Gaetanas,4.5,84,$$ - $$$
+2653,Arthurs Tavern,4,179,$$ - $$$
+2654,Piccolo Cafe,4,161,$$ - $$$
+2655,By Suzette,4.5,37,$
+2656,Angkor Cambodian Bistro,4.5,38,$$ - $$$
+2657,AOA Bar and Grill,3.5,256,$$ - $$$
+2658,Edwards,4,105,$$ - $$$
+2659,Harlem Public,4,74,$$ - $$$
+2660,Vinnys of Carroll Gardens,4.5,49,$$ - $$$
+2661,Socarrat Paella Bar,4,131,$$ - $$$
+2662,The Press Box,4,77,$$ - $$$
+2663,Friedmans,4.5,54,$$ - $$$
+2664,Hasaki,4.5,70,$$ - $$$
+2665,Noreetuh,4,51,$$ - $$$
+2666,Bozu,4,64,$$ - $$$
+2667,Cafe Amrita,4.5,60,$
+2668,Cafe S.F.A.,4,98,$$ - $$$
+2669,Pret A Manger,4.5,40,$
+2670,Cafe El Presidente,4,67,$$ - $$$
+2671,Emily - West Village,4.5,51,$$ - $$$
+2672,Pho Bang Restaurant,4,68,$
+2673,Sbarro,3.5,273,$
+2674,Takahachi,4,55,$$ - $$$
+2675,Faros,4.5,41,$$ - $$$
+2676,Majorelle,4.5,45,$$$$
+2677,Dutch Kills Centraal,4,526,$$ - $$$
+2678,Asura Asian Bistro,4,72,$$ - $$$
+2679,Nam Son Vietnamese Restaurant,4,95,$
+2680,The Flying Cock,4.5,37,$$ - $$$
+2681,Vitos Deli,4.5,40,$
+2682,Torishin,4.5,29,$$$$
+2683,Bens Pizza,4,99,$
+2684,Papatzul,4,79,$$ - $$$
+2685,The Coliseum,4,102,$$ - $$$
+2686,Darbar Grill,4,119,$$ - $$$
+2687,Manolo Tapas,4.5,35,$$ - $$$
+2688,Sun In Bloom,4.5,49,$$ - $$$
+2689,Buffalo Wild Wings,3.5,419,$$ - $$$
+2690,La Fonda del Sol,4,148,$$ - $$$
+2691,HanaMichi,4,69,$$ - $$$
+2692,Ayurveda Cafe,4.5,61,$
+2693,Zum Schneider Restaurant & Biergarten,4,121,$$ - $$$
+2694,Virage Restaurant,4,74,$$ - $$$
+2695,The Brazen Tavern,4.5,51,$$ - $$$
+2696,Bagatelle,4.5,480,$$$$
+2697,Bottino,4,129,$$ - $$$
+2698,Txikito,4,129,$$ - $$$
+2699,Nusr-Et,4,106,$$$$
+2700,Champion Pizza SoHo,4.5,59,
+2701,Papadam,4.5,45,
+2702,Spiegel,4.5,56,
+2703,Porsena,4,90,
+2704,Montebello,4,113,
+2705,Hollywood Diner,4,109,
+2706,Gran Morsi,4,65,
+2707,The Gastro Bar at 35th,4,116,
+2708,Citarella,4.5,41,
+2709,Mei Jin Ramen,4.5,42,
+2710,Num Pang Sandwich Shop,4,63,
+2711,Joes Pizza,4.5,33,
+2712,Gallitos Kitchen,4.5,34,
+2713,Londels Supper Club,4.5,74,
+2714,Nare Sushi,4.5,33,
+2715,Momo Sushi Shack,4.5,89,
+2716,noodle village,4,90,
+2717,Lukes Lobster Times Square,4,92,
+2718,Il Pesce,4.5,73,
+2719,Pig Bleecker,4.5,38,
+2720,Cognac East,4,95,
+2721,Meskerem Ethiopian Cuisine,4,79,
+2722,Peppinos Brick Oven Pizza & Restaurant,4.5,47,
+2723,Beaubourg,3.5,189,
+2724,The Ten Bells,4.5,54,
+2725,Vago Restaurant,4.5,30,
+2726,BurgerFi,4,53,
+2727,Fusha Asian Cuisine,4,58,
+2728,Gourmet Garage,4.5,49,
+2729,Tiffin Wallah,4,93,
+2730,Gyro II,4.5,84,$
+2731,Sushi Roxx,4.5,62,$$ - $$$
+2732,Le Pif Wine Bars,4.5,38,$$ - $$$
+2733,Riposo 46,4.5,44,$$ - $$$
+2734,Michaels,4,114,$$$$
+2735,by CHLOE.,4.5,30,$$ - $$$
+2736,Piada,4.5,61,$$ - $$$
+2737,The Petrie Court Cafe,3.5,313,$$ - $$$
+2738,Koronet Pizzeria,4,75,$
+2739,Grotta Azzurra Restaurant,3.5,720,$$ - $$$
+2740,Men Kui Tei,4,61,$
+2741,Previti Pizza,4.5,68,$
+2742,Fresh Salt,4,81,$$ - $$$
+2743,Sbarro,3.5,241,$
+2744,Hudson Malone,4.5,67,$$ - $$$
+2745,Als Delicatessen,4,65,$
+2746,Sushi Ann,4,118,$$$$
+2747,Frankies Spuntino 570,4,145,$$ - $$$
+2748,The Bistro at Grove Square,4,101,$$ - $$$
+2749,Piora,4.5,59,$$$$
+2750,Parm,4,126,$$ - $$$
+2751,Nancy Whiskey Pub,4,75,$
+2752,Philippe,4,213,$$$$
+2753,Dorlans Tavern & Oyster Bar,4,69,$$ - $$$
+2754,Chelsea Ristorante,4,127,$$ - $$$
+2755,Inatteso Cafe,4.5,58,$
+2756,Antica Ristorante,4,175,$$ - $$$
+2757,Andanada,4,176,$$ - $$$
+2758,Cafe Henri,4,104,$$ - $$$
+2759,Isola Trattoria & Cruda Bar,4,132,$$$$
+2760,Dimes,4,57,$$ - $$$
+2761,Shakespeare,4,95,$$ - $$$
+2762,Taksim,4,64,$$ - $$$
+2763,New Wave Cafe,4,80,$
+2764,Pies-N-Thighs,4.5,46,$
+2765,Sushi Katsuei,4.5,41,$$ - $$$
+2766,Cassidys Pub & Restaurant,4,122,$$ - $$$
+2767,Black Forest Brooklyn,4,69,$$ - $$$
+2768,Hooters,3.5,483,$$ - $$$
+2769,Ambrose Beer & Lobster,4,101,$$ - $$$
+2770,Murals on 54 Restaurant,4,135,$$ - $$$
+2771,Ivan Ramen Slurp Shop,4,146,$$ - $$$
+2772,Avena,4.5,41,$$$$
+2773,Vanguard Wine Bar,4.5,33,$$ - $$$
+2774,The Hog Pit,4,81,$$ - $$$
+2775,Tertulia,4,175,$$ - $$$
+2776,Chef Yu,3.5,257,$$ - $$$
+2777,Jimmys Diner,4,93,$
+2778,Two E Bar & Lounge,4,107,$$$$
+2779,Mint Masala,4.5,50,$$ - $$$
+2780,Tartinery Plaza Hotel Food Hall NYC,4.5,46,$$ - $$$
+2781,Rowlands Bar & Grill,4,98,$$ - $$$
+2782,Gazala Place,4,117,$$ - $$$
+2783,99 Cent Express Pizza,4,73,$
+2784,Pax Wholesome Foods,4,73,$
+2785,Francesco,4,62,$
+2786,Timmys,4,75,$$ - $$$
+2787,El Toro Blanco,4,99,$$ - $$$
+2788,Cibo e Vino,4,107,$$ - $$$
+2789,Allora Ristorante,4,75,$$ - $$$
+2790,Parigot,4,156,$$ - $$$
+2791,Sushi Seki Times Square,4.5,50,$$ - $$$
+2792,Der Krung Thai Cuisine,4.5,56,$$ - $$$
+2793,Blockheads Burritos,4.5,44,$
+2794,SUGARCANE raw bar grill,4.5,52,$$$$
+2795,Battery Gardens,3.5,267,$$ - $$$
+2796,Five Guys,4.5,43,$
+2797,Cafe Evergreen,4.5,55,$$ - $$$
+2798,Au Bon Pain,4,57,$
+2799,Noi Due,4,77,$$ - $$$
+2800,Inti,4.5,52,$$ - $$$
+2801,Red Lion,4,136,$$ - $$$
+2802,Sagaponack Bar & Grill,4.5,80,$$ - $$$
+2803,Professor Thoms,4.5,32,$
+2804,The Penny Farthing,4,68,$$ - $$$
+2805,The Flying Puck,4,176,$$ - $$$
+2806,Blockheads Burritos,4,65,$
+2807,Nick & Stefs Steakhouse,4,198,$$$$
+2808,Wei West,4,66,$$ - $$$
+2809,Bowery Road,4.5,34,$$ - $$$
+2810,New Leaf Restaurant & Bar,4,261,$$ - $$$
+2811,Cantina Taqueria & Tequila Bar,4.5,37,$$ - $$$
+2812,Felix Cafe,3.5,343,$$ - $$$
+2813,Chipotle Mexican Grill,4,106,$
+2814,Church Lounge @ Tribeca Grand Hotel,4.5,53,$$ - $$$
+2815,Le Charlot,4,150,$$ - $$$
+2816,Vin Sur Vingt,4,74,$$ - $$$
+2817,La Palapa,4,129,$$ - $$$
+2818,The Four Horsemen,5,25,$$ - $$$
+2819,El Mitote,4,76,$$ - $$$
+2820,KazuNori,4.5,35,
+2821,Pastai,4.5,51,
+2822,Deninos Greenwich Village,4.5,42,
+2823,Patsys Pizzeria,4,73,
+2824,Glasserie,4,76,
+2825,Serafina Osteria,4,120,
+2826,Ithaka,4.5,63,
+2827,Wafels & Dinges,4.5,32,
+2828,Off the Wagon,4,67,
+2829,Sugarburg,4.5,28,
+2830,Death Ave,4,78,
+2831,Kyochon,4,107,
+2832,La Isla Uptown,4.5,41,
+2833,Extra Fancy,4.5,35,
+2834,Yves,4.5,27,
+2835,Wa Jeal Sicuan Chili House,4.5,72,
+2836,Aux Epices,4.5,45,
+2837,Atrio Wine Bar & Restaurant,4,144,
+2838,Paowalla,4,88,
+2839,Gunter Seeger NY,4.5,48,
+2840,Chuko,4.5,49,
+2841,Chefs Table at Brooklyn Fare,4.5,45,
+2842,Chimu,4.5,61,
+2843,Daisy Mays BBQ USA,4,282,
+2844,Anthony Davids Gourmet,4,117,
+2845,Tuk Tuk,4.5,103,
+2846,Osteria Cotta,4,124,
+2847,Dukes,3.5,179,
+2848,Barclay Bar & Grill,4,97,
+2849,Anejo Tribeca,4,116,
+2850,Claudio Pizzeria,4,51,$
+2851,Yopparai Sake Bar & Restaurant,4.5,33,$$ - $$$
+2852,Big Wong King,4,222,$
+2853,Da Tommaso,3.5,266,$$ - $$$
+2854,Aska,4.5,25,$$$$
+2855,The Cellar,4.5,40,$$ - $$$
+2856,Blue Ribbon Brasserie Brooklyn,4,91,$$ - $$$
+2857,Kiin Thai Eatery,4.5,36,$$ - $$$
+2858,Daniels Bagels,4,86,$
+2859,Harrys Italian,4,117,$$ - $$$
+2860,Arlington Club,4,159,$$$$
+2861,Umami Burger,4,76,$$ - $$$
+2862,The Loopy Doopy Rooftop Bar,4,117,$$ - $$$
+2863,Madame Claude Bis,4,94,$$ - $$$
+2864,Cyclo,4.5,54,$
+2865,Saiguette,4.5,41,$
+2866,The Kati Roll Company,4,48,$
+2867,Dive Bar Restaurant,4,62,$
+2868,Tarallucci E Vino- East Village,4.5,44,$$ - $$$
+2869,Saigon Market,4,95,$$ - $$$
+2870,olivier bistro,4.5,39,$$ - $$$
+2871,Brooklyn Brewhouse,4,116,$$ - $$$
+2872,Dorrians Red Hand,4,108,$$ - $$$
+2873,Haru Sushi,4,122,$$ - $$$
+2874,Convivium Osteria,4,125,$$ - $$$
+2875,Sammys Noodle Shop,4,97,$
+2876,Bens Pizzeria,4.5,56,$
+2877,Pronto Pizza,3.5,151,$
+2878,Brazen Fox Kitchen & Craft Beer,4,54,$$ - $$$
+2879,Olympic Flame Diner,4,63,$$ - $$$
+2880,Reade Street Pub & Kitchen,4.5,50,$
+2881,Katsuhama,4,108,$$ - $$$
+2882,Leos Grandevous,4,79,$$ - $$$
+2883,Soba Noodle Azuma,4.5,32,$$ - $$$
+2884,Anella,4,59,$$ - $$$
+2885,Babu Ji,4,91,$$ - $$$
+2886,The Empire Lobby Bar,4,125,$$ - $$$
+2887,TY Bar - Four Seasons New York,4,90,$$$$
+2888,La Esquina,4.5,32,$
+2889,ROSSOPOMODORO West Village,4,69,$$ - $$$
+2890,plunge Rooftop Bar & Lounge at Hotel Gansevoort,3.5,284,$$ - $$$
+2891,Rumours Pub,4,63,$$ - $$$
+2892,Chop Shop II,4.5,33,$$ - $$$
+2893,Yum Yum 3,4,83,$
+2894,Cafe Altro Paradiso,4,61,$$ - $$$
+2895,Soleluna,4.5,66,$$ - $$$
+2896,Infirmary NYC,4.5,45,$$ - $$$
+2897,Don Giovanni,4,178,$$ - $$$
+2898,Company,4,130,$$ - $$$
+2899,Le Cheile,4.5,43,$$ - $$$
+2900,SOUTHGATE Bar & Restaurant,4,176,$$$$
+2901,Mexico Lindo Restaurant,4,60,$$ - $$$
+2902,Delaware and Hudson,4,74,$$$$
+2903,The Hamilton Inn,4,84,$$ - $$$
+2904,Zebu Grill,4.5,63,$$ - $$$
+2905,Cafe Mocha,4.5,47,$$ - $$$
+2906,Nialls on 52nd,4,75,$$ - $$$
+2907,The Halal Guys,4,56,$
+2908,Alidoro,4.5,38,$
+2909,Gentleman Farmer,4.5,44,$$ - $$$
+2910,Polpette,4.5,54,
+2911,Chipotle Mexican Grill,4.5,54,
+2912,Chez Jacqueline,4,156,
+2913,Tryon Public House Gastropub,4,42,
+2914,Dan and Johns Wings,5,21,
+2915,Majestic Delicatessen,3.5,490,
+2916,St. George Tavern,4,113,
+2917,Village Yokocho,4,67,
+2918,Hardings,4,67,
+2919,Cheese Grille,4.5,39,
+2920,Erminia Italian Restaurant,4,95,
+2921,Sigiri,4,58,
+2922,Yuba Restaurant,4.5,38,
+2923,Sunnys Bar,5,25,
+2924,Spinellis Pizzeria,4,54,
+2925,Caravan of Dreams,4,90,
+2926,Empellon Cocina,4,87,
+2927,Cafe Bravo,4,148,
+2928,Lokal 83,4,41,
+2929,Tacombi - Flatiron,4.5,27,
+2930,Food Court,4,76,
+2931,Dig Inn,4.5,41,
+2932,Burger Heaven,4,117,
+2933,Tanoshi Sushi Sake Bar,4.5,62,
+2934,Mission Chinese Food,4,173,
+2935,W Cafe,4,152,
+2936,Sorbillo,4.5,34,
+2937,Il Riccio,4,67,
+2938,Puff Cha,4.5,31,
+2939,Kafana,4,94,
+2940,Le Pain Quotidien,4,86,$$ - $$$
+2941,Sbarro,3.5,159,$
+2942,Forget Me Not,4.5,35,$$ - $$$
+2943,Oriental Garden Restaurant,4,175,$$ - $$$
+2944,5 Napkin Burger,4,93,$$ - $$$
+2945,Paname,4.5,64,$$ - $$$
+2946,O Ya,4.5,58,$$$$
+2947,The Kitchen Step,4,47,$$ - $$$
+2948,Porta,4,106,$$ - $$$
+2949,Park Plaza Restaurant,4,65,$$ - $$$
+2950,Charleys,4,67,$
+2951,Peri Ela,4,63,$$ - $$$
+2952,Miti Miti Taperia,4.5,46,$$ - $$$
+2953,Pret A Manger,4.5,43,$
+2954,Poco,4,66,$$ - $$$
+2955,The Roger Parlour Lounge,4.5,33,$$ - $$$
+2956,Pondicheri,4,64,$$ - $$$
+2957,La Bella Vita,3.5,534,$$ - $$$
+2958,Dill & Parsley,5,23,$
+2959,Killarney Rose,4,45,$$ - $$$
+2960,Caffe Dei Fiori,4.5,46,$$$$
+2961,Caffe Buon Gusto,4.5,67,$$ - $$$
+2962,Fifty,4.5,32,$$ - $$$
+2963,TUE THAI FOOD,4,67,$
+2964,Lounge Sheraton Tribeca,4.5,50,$$ - $$$
+2965,The Eddy,4.5,52,$$ - $$$
+2966,Mad for Chicken,4.5,49,$$ - $$$
+2967,Ottos Tacos,4.5,30,$
+2968,Coarse,5,24,$$ - $$$
+2969,August,4,193,$$ - $$$
+2970,The Empire Hotel Rooftop,3.5,312,
+2971,Chinese Tuxedo NYC,4,57,
+2972,Land of Plenty,4,88,
+2973,Crema Restaurante,4,84,
+2974,Satay Malaysian Cuisine,4,75,
+2975,Wok to Walk,4,66,
+2976,Bar Masa,4,73,
+2977,La Bellezza,4.5,40,
+2978,Cafe Angelique,4,82,
+2979,The Vieux Restaurante & Lounge en El Hotel Marriot Marquise,4,107,
+2980,Sunrise Mart,4,43,
+2981,Omen Azen,4,89,
+2982,Barking Dog Luncheonette,4,102,
+2983,IHOP,4.5,34,
+2984,Pizza by Cer te,4.5,34,
+2985,Peaches Hot House,4.5,58,
+2986,ESSEN Fast Slow Food,4,59,
+2987,Mole Mexican Bar & Grill,4,56,
+2988,Green Fig,4,69,
+2989,Threes Brewing,4,69,
+2990,Dino and Harrys,4,112,
+2991,Bohemian Spirit Restaurant,4.5,37,
+2992,Mile End Sandwich Shop,4,58,
+2993,Bottega Restaurant,4,85,
+2994,Three of Cups,4,63,
+2995,Rose Water,4,103,
+2996,Avocaderia,4.5,45,
+2997,The dead poet,4.5,42,
+2998,Johns of Times Square,4,82,
+2999,Felice Wine Bar,4,61,
+3000,El Quinto Pino,4,78,$$ - $$$
+3001,Benares,4,101,$$ - $$$
+3002,Dohyo,4,91,$$ - $$$
+3003,H K Wonton Garden,4,108,$
+3004,The Roof at Park South,4,60,$$ - $$$
+3005,Mee Noodle Shop Hells Kitchen,4,111,$
+3006,Maoz,4.5,41,$
+3007,Saigon Cafe,4.5,41,$$ - $$$
+3008,Mamouns Falafel,4,65,$
+3009,Patriot Saloon,4.5,34,$
+3010,Two Boots,4,65,$
+3011,Grunauer Bistro,4,51,$$ - $$$
+3012,Il Porto,4.5,39,$$ - $$$
+3013,Pocket Bar NYC,5,23,$$ - $$$
+3014,Kubeh,5,19,$$ - $$$
+3015,Gracie Mews Restaurant Corporation,4,70,$$ - $$$
+3016,Eagle Trading Co,4.5,27,$
+3017,The Roosevelt Grill,3.5,242,$$ - $$$
+3018,Spritzenhaus,4.5,50,$$ - $$$
+3019,Woodrows,4,58,$$ - $$$
+3020,Siri Thai,4.5,50,$$ - $$$
+3021,Patiala Indian Grill,4.5,46,$
+3022,Boccone Mediterranean Tapas & Bar,4.5,39,$$ - $$$
+3023,Mugs Ale House,4,45,$$ - $$$
+3024,Sip Sak,4,138,$$ - $$$
+3025,Empellon,4,89,$$ - $$$
+3026,Anna Maria Pizza & Pasta,4.5,41,$
+3027,Agra Authentic Indian Cuisine,4,74,$$ - $$$
+3028,La Cigogne,4.5,34,$$ - $$$
+3029,Swagat Indian Cuisine,4,101,$$ - $$$
