@@ -1,0 +1,31 @@
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+yelp_data = pd.read_csv('yelp.csv')
+trip_data = pd.read_csv('tripadvisor_v2.csv')
+
+combined_data = pd.merge(yelp_data, trip_data,  how='inner', left_on=['title'], right_on = ['title'])
+combined_data = combined_data.dropna()
+old_columns = combined_data.columns.values
+old_columns[0] = 'rank_x'
+old_columns[5] = 'rank_y'
+combined_data.columns=old_columns
+
+combined_data['rating_diff'] = combined_data['rating_x']-combined_data['rating_y']
+combined_data['rank_diff'] = combined_data['rank_x']-combined_data['rank_y']
+combined_data['review_diff'] = combined_data['review_num_x']-combined_data['review_num_y']
+combined_data['review_diff_perc'] = combined_data['review_diff']/combined_data['review_num_y']
+
+## Figure 1
+agg_loc=combined_data.groupby('locations').mean()
+agg_loc.sort_values(by=['review_diff_perc'],inplace=True,ascending=False)
+plt.figure(figsize=(10,5))
+agg_loc['review_diff_perc'].plot.bar()
+
+## Figure 2
+plt.figure(figsize=(10,5))
+plt.scatter(agg_loc['review_num_x'],agg_loc['rating_diff'])
+
+
